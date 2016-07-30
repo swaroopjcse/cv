@@ -1,0 +1,79 @@
+\documentclass[11pt,a4paper]{moderncv}
+
+%% ModernCV themes
+\moderncvstyle{fancy}
+% \moderncvstyle{casual}
+% \moderncvstyle{classic}
+\moderncvcolor{blue}
+\renewcommand{\familydefault}{\sfdefault}
+\nopagenumbers{}
+
+%% Character encoding
+\usepackage[utf8]{inputenc}
+
+%% Adjust the page margins
+\usepackage[scale=0.75]{geometry}
+\usepackage{fontspec}
+
+%% Personal data
+\firstname{Swaroop}
+\familyname{Joshi}
+% \title{Resumé title (optional)}
+\address{395 Dreese Labs, 2015 Neil Ave}{Columbus OH 43210}
+\mobile{+1~(917)~833~8905}
+% \phone{+2~(345)~678~901}
+% \fax{+3~(456)~789~012}
+\email{joshi.127@osu.edu}
+\homepage{go.osu.edu/swaroop}
+\extrainfo{Version:}
+% \photo[64pt][0.4pt]{picture}
+\quote{Researcher, Developer, Educator}
+\social[linkedin]{swaroop84}
+\social[github]{swaroopjcse}
+
+
+%%------------------------------------------------------------------------------
+%% My macros
+\newcommand{\osu}{The Ohio State University}
+\newcommand{\iitb}{Indian Institute of Technology Bombay}
+\newcommand{\iitbs}{IIT Bombay}
+\newcommand{\nitk}{National Institute of Technology Karnataka}
+\newcommand{\nitks}{NITK}
+\newcommand{\cse}{Computer Science \& Engineering}
+\newcommand{\gra}{Graduate Research Associate}
+\newcommand{\gta}{Graduate Teaching Associate}
+%%------------------------------------------------------------------------------
+
+\immediate\write18{sh ./vc}
+\input{vc}
+%%------------------------------------------------------------------------------
+%% Content
+%%------------------------------------------------------------------------------
+\begin{document}
+\makecvtitle
+
+\section{Education}
+\cventry{2011---}{Ph.D.}{\osu}{Columbus OH}{}{\cse}  % arguments 3 to 6 can be left empty
+% \cvitem{title}{ \emph{Title} }
+% \cvitemwithcomment{Language 1}{Skill level}{Comment}
+% \cvdoubleitem{category X}{XXX, YYY, ZZZ}{category Y}{XXX, YYY, ZZZ}
+% \cvlistitem{Item 1}
+% \cvlistdoubleitem{Item 2}{Item 3}
+%% ...
+\cventry{2016}{Master of Science}{\osu}{Columbus OH}{}{\cse}
+\cventry{2010}{Master of Technology}{\iitb}{Mumbai India}{}{\cse}
+\cventry{2005}{Bachelor of Engineering}{\nitk}{Surathkal India}{}{Comupter Engineering}
+
+\section{Experience}
+% \label{sec:Experience}
+\cventry{2014---}{\gra}{\osu}{}{}{\cse}
+\cventry{2012--14}{\gta}{\osu}{}{}{\cse}
+\cventry{2011--12}{\gra}{\osu}{}{}{\cse}
+\cventry{2010--11}{Senior Project Engineer}{\iitbs}{}{}{GCC Resource Center}
+\cventry{2005--06}{Software Engineer}{SoftJin Technologies}{Bangalore India}{}{}
+
+%%------------------------------------------------------------------------------
+\nocite{*}
+\bibliographystyle{plain}
+\bibliography{mypub}
+\end{document}
