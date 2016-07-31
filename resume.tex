@@ -8,7 +8,29 @@
 \renewcommand{\familydefault}{\sfdefault}
 % \nopagenumbers{}
 
+%%------------------------------------------------------------------------------
+\usepackage[sorting=ydnt, backend=biber, style=numeric, giveninits=true]{biblatex}
 
+\defbibenvironment{bibliography}
+  {\list
+     {\printtext[labelnumberwidth]{% label format from numeric.bbx
+        \printfield{prefixnumber}%
+        \printfield{labelnumber}}}
+     {\setlength{\topsep}{0pt}% layout parameters from moderncvstyleclassic.sty
+      \setlength{\labelwidth}{\hintscolumnwidth}%
+      \setlength{\labelsep}{\separatorcolumnwidth}%
+      \leftmargin\labelwidth%
+      \advance\leftmargin\labelsep}%
+      \sloppy\clubpenalty4000\widowpenalty4000}
+  {\endlist}
+  {\item}
+
+\addbibresource{mypub.bib}
+% \defbibnote{conf}{{\Large Conference Proceedings}}
+% \defbibnote{other}{{\Large Other publications}}
+%%------------------------------------------------------------------------------
+
+\usepackage{academicons}
 \usepackage{fontawesome}
 %%------------------------------------------------------------------------------
 \renewcommand*{\mobilephonesymbol}    {\faicon{phone}~}
@@ -41,7 +63,7 @@
 \email{joshi.127@osu.edu}
 \homepage{go.osu.edu/swaroop}
 \mobile{+1~(917)~833~8905}
-\extrainfo{Updated: \VCDateRAW}
+% \extrainfo{Updated: \VCDateRAW}
 % \photo[64pt][0.4pt]{picture}
 % \quote{Researcher, Developer, Educator}
 \social[linkedin]{swaroop84}
@@ -49,6 +71,19 @@
 
 
 %%------------------------------------------------------------------------------
+
+\usepackage{fancyhdr}
+\usepackage{lastpage}
+\fancyfoot[L]{\VCAuthor}
+\fancyfoot[R]{\footnotesize Page \thepage\ of \pageref{LastPage}}
+\fancypagestyle{firststyle}
+{
+   \fancyhf{}
+   \fancyfoot[L]{\footnotesize Updated: \VCDateRAW~(\VCRevision)}
+   \fancyfoot[R]{\footnotesize Page \thepage\ of \pageref{LastPage}}
+}
+%%------------------------------------------------------------------------------
+
 %% My macros
 \newcommand{\con}{CONSIDER}
 \newcommand{\confull}{CONflicting Student Ideas Discussed, Evaluated and Resolved}
@@ -71,7 +106,7 @@
 %%------------------------------------------------------------------------------
 \begin{document}
 \makecvtitle
-
+\thispagestyle{firststyle}
 \section{Education}
 \cventry{2011---}{Ph.D.}{\osu}{Columbus OH}{}{\cse}  % arguments 3 to 6 can be left empty
 % \cvitem{title}{ \emph{Title} }
@@ -108,17 +143,20 @@
 \cvitem{advisor}{Prof.\ Neelam Soundarajan, \cse, OSU}
 \cvitem{description}{\con\ is a novel, powerful approach for effective collaborative learning in college courses, particularly in computer science and other STEM disciplines. The design of the approach is informed by research in education psychology, and its key features are designed to overcome some known issues in other collaborative learning approaches. We have also developed a responsive web app based on this approach, using Google App Engine and Python 2.7, which is available as a free and open source software. We are using it in several undergrad/grad level CS courses for its evaluation and development.}
 \cvitem{\faicon{globe}}{\url{http://go.osu.edu/consider}}
+% \cvitem{\aiicon{orcid}}{\url{http://orcid.org/0000-0003-4536-2446}}
 %%------------------------------------------------------------------------------
 \renewcommand{\refname}{Some Relevant Publications}
 \nocite{*}
-\bibliographystyle{abbrv}
-\bibliography{mypub}
-
+% \bibliographystyle{habbrvyr}
+% \bibliography{mypub}
+\printbibliography[title=Conference Proceedings, type=inproceedings]
+% \printbibliography[prenote=Technical Reports, nottype=inproceedings, nottype=misc]
+\printbibliography[title=Other Publications, nottype=inproceedings]
 %%------------------------------------------------------------------------------
 \section{Skills}
-\cvitem{Languages}{Python, HTML, Javascript, C, C++, Java, R}
+\cvitem{Languages}{Python, HTML, Javascript, C, C++, C\#, Java, R}
 
-\cvitem{Softwares}{Pycharm IDE, Eclipse, Microsoft Visual Studio, Git, gcc}
+\cvitem{Softwares}{Pycharm IDE, Eclipse, Microsoft Visual Studio, git, gcc}
 %--------------------------
 
 \section{Honors}

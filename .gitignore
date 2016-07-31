@@ -53,3 +53,7 @@ Backup[ ]of[ ]*.numbers/
 
 ## VC generated tex file
 vc.tex
+
+# biblatex byproducts
+*.bcf
+*.xml

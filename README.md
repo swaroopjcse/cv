@@ -7,6 +7,9 @@ Building resumé using the `moderncv` package.
 - `gawk`
 - CTAN [`moderncv` package](http://www.ctan.org/pkg/moderncv)
 - CTAN [VC package](http://www.ctan.org/tex-archive/support/vc/) (optional)
+- FontAwesome and Academicons -- TeX packages, as well as fonts (install fonts via Font Book on Mac OS X)
+- [habbrvyr](http://www.math.cmu.edu/~gautam/sj/blog/20150324-bibtex-reverse.html) bib style for reverse chronological printing of my publications
+- `biblatex` support (See trick to handle linewidths [here](http://tex.stackexchange.com/questions/123805/creating-bibliographies-with-biblatex-and-moderncv#123809).)
 
 ## Quick Start
 
