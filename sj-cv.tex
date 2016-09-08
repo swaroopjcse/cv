@@ -25,7 +25,7 @@
   {\endlist}
   {\item}
 
-\addbibresource{mypub.bib}
+\addbibresource{/Users/swaroop/Documents/Professional/mypubs/mypub.bib}
 % \defbibnote{conf}{{\Large Conference Proceedings}}
 % \defbibnote{other}{{\Large Other publications}}
 %%------------------------------------------------------------------------------
@@ -33,13 +33,13 @@
 \usepackage{academicons}
 \usepackage{fontawesome}
 %%------------------------------------------------------------------------------
-\renewcommand*{\mobilephonesymbol}    {\faicon{phone}~}
-\renewcommand*{\emailsymbol}          {\faicon{envelope-o}~}
-\renewcommand*{\homepagesymbol}       {\faicon{globe}~}
-\renewcommand*{\linkedinsocialsymbol} {\faicon{linkedin}~}
-\renewcommand*{\addresssymbol}        {\faicon{home}~}
-\renewcommand*{\twittersocialsymbol}  {\faicon{twitter}~}
-\renewcommand*{\githubsocialsymbol}   {\faicon{github}~}
+\renewcommand*{\mobilephonesymbol}    {{\faPhone}~}
+\renewcommand*{\emailsymbol}          {{\faicon{envelope-o}~}}
+\renewcommand*{\homepagesymbol}       {{\faicon{globe}~}}
+\renewcommand*{\linkedinsocialsymbol} {{\faicon{linkedin}~}}
+\renewcommand*{\addresssymbol}        {{\faicon{home}~}}
+\renewcommand*{\twittersocialsymbol}  {{\faicon{twitter}~}}
+\renewcommand*{\githubsocialsymbol}   {{\faicon{github}~}}
 %%------------------------------------------------------------------------------
 \definecolor{color1}{RGB}{187,0,0}% OSU Scarlet
 \definecolor{color2}{RGB}{102,102,102}% OSU Gray
@@ -99,6 +99,7 @@
 \newcommand{\geogame}{\url{geogame.osu.edu}}
 \newcommand{\thesis}{\con: A Novel Approach to Conflict-Driven Collaborative-Learning}
 \newcommand{\gdfa}{Extending the Generic Data-Flow Analyzer (gdfa) in GCC}
+\newcommand{\ucat}{University Center for Advancement in Teaching}
 %%------------------------------------------------------------------------------
 
 \immediate\write18{sh ./vc}
@@ -138,6 +139,10 @@
 
 %%------------------------------------------------------------------------------
 \section{Teaching Experience}
+
+\cventry{Fall 2016}{Instructor}{Data Structures Using Java}{OSU}{}{}
+\cvitem{}{Teaching a sophomore level that is designed to introduce the general concepts of computer programming and programming languages by providing practical experience programming in the Java programming language. The topics focused are: Subroutines and modular programming, searching, basic data structures, introduction to sequential files.}
+
 \cventry{Spring \& Summer 2014}{Instructor}{Mobile App Development}{OSU}{}{}
 \cvitem{}{Taught a senior/graduate level project-based course on mobile app development for two semesters}
 \cvitem{}{Revised course content to suit newer versions of the Android operating system}
@@ -193,7 +198,7 @@
 \cventry{2010--2011}{Senior Project Engineer}{\grc, \iitbs}{}{}{}
 \cvitem{}{Adapted the Generic Data-Flow Analyzer in GCC 4.6, making it available as a plugin}
 
-\clearpage
+% \clearpage
 % \cvitem{\aiicon{orcid}}{\url{http://orcid.org/0000-0003-4536-2446}}
 %%------------------------------------------------------------------------------
 % \renewcommand{\refname}{Some Relevant Publications}
@@ -207,10 +212,15 @@
 % \cvitem{Softwares}{Pycharm IDE, Eclipse, Microsoft Visual Studio, git, gcc}
 %--------------------------
 
-\section{Awards and Honors}
-\cvitem{}{Best Student Paper Award---ASEE North Central Section (2016)}
-\cvitem{}{American Society for Engineering Education---Student Member}
+\section{Talks/Presentations}
+\cventry{Aug.\ 2016}{New TA Orientation Facilitator}{\ucat}{\osu}{}{Served as a facilitator for the session on `Teaching as a Grader' and as a panelist on the session for `International Teaching Associates'}
 
+\section{Awards and Honors}
+\cventry{}{Best Student Paper Award}{ASEE North Central Section}{2016}{}{}
+\cventry{}{Student Member}{American Society for Engineering Education}{}{}{}
+\cventry{}{Student Member}{Association for Computing Machinery}{}{}{}
+
+\clearpage
 %%------------------------------------------------------------------------------
 \section{Service Activities}
 \subsection{University}
