@@ -1,4 +1,4 @@
-# Resumé
+# CV
 
 Building resumé using the `moderncv` package.
 
