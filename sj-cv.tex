@@ -9,7 +9,8 @@
 % \nopagenumbers{}
 
 %%------------------------------------------------------------------------------
-\usepackage[sorting=ydnt, backend=biber, style=numeric, giveninits=true]{biblatex}
+\usepackage[sorting=ydnt, backend=biber, style=numeric, giveninits=true,
+maxbibnames=99]{biblatex}
 
 \defbibenvironment{bibliography}
   {\list
@@ -37,7 +38,7 @@
 \renewcommand*{\emailsymbol}          {{\faicon{envelope-o}~}}
 \renewcommand*{\homepagesymbol}       {{\faicon{globe}~}}
 \renewcommand*{\linkedinsocialsymbol} {{\faicon{linkedin}~}}
-\renewcommand*{\addresssymbol}        {{\faicon{home}~}}
+\renewcommand*{\addresssymbol}        {{\faicon{university}~}}
 \renewcommand*{\twittersocialsymbol}  {{\faicon{twitter}~}}
 \renewcommand*{\githubsocialsymbol}   {{\faicon{github}~}}
 %%------------------------------------------------------------------------------
@@ -57,12 +58,12 @@
 \familyname{Joshi}
 % \title{Resumé title (optional)}
 % \address{395 Dreese Labs, 2015 Neil Ave}{Columbus OH 43210}
-\address{661 Tuscarawas Ct}{Columbus OH 43210}
+\address{405 Caldwell Labs\\2024 Neil Ave\\}{Columbus OH 43210}
 % \phone{+2~(345)~678~901}
 % \fax{+3~(456)~789~012}
 \email{joshi.127@osu.edu}
 \homepage{go.osu.edu/swaroop}
-\mobile{+1~(917)~833~8905}
+% \mobile{+1~(917)~833~8905}
 % \extrainfo{Updated: \VCDateRAW}
 % \photo[64pt][0.4pt]{picture}
 % \quote{Researcher, Developer, Educator}
@@ -111,7 +112,7 @@
 \makecvtitle
 \thispagestyle{firststyle}
 \section{Education}
-\cventry{2011---}{Doctor of Philosophy}{\osu}{Columbus OH}{}{\cse}  % arguments 3 to 6 can be left empty
+\cventry{2017}{Doctor of Philosophy}{\osu}{Columbus OH}{}{\cse}  % arguments 3 to 6 can be left empty
 \cvitem{thesis}{\emph{\thesis}}
 % \cvitemwithcomment{Language 1}{Skill level}{Comment}
 % \cvdoubleitem{category X}{XXX, YYY, ZZZ}{category Y}{XXX, YYY, ZZZ}
@@ -121,16 +122,22 @@
 \cventry{2016}{Master of Science}{\osu}{Columbus OH}{}{\cse}
 \cventry{2010}{Master of Technology}{\iitb}{Mumbai India}{}{\cse}
 \cvitem{project}{\emph{\gdfa}}
-\cventry{2005}{Bachelor of Engineering}{\nitk}{India}{}{Comupter Engineering}
+\cventry{2005}{Bachelor of Engineering}{\nitk}{India}{}{Computer Engineering}
 
 \section{Professional Experience}
 % \label{sec:Experience}
-\cventry{2014---}{\gra}{\osu}{}{}{}
-\cventry{2012--14}{\gta}{\osu}{}{}{}
-\cventry{2011--12}{\gra}{\osu}{}{}{}
-\cventry{2010--11}{Senior Project Engineer}{\grc, \iitbs}{}{}{}
-\cventry{2008--10}{Teaching Assistant}{\iitbs}{}{}{}
-\cventry{2005--06}{Software Engineer}{SoftJin Technologies}{Bangalore India}{}{}
+\cventry{}{Senior Lecturer}{Dept.\ of Computer Sci.\ Eng.,\osu}{2017---}{}{}
+\cventry{}{\gta}{\osu}{2013--14, 2016}{}{}
+\cventry{}{\gra}{\osu}{2011--12, 2014--16}{}{}
+% \cvitemwithcomment{}{\gta, \osu}{2012--14, 2016---}
+% \cvitemwithcomment{}{\gra, \osu}{2011--12, 2014--16}
+% \cventry{2011--12}{\gra}{\osu}{}{}{}
+\cventry{}{Senior Project Engineer}{\grc, \iitbs}{2010--11}{}{}
+% \cvitemwithcomment{}{Senior Project Engineer, \grc, \iitbs} {2010--11}
+\cventry{}{Teaching Assistant}{\iitbs}{2008--10}{}{}
+% \cvitemwithcomment{}{Teaching Assistant, \iitbs}{2008--10}
+\cventry{}{Software Engineer}{SoftJin Technologies}{Bangalore India}{2005--06}{}
+% \cvitemwithcomment{}{Software Engineer, SoftJin Technologies, Bangalore India}{2005--06}
 
 %%------------------------------------------------------------------------------
 \section{Research/Teaching Interests}
@@ -139,9 +146,23 @@
 
 %%------------------------------------------------------------------------------
 \section{Teaching Experience}
+\cventry{Jan. 2017 -- }{Instructor}{Software I: Components}{OSU}{}{}
+\cvitem{}{Over the span of three semesters (Spring, Summer, and Fall 2017), I
+  have taught total of 7 sections of this pre-major course, with about 40
+  students each. This course focuses on Intellectual foundations of software
+  engineering; design-by-contract principles; mathematical modeling of software
+  functionality; component-based software from client perspective. }
+
+\cventry{Summer 2017}{Instructor}{Introduction to Computer Programming In
+  Java}{OSU}{}{}
+\cvitem{}{This course introduces students to computer programming and to problem solving techniques using computer programs; taken by CSE majors as well as non-majors.}
 
 \cventry{Fall 2016}{Instructor}{Data Structures Using Java}{OSU}{}{}
-\cvitem{}{Teaching a sophomore level that is designed to introduce the general concepts of computer programming and programming languages by providing practical experience programming in the Java programming language. The topics focused are: Subroutines and modular programming, searching, basic data structures, introduction to sequential files.}
+\cvitem{}{Teaching a sophomore level that is designed to introduce the general
+  concepts of computer programming and programming languages by providing
+  practical experience programming in the Java programming language. The topics
+  focused are: Subroutines and modular programming, searching, basic data
+  structures, introduction to sequential files.}
 
 \cventry{Spring \& Summer 2014}{Instructor}{Mobile App Development}{OSU}{}{}
 \cvitem{}{Taught a senior/graduate level project-based course on mobile app development for two semesters}
@@ -182,13 +203,71 @@
 \subsection{Ph.D.\ Thesis}
 \cvitem{title}{\emph{\thesis}}
 \cvitem{advisor}{Prof.\ Neelam Soundarajan, \cse, OSU}
-\cvitem{description}{\con\ is a novel, powerful approach for effective collaborative learning in college courses, particularly in computer science and other STEM disciplines. The design of the approach is informed by research in education psychology, and its key features are designed to overcome some known issues in other collaborative learning approaches. We have also developed a responsive web app based on this approach, using Google App Engine and Python 2.7, which is available as a free and open source software. We are using it in several undergrad/grad level CS courses for its evaluation and development.}
-\cvitem{\faicon{globe}}{\url{http://go.osu.edu/consider}}
+% \cvitem{description}{\con\ is a novel, powerful approach for effective
+% collaborative learning in college courses, particularly in computer science
+% and other STEM disciplines. The design of the approach is informed by research
+% in education psychology, and its key features are designed to overcome some
+% known issues in other collaborative learning approaches. We have also
+% developed a responsive web app based on this approach, using Google App Engine
+% and Python 2.7, which is available as a free and open source software. We are
+% using it in several undergrad/grad level CS courses for its evaluation and
+% development.}
+
+\cvitem{description}{Piaget's classic work on cognitive development showed that
+  engaging learners in critical discussions with peers about ideas that are
+  different than theirs leads to deep conceptual understanding. Implementing
+  such an approach in college level STEM (Science, Technology, Engineering,
+  Math) courses has some specific challenges: (a) Short meeting times and large
+  class sizes; (b) Competitive nature of the courses and single answer questions
+  on assignments and exams; and (c) Overall lack of collaborative learning
+  culture where students are unsure of how to seek help and many faculty members
+  tend to think that engaging in collaborative activities may affect content
+  coverage; etc. Based on Piaget's theory, I have developed a highly innovative
+  collaborative learning approach that exploits specific affordances of web
+  technologies to address these challenges. This approach, named CONSIDER (short
+  for CONflicting Ideas Discussed, Evaluated, and Resolved) allows creation of
+  small groups of students with different ideas about the topic in question,
+  engages them in a highly-structured rounds-based discussion so that the group
+  progresses at an equitable pace, and makes their submissions anonymous to
+  others so that students can receive the comments without any preconceived
+  notions they may have about the poster. While a number of researchers have
+  explored approaches to collaborative learning, a key difference with this work
+  is that my focus is helping individual students develop their own
+  understanding, whereas the focus of much of this other work is on developing
+  students' team skills, effective communication abilities, and the like.}
+\cvitem{}{A platform independent responsive web application was developed to
+  implement this approach and to compare it with the commonly used discussion
+  forum approach, where students respond to other posts in a threaded
+  discussion. This app was used in three offerings of two junior/senior level
+  undergraduate Computer Science \& Engineering courses at The Ohio State
+  University, where one discussion was conducted using the forum-based approach
+  and the other using my approach in each course. Students performance on the
+  pre- and post-discussion question and participation of individual students was
+  measured. In two of the studies, significant difference was found in the
+  discussion that used the CONSIDER approach, compared to the forum-based
+  approach on both these measures: improvement in learning (Study 1:
+  $N=37,r=−.63,p<.05$; Study 2: $N=26,r=−.38,p<.05$) and participation (Study 1:
+  $r=−.57,p<.05$; Study 2: $r=−.76,p<.05$). In the third study, there was no
+  significant effect on the post-activity scores ($p=.37$), and the
+  participation in the two types of discussions did not differ significantly,
+  either ($r=−.20,p=.09$). In an anonymous, optional post-activity survey, a
+  majority of the students self reported that they found the rounds-based
+  structure (55\%) and anonymity (80\%) to be helpful in their participation and
+  learning.}
+
+  \cvitem{\faicon{globe}}{\url{http://go.osu.edu/consider}}
 
 \subsection{Other Research Projects}
-\cventry{2014--present}{\gra}{\osu}{}{}{}
-\cvitem{}{Developed functionality for GeoGame, a web based role-playing game developed using MVC .NET, which lets the students of geography experience the life of an ordinary farmer in developing countries.}
-\cvitem{}{Coordinated the teams of developers, adding functionality to the game, designing experiments to evaluate effects of the game on learning, and resolving software issues.}
+\cventry{2014--2016}{\gra}{\osu}{}{}{}
+
+\cvitem{}{Developed functionality for GeoGame, a web based role-playing game
+  developed using MVC .NET, which lets the students of geography experience the
+  life of an ordinary farmer in developing countries.}
+
+\cvitem{}{Coordinated the teams of developers, adding functionality to the game,
+  designing experiments to evaluate effects of the game on learning, and
+  resolving software issues.}
+
 \cvitem{}{Led multiple capstone teams during the course of these projects.}
 % \cvitem{\faicon{globe}}{\url{http://geogame.osu.edu}}
 
@@ -203,8 +282,9 @@
 %%------------------------------------------------------------------------------
 % \renewcommand{\refname}{Some Relevant Publications}
 \nocite{*}
+\printbibliography[title=Book Chapters, type=incollection]
 \printbibliography[title=Conference Proceedings, type=inproceedings]
-\printbibliography[title=Other Publications, nottype=inproceedings]
+\printbibliography[title=Other Publications, nottype=inproceedings, nottype=incollection]
 %%------------------------------------------------------------------------------
 % \section{Skills}
 % \cvitem{Languages}{Python, HTML, Javascript, C, C++, C\#, Java, R}
@@ -249,3 +329,9 @@
 \cvitem{}{\faicon{globe}\, \url{cse.iitb.ac.in/grc}}
 
 \end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% TeX-engine: xetex
+%%% End:
