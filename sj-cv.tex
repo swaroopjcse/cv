@@ -11,6 +11,9 @@
 %%------------------------------------------------------------------------------
 \usepackage[sorting=ydnt, backend=biber, style=numeric, giveninits=true,
 maxbibnames=99]{biblatex}
+\DefineBibliographyStrings{english}{%
+  mathesis = {Master's Project Report},
+}
 
 \defbibenvironment{bibliography}
   {\list
@@ -126,31 +129,36 @@ maxbibnames=99]{biblatex}
 
 \section{Professional Experience}
 % \label{sec:Experience}
-\cventry{}{Senior Lecturer}{Dept.\ of Computer Sci.\ Eng.,\osu}{2017---}{}{}
-\cventry{}{\gta}{\osu}{2013--14, 2016}{}{}
-\cventry{}{\gra}{\osu}{2011--12, 2014--16}{}{}
+\cventry{}{Senior Lecturer}{}{\cse, \osu}{}{January, 2017 -- present}
+\cventry{}{\gta}{}{\cse, \osu}{}{2013--14, 2016}
+\cventry{}{\gra}{}{\cse,\osu}{}{2011--12, 2014--16}
 % \cvitemwithcomment{}{\gta, \osu}{2012--14, 2016---}
-% \cvitemwithcomment{}{\gra, \osu}{2011--12, 2014--16}
+% \cvitemwithcomment{}{\gra, \cse, \osu}{2011--12, 2014--16}
 % \cventry{2011--12}{\gra}{\osu}{}{}{}
-\cventry{}{Senior Project Engineer}{\grc, \iitbs}{2010--11}{}{}
+\cventry{}{Senior Project Engineer}{}{\grc, \iitb}{}{2010--11}
 % \cvitemwithcomment{}{Senior Project Engineer, \grc, \iitbs} {2010--11}
-\cventry{}{Teaching Assistant}{\iitbs}{2008--10}{}{}
+\cventry{}{Teaching Assistant}{}{\cse,\iitb}{}{2008--10}
 % \cvitemwithcomment{}{Teaching Assistant, \iitbs}{2008--10}
-\cventry{}{Software Engineer}{SoftJin Technologies}{Bangalore India}{2005--06}{}
+\cventry{}{Software Engineer}{}{SoftJin Technologies Pvt.\ Ltd., Bangalore India}{}{2005--06}
 % \cvitemwithcomment{}{Software Engineer, SoftJin Technologies, Bangalore India}{2005--06}
 
+% \clearpage
 %%------------------------------------------------------------------------------
 \section{Research/Teaching Interests}
-\cvitem{}{Programming Languages, Compiler Construction, Mobile and Web App Development, Software Engineering, Introduction to Programming, Education Technology, Computer supported collaborative learning (CSCL), Game based learning, Computer Science Education, Engineering Education}
-\clearpage
+\cvitem{}{Programming Languages, Compiler Construction, Mobile and Web App
+  Development, Software Engineering, Introduction to Programming, Education
+  Technology, Computer supported collaborative learning (CSCL), Game based
+  learning, Computer Science Education, Engineering Education}
+% \clearpage
 
 %%------------------------------------------------------------------------------
 \section{Teaching Experience}
-\cventry{Jan. 2017 -- }{Instructor}{Software I: Components}{OSU}{}{}
-\cvitem{}{Over the span of three semesters (Spring, Summer, and Fall 2017), I
-  have taught total of 7 sections of this pre-major course, with about 40
-  students each. This course focuses on Intellectual foundations of software
-  engineering; design-by-contract principles; mathematical modeling of software
+% \cventry{Spring 2017 -- Fall 2017}{Instructor}{Software I: Components}{OSU}{}{}
+\cventry{}{Instructor}{Software I: Components}{OSU}{}{Spring, Summer, and Fall,
+  2017} \cvitem{}{Over the span of these three semesters, I have taught total of
+  7 sections of this pre-major course, with about 40 students each. This course
+  focuses on Intellectual foundations of software engineering;
+  design-by-contract principles; mathematical modeling of software
   functionality; component-based software from client perspective. }
 
 \cventry{Summer 2017}{Instructor}{Introduction to Computer Programming In
@@ -164,8 +172,7 @@ maxbibnames=99]{biblatex}
   focused are: Subroutines and modular programming, searching, basic data
   structures, introduction to sequential files.}
 
-\cventry{Spring \& Summer 2014}{Instructor}{Mobile App Development}{OSU}{}{}
-\cvitem{}{Taught a senior/graduate level project-based course on mobile app development for two semesters}
+\cventry{Spring \& Summer 2014}{Instructor}{Mobile App Development}{OSU}{}{Taught a senior/graduate level project-based course on mobile app development for two semesters}
 \cvitem{}{Revised course content to suit newer versions of the Android operating system}
 \cvitem{}{Advised student teams in developing 10--12 projects each semester}
 \cvitem{}{Designed and graded 40+ midterm and final exams per semester}
@@ -195,7 +202,7 @@ maxbibnames=99]{biblatex}
 \cvitem{}{Conducted programming labs for this introductory programming course for non-majors and majors (4 hours per week)}
 \cvitem{}{Graded 40+ assignments and exams}
 
-\clearpage
+% \clearpage
 
 %%------------------------------------------------------------------------------
 \section{Research Experience}
@@ -255,7 +262,8 @@ maxbibnames=99]{biblatex}
   structure (55\%) and anonymity (80\%) to be helpful in their participation and
   learning.}
 
-  \cvitem{\faicon{globe}}{\url{http://go.osu.edu/consider}}
+% \cvitem{\faicon{globe}}{\url{http://go.osu.edu/consider}}
+\cvitem{\faicon{globe}}{\url {http://rave.ohiolink.edu/etdc/view?acc_num=osu1500511662959839}}
 
 \subsection{Other Research Projects}
 \cventry{2014--2016}{\gra}{\osu}{}{}{}
@@ -283,6 +291,7 @@ maxbibnames=99]{biblatex}
 % \renewcommand{\refname}{Some Relevant Publications}
 \nocite{*}
 \printbibliography[title=Book Chapters, type=incollection]
+\printbibliography[title=Book Chapters, type=]
 \printbibliography[title=Conference Proceedings, type=inproceedings]
 \printbibliography[title=Other Publications, nottype=inproceedings, nottype=incollection]
 %%------------------------------------------------------------------------------
@@ -300,7 +309,7 @@ maxbibnames=99]{biblatex}
 \cventry{}{Student Member}{American Society for Engineering Education}{}{}{}
 \cventry{}{Student Member}{Association for Computing Machinery}{}{}{}
 
-\clearpage
+% \clearpage
 %%------------------------------------------------------------------------------
 \section{Service Activities}
 \subsection{Field/Profession}
