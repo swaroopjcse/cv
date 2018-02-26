@@ -9,10 +9,10 @@
 % \nopagenumbers{}
 
 %%------------------------------------------------------------------------------
-\usepackage[sorting=ydnt, backend=biber, style=numeric, giveninits=true,
-maxbibnames=99]{biblatex}
+\usepackage[sorting=none, backend=biber, style=numeric, giveninits=true,
+maxbibnames=99, defernumbers=true]{biblatex}
 \DefineBibliographyStrings{english}{%
-  mathesis = {Master's Project Report},
+  mathesis = {Master's Project Report},%
 }
 
 \defbibenvironment{bibliography}
@@ -30,8 +30,7 @@ maxbibnames=99]{biblatex}
   {\item}
 
 \addbibresource{/Users/swaroop/Documents/Professional/mypubs/mypub.bib}
-% \defbibnote{conf}{{\Large Conference Proceedings}}
-% \defbibnote{other}{{\Large Other publications}}
+
 %%------------------------------------------------------------------------------
 
 \usepackage{academicons}
@@ -130,8 +129,8 @@ maxbibnames=99]{biblatex}
 \section{Professional Experience}
 % \label{sec:Experience}
 \cventry{}{Senior Lecturer}{}{\cse, \osu}{}{January, 2017 -- present}
-\cventry{}{\gta}{}{\cse, \osu}{}{2013--14, 2016}
-\cventry{}{\gra}{}{\cse,\osu}{}{2011--12, 2014--16}
+% \cventry{}{\gta}{}{\cse, \osu}{}{2013--14, 2016}
+\cventry{}{Graduate Teaching and Research Associate}{}{\cse,\osu}{}{2011--16}
 % \cvitemwithcomment{}{\gta, \osu}{2012--14, 2016---}
 % \cvitemwithcomment{}{\gra, \cse, \osu}{2011--12, 2014--16}
 % \cventry{2011--12}{\gra}{\osu}{}{}{}
@@ -149,58 +148,82 @@ maxbibnames=99]{biblatex}
   Development, Software Engineering, Introduction to Programming, Education
   Technology, Computer supported collaborative learning (CSCL), Game based
   learning, Computer Science Education, Engineering Education}
-% \clearpage
+\clearpage
 
 %%------------------------------------------------------------------------------
 \section{Teaching Experience}
-% \cventry{Spring 2017 -- Fall 2017}{Instructor}{Software I: Components}{OSU}{}{}
-\cventry{}{Instructor}{Software I: Components}{OSU}{}{Spring, Summer, and Fall,
-  2017} \cvitem{}{Over the span of these three semesters, I have taught total of
-  7 sections of this pre-major course, with about 40 students each. This course
-  focuses on Intellectual foundations of software engineering;
-  design-by-contract principles; mathematical modeling of software
-  functionality; component-based software from client perspective. }
+% \cventry{Spring 2018}{Instructor}{Principles of Programming Languages}{OSU}{}{}
+\cventry{}{Principles of Programming Languages}{OSU}{}{}{}%
+\cvitem{Spring 2018}{This is a junior/senior level CSE major course that focuses
+  on Formal languages and grammars; recursive descent parsing; data types,
+  expressions, control structures, parameter passing; compilers and
+  interpreters; memory management; functional programming principles. Students
+  implement an interpreter using recursive decent parsing for an imperative
+  language CORE.}
+% \cventry{Spring 2017 -- Spring 2018}{Instructor}{Software I:
+  % Components}{OSU}{}{}
+\cventry{}{Software I: Components}{OSU}{}{}{}%
+\cvitem{Spring, Summer, Fall 2017; Spring 2018}{Over the span of last four
+  semesters, I have taught total of 9 sections of this pre-major course, with
+  about 40 students each. This course focuses on Intellectual foundations of
+  software engineering; design-by-contract principles; mathematical modeling of
+  software functionality; component-based software from client perspective. }
 
-\cventry{Summer 2017}{Instructor}{Introduction to Computer Programming In
-  Java}{OSU}{}{}
-\cvitem{}{This course introduces students to computer programming and to problem solving techniques using computer programs; taken by CSE majors as well as non-majors.}
+% \cventry{Summer 2017}{Instructor}{Introduction to Computer Programming In
+% Java}{OSU}{}{}
+\cventry{}{Introduction to Computer Programming In Java}{OSU}{}{}{}
+\cvitem{Summer 2017}{This course introduces students to computer programming and
+  to problem solving techniques using computer programs; taken by CSE majors as
+  well as non-majors.}
 
-\cventry{Fall 2016}{Instructor}{Data Structures Using Java}{OSU}{}{}
-\cvitem{}{Teaching a sophomore level that is designed to introduce the general
+% \cventry{Fall 2016}{Instructor}{Data Structures Using Java}{OSU}{}{}
+\cventry{}{Data Structures Using Java}{OSU}{}{}{}
+\cvitem{Fall 2016}{Teaching a sophomore level that is designed to introduce the general
   concepts of computer programming and programming languages by providing
   practical experience programming in the Java programming language. The topics
   focused are: Subroutines and modular programming, searching, basic data
   structures, introduction to sequential files.}
 
-\cventry{Spring \& Summer 2014}{Instructor}{Mobile App Development}{OSU}{}{Taught a senior/graduate level project-based course on mobile app development for two semesters}
-\cvitem{}{Revised course content to suit newer versions of the Android operating system}
-\cvitem{}{Advised student teams in developing 10--12 projects each semester}
-\cvitem{}{Designed and graded 40+ midterm and final exams per semester}
-\cvitem{}{Designed and developed multiple apps to explain the concepts in the course}
+\cventry{}{Mobile App Development}{OSU}{}{}{}%
+\cvitem{Spring \& Summer 2014}{Taught a senior/graduate level project-based
+  course on mobile app development for two semesters}%
+\cvitem{}{Revised course content to suit newer versions of the Android operating
+  system}%
+\cvitem{}{Advised student teams in developing 10--12 projects each semester}%
+\cvitem{}{Designed and graded 40+ midterm and final exams per semester}%
+\cvitem{}{Designed and developed multiple apps to explain the concepts in the
+  course}%
 
-\cventry{Fall 2014}{Grader}{Software-I}{OSU}{}{}
-\cvitem{}{Graded 40+ assignments in this introductory course on software and computer programming}
+\cventry{}{Software-I}{OSU}{(Grader)}{}{}%
+\cvitem{Fall 2014}{Graded 40+ assignments in this introductory course on
+  software and computer programming}
 
-\cventry{Summer 2013}{Instructor}{C++ Programming}{OSU}{}{}
-\cvitem{}{Taught a senior level C++ course, focusing on the object oriented nature of the language}
-\cvitem{}{Designed lecture and presentation material for the course}
-\cvitem{}{Designed and graded 20+ assignments}
+\cventry{}{C++ Programming}{OSU}{}{}{}%
+\cvitem{Summer 2013}{Taught a senior level C++ course, focusing on the object
+  oriented nature of the language}%
+\cvitem{}{Designed lecture and presentation material for the course}%
+\cvitem{}{Designed and graded 20+ assignments}%
 
-\cventry{Spring 2013}{Instructor}{Introduction to Programming}{OSU}{}{}
-\cvitem{}{Taught a freshman/sophomore level programming course using C++; most students were not computer science majors}
-\cvitem{}{Conducted the corresponding lab for the course (2 hours per week)}
-\cvitem{}{Graded 40+ lab assignments, homeworks and exams}
-\cvitem{}{Communicated with other TAs and the course-coordinator in this 10-section course}
+\cventry{}{Introduction to Programming}{OSU}{}{}{}%
+\cvitem{Spring 2013}{Taught a freshman/sophomore level programming course using
+  C++; most students were not computer science majors}%
+\cvitem{}{Conducted the corresponding lab for the course (2 hours per week)}%
+\cvitem{}{Graded 40+ lab assignments, homeworks and exams}%
+\cvitem{}{Communicated with other TAs and the course-coordinator in this
+  10-section course}%
 
-\cventry{Summer 2013}{Grader}{Operating Systems}{OSU}{}{}
-\cvitem{}{Graded 40+ assignments and homeworks in this junior/senior level course}
+\cventry{}{Operating Systems}{OSU}{(Grader)}{}{}%
+\cvitem{Summer 2013}{Graded 40+ assignments and homeworks in this junior/senior
+  level course}%
 
-\cventry{2009--2010}{Grader}{Program Analysis}{\iitbs}{}{}
-\cvitem{}{Graded 40+ assignments and exams in this graduate level computer science course for two semesters}
+\cventry{}{Program Analysis}{\iitbs}{(Grader)}{}{}%
+\cvitem{2009--2010}{Graded 40+ assignments and exams in this graduate level
+  computer science course for two semesters}%
 
-\cventry{2008}{Grader}{Introduction to programming}{\iitbs}{}{}
-\cvitem{}{Conducted programming labs for this introductory programming course for non-majors and majors (4 hours per week)}
-\cvitem{}{Graded 40+ assignments and exams}
+\cventry{}{Introduction to programming}{\iitbs}{(Grader)}{}{}%
+\cvitem{2008}{Conducted programming labs for this introductory programming
+  course for non-majors and majors (4 hours per week)}%
+\cvitem{}{Graded 40+ assignments and exams}%
 
 % \clearpage
 
@@ -210,60 +233,25 @@ maxbibnames=99]{biblatex}
 \subsection{Ph.D.\ Thesis}
 \cvitem{title}{\emph{\thesis}}
 \cvitem{advisor}{Prof.\ Neelam Soundarajan, \cse, OSU}
-% \cvitem{description}{\con\ is a novel, powerful approach for effective
-% collaborative learning in college courses, particularly in computer science
-% and other STEM disciplines. The design of the approach is informed by research
-% in education psychology, and its key features are designed to overcome some
-% known issues in other collaborative learning approaches. We have also
-% developed a responsive web app based on this approach, using Google App Engine
-% and Python 2.7, which is available as a free and open source software. We are
-% using it in several undergrad/grad level CS courses for its evaluation and
-% development.}
-
+\cvitem{\faicon{globe}}{\url {http://rave.ohiolink.edu/etdc/view?acc_num=osu1500511662959839}}
 \cvitem{description}{Piaget's classic work on cognitive development showed that
   engaging learners in critical discussions with peers about ideas that are
-  different than theirs leads to deep conceptual understanding. Implementing
-  such an approach in college level STEM (Science, Technology, Engineering,
-  Math) courses has some specific challenges: (a) Short meeting times and large
-  class sizes; (b) Competitive nature of the courses and single answer questions
-  on assignments and exams; and (c) Overall lack of collaborative learning
-  culture where students are unsure of how to seek help and many faculty members
-  tend to think that engaging in collaborative activities may affect content
-  coverage; etc. Based on Piaget's theory, I have developed a highly innovative
-  collaborative learning approach that exploits specific affordances of web
-  technologies to address these challenges. This approach, named CONSIDER (short
-  for CONflicting Ideas Discussed, Evaluated, and Resolved) allows creation of
-  small groups of students with different ideas about the topic in question,
-  engages them in a highly-structured rounds-based discussion so that the group
+  different than theirs leads to deep conceptual understanding. I have developed
+  a highly innovative collaborative learning approach that exploits specific
+  affordances of web technologies to incorporate Piaget's well established ideas
+  into college-level STEM education. This approach, named CONSIDER (short for
+  CONflicting Ideas Discussed, Evaluated, and Resolved) allows creation of small
+  groups of students with different ideas about the topic in question, engages
+  them in a highly-structured rounds-based discussion so that the group
   progresses at an equitable pace, and makes their submissions anonymous to
   others so that students can receive the comments without any preconceived
-  notions they may have about the poster. While a number of researchers have
-  explored approaches to collaborative learning, a key difference with this work
-  is that my focus is helping individual students develop their own
-  understanding, whereas the focus of much of this other work is on developing
-  students' team skills, effective communication abilities, and the like.}
-\cvitem{}{A platform independent responsive web application was developed to
-  implement this approach and to compare it with the commonly used discussion
-  forum approach, where students respond to other posts in a threaded
-  discussion. This app was used in three offerings of two junior/senior level
-  undergraduate Computer Science \& Engineering courses at The Ohio State
-  University, where one discussion was conducted using the forum-based approach
-  and the other using my approach in each course. Students performance on the
-  pre- and post-discussion question and participation of individual students was
-  measured. In two of the studies, significant difference was found in the
-  discussion that used the CONSIDER approach, compared to the forum-based
-  approach on both these measures: improvement in learning (Study 1:
-  $N=37,r=−.63,p<.05$; Study 2: $N=26,r=−.38,p<.05$) and participation (Study 1:
-  $r=−.57,p<.05$; Study 2: $r=−.76,p<.05$). In the third study, there was no
-  significant effect on the post-activity scores ($p=.37$), and the
-  participation in the two types of discussions did not differ significantly,
-  either ($r=−.20,p=.09$). In an anonymous, optional post-activity survey, a
-  majority of the students self reported that they found the rounds-based
-  structure (55\%) and anonymity (80\%) to be helpful in their participation and
-  learning.}
-
-% \cvitem{\faicon{globe}}{\url{http://go.osu.edu/consider}}
-\cvitem{\faicon{globe}}{\url {http://rave.ohiolink.edu/etdc/view?acc_num=osu1500511662959839}}
+  notions they may have about the poster. A platform independent responsive web
+  application was developed to implement this approach and to compare it with
+  the commonly used discussion forum approach, where students respond to other
+  posts in a threaded discussion. A quantitative gain-score analysis of pre- and
+  post-test scores shows that students developed better understanding of the
+  topics discussed with the CONSIDER approach, than they did with the
+  conventional, forum-based approach.}
 
 \subsection{Other Research Projects}
 \cventry{2014--2016}{\gra}{\osu}{}{}{}
@@ -277,23 +265,28 @@ maxbibnames=99]{biblatex}
   resolving software issues.}
 
 \cvitem{}{Led multiple capstone teams during the course of these projects.}
-% \cvitem{\faicon{globe}}{\url{http://geogame.osu.edu}}
+\cvitem{\faicon{globe}}{\url{http://geogame.osu.edu}}
 
-\cventry{2011--2012}{\gra}{\osu}{}{}{}
-\cvitem{}{Worked on testing and evaluation of a software PolyOpt/Fortran, which is a locally developed loop optimization framework}
+\cventry{2011--2012}{\gra}{\osu}{}{}{}%
+\cvitem{}{Worked on testing and evaluation of a software PolyOpt/Fortran, which
+  is a locally developed loop optimization framework}%
+\cvitem{\faicon{globe}}{\url{http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/polybench-fortran.html}}
 
-\cventry{2010--2011}{Senior Project Engineer}{\grc, \iitbs}{}{}{}
-\cvitem{}{Adapted the Generic Data-Flow Analyzer in GCC 4.6, making it available as a plugin}
+
+\cventry{2010--2011}{Senior Project Engineer}{\grc, \iitbs}{}{}{}%
+\cvitem{}{Adapted the Generic Data-Flow Analyzer in GCC 4.6, making it available
+  as a plugin}%
+\cvitem{\faicon{globe}}{\url{http://www.cse.iitb.ac.in/grc/}}
 
 % \clearpage
 % \cvitem{\aiicon{orcid}}{\url{http://orcid.org/0000-0003-4536-2446}}
 %%------------------------------------------------------------------------------
 % \renewcommand{\refname}{Some Relevant Publications}
 \nocite{*}
-\printbibliography[title=Book Chapters, type=incollection]
-\printbibliography[title=Book Chapters, type=]
+\printbibliography[title={Book Chapters}, type=incollection]
+\printbibliography[title=Dissertations, keyword={thesis}]
 \printbibliography[title=Conference Proceedings, type=inproceedings]
-\printbibliography[title=Other Publications, nottype=inproceedings, nottype=incollection]
+\printbibliography[title=Other Publications, keyword={tr}]
 %%------------------------------------------------------------------------------
 % \section{Skills}
 % \cvitem{Languages}{Python, HTML, Javascript, C, C++, C\#, Java, R}
@@ -302,7 +295,9 @@ maxbibnames=99]{biblatex}
 %--------------------------
 
 \section{Talks/Presentations}
-\cventry{Aug.\ 2016}{New TA Orientation Facilitator}{\ucat}{\osu}{}{Served as a facilitator for the session on `Teaching as a Grader' and as a panelist on the session for `International Teaching Associates'}
+\cventry{Aug.\ 2016}{New TA Orientation Facilitator}{\ucat}{\osu}{}{Served as a
+  facilitator for the session on `Teaching as a Grader' and as a panelist on the
+  session for `International Teaching Associates'}
 
 \section{Awards and Honors}
 \cventry{}{Best Student Paper Award}{ASEE North Central Section}{2016}{}{}
@@ -313,28 +308,53 @@ maxbibnames=99]{biblatex}
 %%------------------------------------------------------------------------------
 \section{Service Activities}
 \subsection{Field/Profession}
-\cventry{2016}{Reviewer}{\href{http://news.uitm.edu.my/index.php/n/research/247-8th-international-conference-on-university-learning-and-teaching-incult-2016}{InCULT'2016}}{}{}{I was a reviewer for the 8th International Conference on University Learning and Teaching (InCULT 2016), where I reviewed a full length research article for its scholarly contribution and provided my feedback.}
-\cventry{2016}{Reviewer}{Frontiers in Education}{}{}{I was a reviewer for IEEE's Frontiers in Education 2016 conference, where I reviewed two full length research articles for their scholarly contribution and provided my feedback.}
-\cventry{2016}{Volunteer}{Buck-i-code}{ACM-W, OSU}{}{Association for Computing and Machinery - Women's OSU chapter organized a day-long workshop Buck-i-Code in Spring 2016, targeted at school-going female students to get them interested in computer science at a young age. I was one of the volunteers who helped them with their lab sessions, as well as registrations.}
-\cventry{2009, 2010}{Technical assistant}{\grc}{\iitbs}{}{The \grc\ organizes a workshop ``Essential Abstractions in GCC'' every year in July. I was part of the technical team, in charge of conducting the lab sessions for two workshops.}
+\cventry{2016}{Reviewer}{\href{http://news.uitm.edu.my/index.php/n/research/247-8th-international-conference-on-university-learning-and-teaching-incult-2016}{InCULT'2016}}{}{}{I
+  was a reviewer for the 8th International Conference on University Learning and
+  Teaching (InCULT 2016), where I reviewed a full length research article for
+  its scholarly contribution and provided my feedback.}%
+\cventry{2016}{Reviewer}{Frontiers in Education}{}{}{I was a reviewer for IEEE's
+  Frontiers in Education 2016 conference, where I reviewed two full length
+  research articles for their scholarly contribution and provided my feedback.}%
+\cventry{2016}{Volunteer}{Buck-i-code}{ACM-W, OSU}{}{Association for Computing
+  and Machinery - Women's OSU chapter organized a day-long workshop Buck-i-Code
+  in Spring 2016, targeted at school-going female students to get them
+  interested in computer science at a young age. I was one of the volunteers who
+  helped them with their lab sessions, as well as registrations.}%
+\cventry{2009, 2010}{Technical assistant}{\grc}{\iitbs}{}{The \grc\ organizes a
+  workshop ``Essential Abstractions in GCC'' every year in July. I was part of
+  the technical team, in charge of conducting the lab sessions for two
+  workshops.}%
 
 
 \subsection{University}
-\cventry{Mar.\ 2015}{Research Poster Judge}{Denman Undergraduate Research Forum}{OSU}{}{}
-\cventry{2015---}{Graduate Representative}{Mobile Governance}{OSU}{}{Mobile Governance initiative at OSU is a collaborative effort between OCIO, TCO, and other stakeholders at OSU to ensure the large number of mobile and web applications developed by various departments at OSU (e.g.\ medical center) meet the quality and branding standards of the university. I am part of this initiative as a CSE graduate student representative since April 2015. My role includes participating in regular meetings and communicating with the capstone course coordinators in the CSE department to ensure any product coming out of their course does not violate the university guidelines.}
+\cventry{Mar.\ 2015}{Research Poster Judge}{Denman Undergraduate Research
+  Forum}{OSU}{}{}%
+\cventry{2015---}{Graduate Representative}{Mobile Governance}{OSU}{}{Mobile
+  Governance initiative at OSU is a collaborative effort between OCIO, TCO, and
+  other stakeholders at OSU to ensure the large number of mobile and web
+  applications developed by various departments at OSU (e.g.\ medical center)
+  meet the quality and branding standards of the university. I am part of this
+  initiative as a CSE graduate student representative since April 2015. My role
+  includes participating in regular meetings and communicating with the capstone
+  course coordinators in the CSE department to ensure any product coming out of
+  their course does not violate the university guidelines.}%
 
 
 %%------------------------------------------------------------------------------
 
 \section{Softwares Developed}
 
-\cventry{\faicon{code}}{\con}{}{}{}{A web app, developed using Google App Engine and Python 2.7, used to enhance deep conceptual learning in college courses.}
+\cventry{\faicon{code}}{\con}{}{}{}{A web app, developed using Google App Engine
+  and Python 2.7, used to enhance deep conceptual learning in college courses.}%
 \cvitem{}{\faicon{globe}\, \url{go.osu.edu/consider}}
 
-\cventry{\faCode}{GeoGame}{}{}{}{A web based role playing game, developed using .NET, where players pose as farmers in various parts of the world, used to teach world regional geography at college level.}
+\cventry{\faCode}{GeoGame}{}{}{}{A web based role playing game, developed using
+  .NET, where players pose as farmers in various parts of the world, used to
+  teach world regional geography at college level.}%
 \cvitem{}{\faicon{globe}\, \url{geogame.osu.edu}}
 
-\cventry{\faCode}{GDFA}{}{}{}{A generic data-flow analyzer plugin for GCC compilers, developed in C.}
+\cventry{\faCode}{GDFA}{}{}{}{A generic data-flow analyzer plugin for GCC
+  compilers, developed in C.}%
 \cvitem{}{\faicon{globe}\, \url{cse.iitb.ac.in/grc}}
 
 \end{document}
