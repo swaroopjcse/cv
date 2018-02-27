@@ -57,3 +57,5 @@ vc.tex
 # biblatex byproducts
 *.bcf
 *.xml
+/*.fdb_latexmk
+/*.fls
