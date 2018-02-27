@@ -282,11 +282,12 @@ maxbibnames=99, defernumbers=true]{biblatex}
 % \cvitem{\aiicon{orcid}}{\url{http://orcid.org/0000-0003-4536-2446}}
 %%------------------------------------------------------------------------------
 % \renewcommand{\refname}{Some Relevant Publications}
+\section{Publications}
 \nocite{*}
-\printbibliography[title={Book Chapters}, type=incollection]
-\printbibliography[title=Conference Proceedings, type=inproceedings]
-\printbibliography[title=Dissertations, keyword={thesis}]
-\printbibliography[title=Other Publications, keyword={tr}]
+\printbibliography[title={Book Chapters}, type=incollection, heading=subbibliography]%
+\printbibliography[title=Conference Proceedings, type=inproceedings, heading=subbibliography]%
+\printbibliography[title=Dissertations, keyword={thesis}, heading=subbibliography]%
+\printbibliography[title=Other Publications, keyword={tr}, heading=subbibliography]%
 %%------------------------------------------------------------------------------
 % \section{Skills}
 % \cvitem{Languages}{Python, HTML, Javascript, C, C++, C\#, Java, R}
@@ -315,7 +316,7 @@ maxbibnames=99, defernumbers=true]{biblatex}
   session for `International Teaching Associates'}
 
 
-% \clearpage
+\clearpage
 %%------------------------------------------------------------------------------
 \section{Service Activities}
 \subsection{Field/Profession}
@@ -333,31 +334,27 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \cvitem{}{\href{http://fie2016.org/}{IEEE Frontiers in Education 2016}}%
 \cvitem{}{\href{https://www.asee.org/conferences-and-events/conferences/annual-conference/2016}{ASEE
     123rd Annual Conference \& Exposition, 2016}}%
-% \cventry{2016}{Volunteer}{Buck-i-code}{ACM-W, OSU}{}{Association for Computing
-  % and Machinery - Women's OSU chapter organized a day-long workshop Buck-i-Code
-  % in Spring 2016, targeted at school-going female students to get them
-  % interested in computer science at a young age. I was one of the volunteers who
-  % helped them with their lab sessions, as well as registrations.}%
-% \cventry{2009, 2010}{Technical assistant}{\grc}{\iitbs}{}{The \grc\ organizes a
-  % workshop ``Essential Abstractions in GCC'' every year in July. I was part of
-  % the technical team, in charge of conducting the lab sessions for two
-  % workshops.}%
+\cventry{2016}{Volunteer}{Buck-i-code}{ACM-W, OSU}{}{A day-long workshop
+  targeted at school-going female students to get them interested in computer
+  science at a young age.}%
+\cventry{2009, 2010}{Technical assistant}{\grc}{\iitbs}{}{The \grc\ organizes a
+  workshop ``Essential Abstractions in GCC'' every year in July. I was part of
+  the technical team, in charge of conducting the lab sessions for two
+  workshops.}%
 
 
 \subsection{University}
-\cventry{Mar.\ 2018}{Research Paper Judge}{Hayes Graduate Research
+\cventry{2018}{Research Paper Judge}
+{\href{https://cgs.osu.edu/hayes-forum/}{32nd Edward F. Hayes Graduate Research
+    Forum}}{OSU}{}{}%
+\cventry{2017}{Faculty Mentor}{New Graduate TA Orientation}{\ucat}{\osu}{}%
+\cventry{2015--2017}{Graduate Representative}{Mobile Governance}{OSU}{}{I was
+  part of this collaborative effort between OCIO, TCO, and other stakeholders at
+  OSU to ensure the large number of mobile and web applications developed by
+  various departments at OSU (e.g.\ medical center) meet the quality and
+  branding standards of the university.}%
+\cventry{2015}{Research Poster Judge}{20th Denman Undergraduate Research
   Forum}{OSU}{}{}%
-\cventry{Mar.\ 2015}{Research Poster Judge}{Denman Undergraduate Research
-  Forum}{OSU}{}{}%
-\cventry{2015---}{Graduate Representative}{Mobile Governance}{OSU}{}{Mobile
-  Governance initiative at OSU is a collaborative effort between OCIO, TCO, and
-  other stakeholders at OSU to ensure the large number of mobile and web
-  applications developed by various departments at OSU (e.g.\ medical center)
-  meet the quality and branding standards of the university. I am part of this
-  initiative as a CSE graduate student representative since April 2015. My role
-  includes participating in regular meetings and communicating with the capstone
-  course coordinators in the CSE department to ensure any product coming out of
-  their course does not violate the university guidelines.}%
 
 
 %%------------------------------------------------------------------------------
