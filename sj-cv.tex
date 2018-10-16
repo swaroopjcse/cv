@@ -58,7 +58,7 @@ maxbibnames=99, defernumbers=true]{biblatex}
 %% Personal data
 \firstname{Swaroop}
 \familyname{Joshi}
-% \title{Resumé title (optional)}
+% \title{Senior Lecturer\\\cse\\\osu}
 % \address{395 Dreese Labs, 2015 Neil Ave}{Columbus OH 43210}
 \address{405 Caldwell Labs\\2024 Neil Ave\\}{Columbus OH 43210}
 % \phone{+2~(345)~678~901}
@@ -103,6 +103,8 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \newcommand{\thesis}{\con: A Novel Approach to Conflict-Driven Collaborative-Learning}
 \newcommand{\gdfa}{Extending the Generic Data-Flow Analyzer (gdfa) in GCC}
 \newcommand{\ucat}{University Center for Advancement in Teaching}
+\newcommand{\asee}{American Society for Engineering Education}
+\newcommand{\iucee}{Indo-Universal Collaboration for Engineering Education}
 %%------------------------------------------------------------------------------
 
 \immediate\write18{sh ./vc}
@@ -113,97 +115,82 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \begin{document}
 \makecvtitle
 \thispagestyle{firststyle}
+\section{Experience}
+% \label{sec:Experience}
+\cventry{}{Senior Lecturer}{}{\cse, \osu}{}{January, 2017 -- present}
+\cventry{}{Graduate Teaching and Research Associate}{}{\cse, \osu}{}{2011--16}
+\cventry{}{Senior Project Engineer}{}{\grc, \iitb}{}{2010--11}
+\cventry{}{Teaching Assistant}{}{\cse, \iitb}{}{2008--10}
+\cventry{}{Software Engineer}{}{SoftJin Technologies Pvt.\ Ltd., Bangalore India}{}{2005--06}
+
+
 \section{Education}
 \cventry{2017}{Doctor of Philosophy}{\osu}{Columbus OH}{}{\cse}  % arguments 3 to 6 can be left empty
 \cvitem{thesis}{\emph{\thesis}}
-% \cvitemwithcomment{Language 1}{Skill level}{Comment}
-% \cvdoubleitem{category X}{XXX, YYY, ZZZ}{category Y}{XXX, YYY, ZZZ}
-% \cvlistitem{Item 1}
-% \cvlistdoubleitem{Item 2}{Item 3}
-%% ...
 \cventry{2016}{Master of Science}{\osu}{Columbus OH}{}{\cse}
 \cventry{2010}{Master of Technology}{\iitb}{Mumbai India}{}{\cse}
 \cvitem{project}{\emph{\gdfa}}
 \cventry{2005}{Bachelor of Engineering}{\nitk}{India}{}{Computer Engineering}
 
-\section{Professional Experience}
-% \label{sec:Experience}
-\cventry{}{Senior Lecturer}{}{\cse, \osu}{}{January, 2017 -- present}
-% \cventry{}{\gta}{}{\cse, \osu}{}{2013--14, 2016}
-\cventry{}{Graduate Teaching and Research Associate}{}{\cse,\osu}{}{2011--16}
-% \cvitemwithcomment{}{\gta, \osu}{2012--14, 2016---}
-% \cvitemwithcomment{}{\gra, \cse, \osu}{2011--12, 2014--16}
-% \cventry{2011--12}{\gra}{\osu}{}{}{}
-\cventry{}{Senior Project Engineer}{}{\grc, \iitb}{}{2010--11}
-% \cvitemwithcomment{}{Senior Project Engineer, \grc, \iitbs} {2010--11}
-\cventry{}{Teaching Assistant}{}{\cse, \iitb}{}{2008--10}
-% \cvitemwithcomment{}{Teaching Assistant, \iitbs}{2008--10}
-\cventry{}{Software Engineer}{}{SoftJin Technologies Pvt.\ Ltd., Bangalore India}{}{2005--06}
-% \cvitemwithcomment{}{Software Engineer, SoftJin Technologies, Bangalore India}{2005--06}
+
+\section{Awards and Honors}
+\cventry{}{Lecturer Teaching Development Grant}{Spring 2017}{}{}{\ucat, \osu}%
+\cventry{}{Best Student Paper Award}{2016}{}{}{\asee, North Central Section}%
+\clearpage
+
+
+%%------------------------------------------------------------------------------
+% \section{Research Experience}
+% \subsection{Ph.D.\ Thesis}
+% \cvitem{title}{\emph{\thesis}}
+% \cvitem{advisor}{Prof.\ Neelam Soundarajan, \cse, OSU}
+% \cvitem{\faicon{globe}}{\url {http://rave.ohiolink.edu/etdc/view?acc_num=osu1500511662959839}}
+% \cvitem{description}{Piaget's classic work on cognitive development showed that
+  % engaging learners in critical discussions with peers about ideas that are
+  % different than theirs leads to deep conceptual understanding. I have developed
+  % a highly innovative collaborative learning approach that exploits specific
+  % affordances of web technologies to incorporate Piaget's well established ideas
+  % into college-level STEM education. This approach, named CONSIDER (short for
+  % CONflicting Ideas Discussed, Evaluated, and Resolved) allows creation of small
+  % groups of students with different ideas about the topic in question, engages
+  % them in a highly-structured rounds-based discussion so that the group
+  % progresses at an equitable pace, and makes their submissions anonymous to
+  % others so that students can receive the comments without any preconceived
+  % notions they may have about the poster. A platform independent responsive web
+  % application was developed to implement this approach and to compare it with
+  % the commonly used discussion forum approach, where students respond to other
+  % posts in a threaded discussion. A quantitative gain-score analysis of pre- and
+  % post-test scores shows that students developed better understanding of the
+  % topics discussed with the CONSIDER approach, than they did with the
+  % conventional, forum-based approach.}
+
+% \subsection{Other Research Projects}
+% \cventry{2014--2016}{GeoGame}{\osu}{}{}{}
+
+% \cvitem{}{Developed functionality for GeoGame, a web based role-playing game
+  % developed using MVC .NET, which lets the students of geography experience the
+  % life of an ordinary farmer in developing countries.}
+
+% \cvitem{}{Coordinated the teams of developers, adding functionality to the game,
+  % designing experiments to evaluate effects of the game on learning, and
+  % resolving software issues.}
+
+% \cvitem{}{Led multiple capstone teams during the course of these projects.}
+% \cvitem{\faicon{globe}}{\url{http://geogame.osu.edu}}
+
+% \cventry{2011--2012}{PolyOpt/Fortran}{\osu}{}{}{}%
+% \cvitem{}{Worked on testing and evaluation of a software PolyOpt/Fortran, which
+  % is a locally developed loop optimization framework}%
+% \cvitem{\faicon{globe}}{\url{http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/polybench-fortran.html}}
+
+
+% \cventry{2010--2011}{Generic Data-Flow Analyzer}{\iitbs}{}{}{}%
+% \cvitem{}{Adapted the Generic Data-Flow Analyzer in GCC 4.6, making it available
+  % as a plugin while working on my master's project and then as a Senior Project
+  % Engineer at the \grc}%
+% \cvitem{\faicon{globe}}{\url{http://www.cse.iitb.ac.in/grc/}}
 
 % \clearpage
-%%------------------------------------------------------------------------------
-\section{Areas of Interest}
-\cvitem{}{Programming Languages, Compiler Construction, Mobile and Web App
-  Development, Software Engineering, Introduction to Programming, Education
-  Technology, Computer supported collaborative learning (CSCL), Game based
-  learning, Computer Science Education, Engineering Education}
-\clearpage
-
-
-%%------------------------------------------------------------------------------
-\section{Research Experience}
-% \cventry{}{Ph.D.\ Thesis}{\osu}{}{}{}
-\subsection{Ph.D.\ Thesis}
-\cvitem{title}{\emph{\thesis}}
-\cvitem{advisor}{Prof.\ Neelam Soundarajan, \cse, OSU}
-\cvitem{\faicon{globe}}{\url {http://rave.ohiolink.edu/etdc/view?acc_num=osu1500511662959839}}
-\cvitem{description}{Piaget's classic work on cognitive development showed that
-  engaging learners in critical discussions with peers about ideas that are
-  different than theirs leads to deep conceptual understanding. I have developed
-  a highly innovative collaborative learning approach that exploits specific
-  affordances of web technologies to incorporate Piaget's well established ideas
-  into college-level STEM education. This approach, named CONSIDER (short for
-  CONflicting Ideas Discussed, Evaluated, and Resolved) allows creation of small
-  groups of students with different ideas about the topic in question, engages
-  them in a highly-structured rounds-based discussion so that the group
-  progresses at an equitable pace, and makes their submissions anonymous to
-  others so that students can receive the comments without any preconceived
-  notions they may have about the poster. A platform independent responsive web
-  application was developed to implement this approach and to compare it with
-  the commonly used discussion forum approach, where students respond to other
-  posts in a threaded discussion. A quantitative gain-score analysis of pre- and
-  post-test scores shows that students developed better understanding of the
-  topics discussed with the CONSIDER approach, than they did with the
-  conventional, forum-based approach.}
-
-\subsection{Other Research Projects}
-\cventry{2014--2016}{GeoGame}{\osu}{}{}{}
-
-\cvitem{}{Developed functionality for GeoGame, a web based role-playing game
-  developed using MVC .NET, which lets the students of geography experience the
-  life of an ordinary farmer in developing countries.}
-
-\cvitem{}{Coordinated the teams of developers, adding functionality to the game,
-  designing experiments to evaluate effects of the game on learning, and
-  resolving software issues.}
-
-\cvitem{}{Led multiple capstone teams during the course of these projects.}
-\cvitem{\faicon{globe}}{\url{http://geogame.osu.edu}}
-
-\cventry{2011--2012}{PolyOpt/Fortran}{\osu}{}{}{}%
-\cvitem{}{Worked on testing and evaluation of a software PolyOpt/Fortran, which
-  is a locally developed loop optimization framework}%
-\cvitem{\faicon{globe}}{\url{http://web.cse.ohio-state.edu/~pouchet.2/software/polybench/polybench-fortran.html}}
-
-
-\cventry{2010--2011}{Generic Data-Flow Analyzer}{\iitbs}{}{}{}%
-\cvitem{}{Adapted the Generic Data-Flow Analyzer in GCC 4.6, making it available
-  as a plugin while working on my master's project and then as a Senior Project
-  Engineer at the \grc}%
-\cvitem{\faicon{globe}}{\url{http://www.cse.iitb.ac.in/grc/}}
-
-\clearpage
 % \cvitem{\aiicon{orcid}}{\url{http://orcid.org/0000-0003-4536-2446}}
 %%------------------------------------------------------------------------------
 % \renewcommand{\refname}{Some Relevant Publications}
@@ -214,132 +201,48 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \printbibliography[title=Dissertations, keyword={thesis}, heading=subbibliography]%
 \printbibliography[title=Other Publications, keyword={tr}, heading=subbibliography]%
 %%------------------------------------------------------------------------------
-% \section{Skills}
-% \cvitem{Languages}{Python, HTML, Javascript, C, C++, C\#, Java, R}
-%
-% \cvitem{Softwares}{Pycharm IDE, Eclipse, Microsoft Visual Studio, git, gcc}
-%--------------------------
-
-%%------------------------------------------------------------------------------
 \section{Teaching Experience}
-% \cventry{Spring 2018}{Instructor}{Principles of Programming Languages}{OSU}{}{}
-\cventry{}{Principles of Programming Languages}{OSU}{}{}{Spring 2018}%
-% \cvitem{Spring 2018}{This is a junior/senior level CSE major course that focuses
-  % on Formal languages and grammars; recursive descent parsing; data types,
-  % expressions, control structures, parameter passing; compilers and
-  % interpreters; memory management; functional programming principles. Students
-  % implement an interpreter using recursive decent parsing for an imperative
-  % language CORE.}
-% \cventry{Spring 2017 -- Spring 2018}{Instructor}{Software I:
-  % Components}{OSU}{}{}
-\cventry{}{Software I: Components}{OSU}{}{}{Spring, Summer, Fall 2017; Spring 201}%
-% \cvitem{Spring, Summer, Fall 2017; Spring 2018}{Over the span of last four
-  % semesters, I have taught total of 9 sections of this pre-major course, with
-  % about 40 students each. This course focuses on Intellectual foundations of
-  % software engineering; design-by-contract principles; mathematical modeling of
-  % software functionality; component-based software from client perspective. }
-
-% \cventry{Summer 2017}{Instructor}{Introduction to Computer Programming In
-% Java}{OSU}{}{}
-\cventry{}{Introduction to Computer Programming In Java}{OSU}{}{}{Summer 2017}
-% \cvitem{Summer 2017}{This course introduces students to computer programming and
-  % to problem solving techniques using computer programs; taken by CSE majors as
-  % well as non-majors.}
-
-% \cventry{Fall 2016}{Instructor}{Data Structures Using Java}{OSU}{}{}
-\cventry{}{Data Structures Using Java}{OSU}{}{}{Fall 2016}
-% \cvitem{Fall 2016}{Teaching a sophomore level that is designed to introduce the general
-  % concepts of computer programming and programming languages by providing
-  % practical experience programming in the Java programming language. The topics
-  % focused are: Subroutines and modular programming, searching, basic data
-  % structures, introduction to sequential files.}
-
+\cventry{}{Principles of Programming Languages}{OSU}{}{}{Spring, Fall 2018}%
+\cventry{}{Software II: Software Development and Design}{OSU}{}{}{Fall 2018}%
+\cventry{}{Software I: Components}{OSU}{}{}{Spring, Summer, Fall 2017; Spring 2018}%
+\cventry{}{Introduction to Computer Programming In Java}{OSU}{}{}{Summer 2017}%
+\cventry{}{Data Structures Using Java}{OSU}{}{}{Fall 2016}%
 \cventry{}{Mobile App Development}{OSU}{}{}{Spring and Summer 2014}%
-% \cvitem{Spring \& Summer 2014}{Taught a senior/graduate level project-based
-  % course on mobile app development for two semesters}%
-% \cvitem{}{Revised course content to suit newer versions of the Android operating
-  % system}%
-% \cvitem{}{Advised student teams in developing 10--12 projects each semester}%
-% \cvitem{}{Designed and graded 40+ midterm and final exams per semester}%
-% \cvitem{}{Designed and developed multiple apps to explain the concepts in the
-  % course}%
-
 \cventry{}{Software-I}{OSU}{(Grader)}{}{Fall 2014}%
-% \cvitem{Fall 2014}{Graded 40+ assignments in this introductory course on
-  % software and computer programming}
-
 \cventry{}{C++ Programming}{OSU}{}{}{Summer 2013}%
-% \cvitem{Summer 2013}{Taught a senior level C++ course, focusing on the object
-  % oriented nature of the language}%
-% \cvitem{}{Designed lecture and presentation material for the course}%
-% \cvitem{}{Designed and graded 20+ assignments}%
-
 \cventry{}{Introduction to Programming}{OSU}{}{}{Spring 2013}%
-% \cvitem{Spring 2013}{Taught a freshman/sophomore level programming course using
-  % C++; most students were not computer science majors}%
-% \cvitem{}{Conducted the corresponding lab for the course (2 hours per week)}%
-% \cvitem{}{Graded 40+ lab assignments, homeworks and exams}%
-% \cvitem{}{Communicated with other TAs and the course-coordinator in this
-  % 10-section course}%
-
 \cventry{}{Operating Systems}{OSU}{(Grader)}{}{Summer 2013}%
-% \cvitem{Summer 2013}{Graded 40+ assignments and homeworks in this junior/senior
-  % level course}%
-
 \cventry{}{Program Analysis}{\iitbs}{(Grader)}{}{2009--2010}%
-% \cvitem{2009--2010}{Graded 40+ assignments and exams in this graduate level
-  % computer science course for two semesters}%
-
 \cventry{}{Introduction to programming}{\iitbs}{(Grader)}{}{2008}%
-% \cvitem{2008}{Conducted programming labs for this introductory programming
-  % course for non-majors and majors (4 hours per week)}%
-% \cvitem{}{Graded 40+ assignments and exams}%
-
 % \clearpage
 
 % ------------------------------------------------------------------------------
-\section{Awards and Honors}
-\cventry{}{Best Student Paper Award}{ASEE North Central Section}{2016}{}{}%
-\cventry{}{Member}{Institute of Electrical and Electronics
-  Engineers}{(IEEE)}{}{}%
-% \cvitem{}{Computer Society}%
-% \cvitem{}{Education Society}%
-\cventry{}{Member}{American Society for Engineering Education}{(ASEE)}{}{}%
-% \cvitem{}{Computing and Information Technology Division}%
-% \cvitem{}{Student Division}%
-% \cvitem{}{Educational Research and Methods (ERM) Division}%
-% \cvitem{}{Electrical and Computer Engineering (ECE) Division}%
-% \cvitem{}{Software Engineering Division}%
-\cventry{}{Member}{Association for Computing Machinery}{(ACM)}{}{}%
-% \cvitem{}{Special Interest Group on Computer Science Education (SIGCSE)}%
-
 \section{Talks/Presentations}
-\cventry{Aug.\ 2016}{New TA Orientation Facilitator}{\ucat}{\osu}{}{Served as a
-  facilitator for the session on `Teaching as a Grader' and as a panelist on the
-  session for `International Teaching Associates'}
+\cventry{Jul.\ 2018}{Cooperative and Collaborative Learning in Engineering Classrooms}{\iucee}{Webinar}{}{}%
+\cventry{Aug.\ 2016}{New TA Orientation Facilitator}{\ucat}{\osu}{}{}%
 
 \section{Workshops attended}
-\cventry{Mar.\ 2016}{DO-IT Access Cyberlearning}{U. of Washington, Seattle}{}{}{}
+\cventry{Mar.\ 2016}{DO-IT Access Cyberlearning}{University of Washington,
+  Seattle}{}{}{}
 
 \clearpage
 %%------------------------------------------------------------------------------
 \section{Service Activities}
 \subsection{Field/Profession}
-\cventry{}{Technical Program Committees}{Research Paper/poster Reviews}{}{}{}%
-\cvitem{}{\href{http://icatse.org/icisa2018/}{9th iCatse Conference on
-    Information Science and Applications (ICISA 2018)}}%
-\cvitem{}{\href{https://sigcse2018.sigcse.org}{ACM SIGCSE 2018}}%
-\cvitem{}{\href{https://www.asee.org/conferences-and-events/conferences/annual-conference/2018}{ASEE
-    125th Annual Conference \& Exposition, 2018}}%
-\cvitem{}{\href{http://fie2017.org/}{IEEE Frontiers in Education 2017}}%
-\cvitem{}{\href{https://www.asee.org/conferences-and-events/conferences/annual-conference/2017}{ASEE
-    124th Annual Conference \& Exposition, 2017}}%
-\cvitem{}{\href{http://news.uitm.edu.my/index.php/n/research/247-8th-international-conference-on-university-learning-and-teaching-incult-2016}{8th
-    International Conference on University Learning and Teaching (InCULT
-    2016)}}%
-\cvitem{}{\href{http://fie2016.org/}{IEEE Frontiers in Education 2016}}%
-\cvitem{}{\href{https://www.asee.org/conferences-and-events/conferences/annual-conference/2016}{ASEE
-    123rd Annual Conference \& Exposition, 2016}}%
+\cventry{2018--present}{Associate Editor}{Journal of Engineering Education
+  Transformations}{}{}{}%
+\cventry{2018--present}{Journal Reviewer}{}{}{}{}%
+\cvitem{}{The ASEE Computers in Education (COED) Journal}%
+\cventry{2016--present}{Technical Program Committees}{}{}{}{}%
+% \cvitem{}{\href{http://icatse.org/icisa2018/}{9th iCatse Conference on
+    % Information Science and Applications (ICISA 2018)}}%
+\cvitem{}{ACM SIGCSE Technical Symposium on Computer Science Education, 2019, 2018}%
+\cvitem{}{ASEE Annual Conference \& Exposition, 2018, 2017, 2016}%
+\cvitem{}{IEEE Frontiers in Education, 2018, 2017}%
+% \cvitem{}{\href{http://news.uitm.edu.my/index.php/n/research/247-8th-international-conference-on-university-learning-and-teaching-incult-2016}{8th
+    % International Conference on University Learning and Teaching (InCULT
+    % 2016)}}%
+\cventry{2018--20}{Secretary-Treasurer}{Computers in Education Division}{ASEE}{}{}%
 \cventry{2016}{Volunteer}{Buck-i-code}{ACM-W, OSU}{}{A day-long workshop
   targeted at school-going female students to get them interested in computer
   science at a young age.}%
@@ -350,7 +253,7 @@ maxbibnames=99, defernumbers=true]{biblatex}
 
 
 \subsection{University}
-\cventry{2018}{Research Paper Judge}
+\cventry{2018}{Research Poster Judge}
 {\href{https://cgs.osu.edu/hayes-forum/}{32nd Edward F. Hayes Graduate Research
     Forum}}{OSU}{}{}%
 \cventry{2017}{Faculty Mentor}{New Graduate TA Orientation}{\ucat}{\osu}{}%
