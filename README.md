@@ -23,3 +23,9 @@ Make changes to suit your profile, and then run the following command to produce
 ```
 $ xelatex -shell-escape <tex-file-name>
 ```
+
+Optionally, you can use the `$ make` command to build the pdf. `$ make auto`
+watches the source files for changes and updates the pdf as and when the changes
+are saved.
+
+Also, if the `.bib` file is changed, you will have to run `biber <tex-file-name>` again. the .bib file is not in the dependencies of the make rules.
