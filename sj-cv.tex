@@ -89,23 +89,26 @@ maxbibnames=99, defernumbers=true]{biblatex}
 %%------------------------------------------------------------------------------
 
 %% My macros
-\newcommand{\con}{CONSIDER}
-\newcommand{\confull}{CONflicting Student Ideas Discussed, Evaluated and Resolved}
-\newcommand{\osu}{The Ohio State University}
-\newcommand{\iitb}{Indian Institute of Technology Bombay}
-\newcommand{\iitbs}{IIT Bombay}
-\newcommand{\grc}{GCC Resource Center}
-\newcommand{\nitk}{National Institute of Technology Karnataka}
-\newcommand{\nitks}{NITK}
-\newcommand{\cse}{Computer Science \& Engineering}
-\newcommand{\gra}{Graduate Research Associate}
-\newcommand{\gta}{Graduate Teaching Associate}
-\newcommand{\geogame}{\url{geogame.osu.edu}}
-\newcommand{\thesis}{\con: A Novel Approach to Conflict-Driven Collaborative-Learning}
-\newcommand{\gdfa}{Extending the Generic Data-Flow Analyzer (gdfa) in GCC}
-\newcommand{\ucat}{University Center for Advancement in Teaching}
-\newcommand{\asee}{American Society for Engineering Education}
-\newcommand{\iucee}{Indo-Universal Collaboration for Engineering Education}
+\newcommand{\con}{CONSIDER}%
+\newcommand{\confull}{CONflicting Student Ideas Discussed, Evaluated and
+  Resolved}%
+\newcommand{\osu}{The Ohio State University}%
+\newcommand{\iitb}{Indian Institute of Technology Bombay}%
+\newcommand{\iitbs}{IIT Bombay}%
+\newcommand{\grc}{GCC Resource Center}%
+\newcommand{\nitk}{National Institute of Technology Karnataka}%
+\newcommand{\nitks}{NITK}%
+\newcommand{\cse}{Computer Science \& Engineering}%
+\newcommand{\gra}{Graduate Research Associate}%
+\newcommand{\gta}{Graduate Teaching Associate}%
+\newcommand{\geogame}{\url{geogame.osu.edu}}%
+\newcommand{\thesis}{\con: A Novel Approach to Conflict-Driven
+  Collaborative-Learning}%
+\newcommand{\gdfa}{Extending the Generic Data-Flow Analyzer (gdfa) in GCC}%
+\newcommand{\ucat}{University Center for Advancement in Teaching}%
+\newcommand{\asee}{American Society for Engineering Education}%
+\newcommand{\iucee}{Indo-Universal Collaboration for Engineering Education}%
+\newcommand{\jeet}{Journal of Engineering Education Transformations}%
 %%------------------------------------------------------------------------------
 
 \immediate\write18{sh ./vc}
@@ -116,14 +119,28 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \begin{document}
 \makecvtitle
 \thispagestyle{firststyle}
-\section{Experience}
-% \label{sec:Experience}
-\cventry{2017--\hspace{10pt}}{Senior Lecturer}{}{\cse, \osu}{}{}%{January, 2017 -- present}
-\cventry{2011--16}{Graduate Teaching and Research Associate}{}{\cse, \osu}{}{}%{2011--16}
-\cventry{2010--11}{Senior Project Engineer}{}{\grc, \iitb}{}{}%{2010--11}
-\cventry{2008--10}{Teaching Assistant}{}{\cse, \iitb}{}{}%{2008--10}
-\cventry{2005--06}{Software Engineer}{}{SoftJin Technologies Pvt.\ Ltd., Bangalore India}{}{}%{2005--06}
 
+% \section{Summary}
+I am a Senior Lecturer in the Department of \cse{} at \osu. My interest is in a
+range of topics in Engineering Education and Software Engineering, including but
+not limited to Computing Education, Engineering Education, Global Engineering
+Education, Service Learning, Software Engineering, and Programming Languages. I
+have taught 65 credit hours to 724 students in 8 different core CS courses
+between Spring 2013 and Fall 2018 semesters. In the process, I have supervised 5
+graduate and 22 undergraduate teaching assistants. I serve as an associate
+editor of the \jeet{} and the secretary-treasurer of the Computers in Education
+Division of the \asee.
+
+\section{Appointments}
+\cventry{}{Senior Lecturer}{}{\cse, \osu}{}{Jan.\ 2017 -- present}%
+\cventry{}{Graduate Teaching Associate}{}{\cse, \osu}{}{Jan.\ 2013 -- Aug.\
+  2014, Aug.\ 2016 -- Dec.\ 2016}%
+\cventry{}{Graduate Research Associate}{}{\cse, \osu}{}{Sep.\ 2011 -- Dec.\
+  2012, Aug.\ 2014 -- Aug.\ 2016}%
+\cventry{}{Senior Project Engineer}{}{\grc, \iitb}{}{2010 -- 2011}%
+\cventry{}{Teaching Assistant}{}{\cse, \iitb}{}{2008--10}%
+\cventry{}{Software Engineer}{}{SoftJin Technologies Pvt.\ Ltd., Bangalore
+  India}{}{2005--06}%
 
 \section{Education}
 \cventry{2017}{Doctor of Philosophy}{\cse, Ohio State University}{}{}{}%{Columbus OH}{}{\cse}  % arguments 3 to 6 can be left empty
@@ -134,19 +151,17 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \cventry{2005}{Bachelor of Engineering}{Computer Engineering, \nitk}{India}{}{}%{Computer Engineering}
 
 
-\section{Awards and Honors}
-\cventry{}{Lecturer Teaching Development Grant}{Spring 2017}{}{}{\ucat, \osu}%
-\cventry{}{Best Student Paper Award}{2016}{}{}{\asee, North Central Section}%
 
-\section{Research Interests and Plans}
-\cvitem{interests}{Computing Education, Engineering Education, Global
-  Engineering Education, Participation of Under-represented Groups, Service
-  Learning, Software Engineering}%
-\cvitem{plans}{Continuing my PhD thesis work (CONSIDER) that enables deeper
-  understanding of concepts through technology-enabled discussions:
-  investigating its features that facilitate better participation of introvert,
-  female, and underrepresented students.}%
-\cvitem{}{Engineering faculty development in India through \iucee.}%
+
+% \section{Research Interests and Plans}
+% \cvitem{interests}{Computing Education, Engineering Education, Global
+  % Engineering Education, Participation of Under-represented Groups, Service
+  % Learning, Software Engineering}%
+% \cvitem{plans}{Continuing my PhD thesis work (CONSIDER) that enables deeper
+  % understanding of concepts through technology-enabled discussions:
+  % investigating its features that facilitate better participation of introvert,
+  % female, and underrepresented students.}%
+% \cvitem{}{Engineering faculty development in India through \iucee.}%
 % \cvitem{}{Service learning projects in collaboration with rural development
   % non-profits in central India.}%
 \clearpage
@@ -210,44 +225,46 @@ maxbibnames=99, defernumbers=true]{biblatex}
 \section{Publications}
 \nocite{*}
 \printbibliography[title={Book Chapters}, type=incollection, heading=subbibliography]%
-\printbibliography[title=Conference Proceedings, type=inproceedings, heading=subbibliography]%
+\printbibliography[title=Peer Reviewed Conferences, type=inproceedings, heading=subbibliography]%
 \printbibliography[title=Dissertations, keyword={thesis}, heading=subbibliography]%
 \printbibliography[title=Other Publications, keyword={tr}, heading=subbibliography]%
 %%------------------------------------------------------------------------------
-\section{Teaching Experience}
-\cventry{}{Principles of Programming Languages}{OSU}{}{}{Spring, Fall 2018}%
-\cventry{}{Software II: Software Development and Design}{OSU}{}{}{Fall 2018}%
-\cventry{}{Software I: Components}{OSU}{}{}{Spring, Summer, Fall 2017; Spring 2018}%
-\cventry{}{Introduction to Computer Programming In Java}{OSU}{}{}{Summer 2017}%
-\cventry{}{Data Structures Using Java}{OSU}{}{}{Fall 2016}%
-\cventry{}{Mobile App Development}{OSU}{}{}{Spring and Summer 2014}%
-\cventry{}{Software-I}{OSU}{(Grader)}{}{Fall 2014}%
-\cventry{}{C++ Programming}{OSU}{}{}{Summer 2013}%
-\cventry{}{Introduction to Programming}{OSU}{}{}{Spring 2013}%
-\cventry{}{Operating Systems}{OSU}{(Grader)}{}{Summer 2013}%
-\cventry{}{Program Analysis}{\iitbs}{(Grader)}{}{2009--2010}%
-\cventry{}{Introduction to programming}{\iitbs}{(Grader)}{}{2008}%
+\section{Courses Taught}
+\cventry{}{CSE 3341}{Principles of Programming Languages (Spring and Fall 2018)}{}{}{}%
+\cventry{}{CSE 2231}{Software II: Software Development and Design (Fall 2018)}{}{}{}%
+\cventry{}{CSE 2221}{Software I: Components (Spring, Summer, Fall 2017; Spring 2018)}{}{}{}%
+\cventry{}{CSE 1223}{Introduction to Computer Programming In Java (Summer 2017)}{}{}{}%
+\cventry{}{CSE 2321}{Data Structures Using Java (Fall 2016)}{}{}{}%
+\cventry{}{CSE 5236}{Mobile App Development (Spring and Summer 2014)}{}{}{}%
+\cventry{}{CSE 4252}{C++ Programming (Summer 2013)}{}{}{}%
+\cventry{}{CSE 1222}{Introduction to Computer Programming in C++ for Engineers
+  and Scientists (Spring 2013)}{}{}{}%
 % \clearpage
 
 % ------------------------------------------------------------------------------
 \section{Talks/Presentations}
 \cventry{Jul.\ 2018}{Cooperative and Collaborative Learning in Engineering
   Classrooms}{\iucee}{Webinar}{}{Attended by over 100 engineering faculty across
-India}%
+  India}%
 \cventry{Aug.\ 2016}{New TA Orientation Facilitator}{\ucat}{\osu}{}{}%
 
 \section{Workshops attended}
+\cventry{Dec.\ 2017}{Course Design Institute}{\ucat}{\osu}{}{}%
 \cventry{Mar.\ 2016}{DO-IT Access Cyberlearning}{University of Washington,
-  Seattle}{}{}{}
+  Seattle}{}{}{}%
 
+\section{Awards and Honors}
+\cventry{}{Lecturer Teaching Development Grant}{Spring 2017}{}{}{\ucat, \osu}%
+\cventry{}{Best Student Paper Award}{2016}{}{}{\asee, North Central Section}%
 \clearpage
 %%------------------------------------------------------------------------------
-\section{Service Activities}
+\section{Service}
 \subsection{Field/Profession}
-\cventry{2018--present}{Associate Editor}{Journal of Engineering Education
-  Transformations}{}{}{}%
+\cventry{2018--present}{Associate Editor}{\jeet}{}{}{}%
+\cventry{2018--20}{Secretary-Treasurer}{Computers in Education
+  Division}{ASEE}{}{}%
 \cventry{2018--present}{Journal Reviewer}{}{}{}{}%
-\cvitem{}{The ASEE Computers in Education (COED) Journal}%
+\cvitem{}{\jeet}%
 \cventry{2016--present}{Technical Program Committees}{}{}{}{}%
 % \cvitem{}{\href{http://icatse.org/icisa2018/}{9th iCatse Conference on
     % Information Science and Applications (ICISA 2018)}}%
@@ -258,7 +275,6 @@ India}%
 % \cvitem{}{\href{http://news.uitm.edu.my/index.php/n/research/247-8th-international-conference-on-university-learning-and-teaching-incult-2016}{8th
     % International Conference on University Learning and Teaching (InCULT
     % 2016)}}%
-\cventry{2018--20}{Secretary-Treasurer}{Computers in Education Division}{ASEE}{}{}%
 \cventry{2016}{Volunteer}{Buck-i-code}{ACM-W, OSU}{}{A day-long workshop
   targeted at school-going female students to get them interested in computer
   science at a young age.}%
@@ -267,8 +283,8 @@ India}%
   the technical team, in charge of conducting the lab sessions for two
   workshops.}%
 
-
 \subsection{University}
+\cventry{2018}{Judge}{OHI/O Hackathon}{}{}{}%
 \cventry{2018}{Research Poster Judge}
 {\href{https://cgs.osu.edu/hayes-forum/}{32nd Edward F. Hayes Graduate Research
     Forum}}{OSU}{}{}%
