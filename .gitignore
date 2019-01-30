@@ -59,3 +59,4 @@ vc.tex
 *.xml
 /*.fdb_latexmk
 /*.fls
+_region_.tex
