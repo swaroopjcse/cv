@@ -1,0 +1,161 @@
+<!-- -*- mode:markdown -*- -->
+---
+title: "CV"
+author: "Swaroop Joshi"
+email: swaroopjoshi@ieee.org
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: 
+# Assistant Professor (Lecturer) · School of Computing · University of Utah
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: +1 801 581 4321
+address: 50 S Campus Dr · MEB 2166 · Salt Lake City Utah 84106 USA
+updated: yes
+urlcolor: black
+web: swaroop.netlify.com
+---
+
+# Employment
+
+## University of Utah, School of Computing
+- Assistant Professor, Lecturer \hfill 2019--present
+
+*The Ohio State Univesity, Dept. of Computer Science and Engineering*
+
+- Senior Lecturer \hfill 2017--2019
+
+*Indian Institute of Technology Bombay, GCC Resource Center*
+
+- Senior Project Engineer \hfill 2010--2011
+
+*SoftJin Technologies Pvt Ltd (Bengaluru India)*
+
+- Software Engineer \hfill 2005--2006
+
+
+# Education
+
+*The Ohio State University*, Ph.D. Computer Science & Engineering \hfill 2017
+
+*The Ohio State University*, M.S. Computer Science & Engineering \hfill 2016
+
+*Indian Institute of Technology Bombay*, M.Tech. Computer Science & Engineering \hfill 2010
+
+*National Institute of Technology Karnataka, Surathkal*, B.E. Computer Engineering \hfill 2005
+
+# Publications
+
+## Chapters in Edited Volumes
+
+O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. Soundarajan. *Defining a Geogame Genre Using Core Concepts of Games, Play, and Geographic Information and Thinking*. In: Geogames and Geoplay: Game-based Approaches to the Analysis of Geo-Information. Ed. by O. Ahlqvist and C. Schlieder. Springer International Publishing, 2018, pp. 19–35.
+
+## Peer Reviewed Conferences
+
+**S. Joshi**, N. Soundarajan, and J. Morris. *Innovative Approach to Online Argumentation in Computing and Engineering Courses*. In: 125th ASEE Annual Conference and Exposition. American Society for Engineering Education, 2018.
+
+N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation and Models for Structuring the Arguments*. In: 2018 IEEE Frontiers in Education Conference (FIE) (FIE 2018). San Jose, USA, Oct. 2018.
+
+**S. Joshi** and N. Soundarajan. *Using Anonymity and Rounds-Based Structure for Effective Online Discussions in STEM Courses*. In: 124th ASEE Annual Conference & Exposition Proceedings. American Society for Engineering Education, 2017.
+
+**S. Joshi** and N. Soundarajan. *CONSIDER: A Novel Approach to Conflict-Driven Collaborative Learning in Engineering Courses*. In: 2016 ASEE Annual Conference & Exposition Proceedings. American Society for Engineering Education, June 2016.
+
+**S. Joshi** and N. Soundarajan. *Enabling Deep Conceptual Learning in Computing Courses through Conflict-based Collaborative Learning*. In: 2016 IEEE Frontiers in Education Conference (FIE) (FIE 2016). Erie, USA, Oct. 2016.
+
+**S. Joshi** and N. Soundarajan. *Exploring conflict-based collaborative learning in engineering courses*. In: ASEE North Central Sectional Conference Proceedings. American Society for Engineering Education, Mar. 2016.
+
+**S. Joshi**, N. Soundarajan, and R. Ramnath. *Conflict-Driven Cooperative-Learning in Computing Courses (Abstract Only)*. In: Proceedings of the 46th ACM Technical Symposium on Computer Science Education - SIGCSE ’15. Association for Computing Machinery (ACM), Mar. 2015.
+
+N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Learning in Software Engineering Courses*. In: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering. Institute of Electrical & Electronics Engineers (IEEE), May 2015.
+
+N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-Progress: Conflict-Driven Cooperative Learning in Engineering Courses*. In: 2015 ASEE Annual Conference and Exposition Proceedings. American Society for Engineering Education, June 2015.
+
+N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approach to collaborative learning in the flipped classroom*. In: 121st ASEE Annual Conference and Exposition. American Society for Engineering Education, June 2014.
+
+## Dissertations
+
+**S. R. Joshi**. *CONSIDER: A Novel, Online Approach to Conflict-Driven Collaborative-Learning*. PhD thesis. The Ohio State University, Aug. 2017.
+
+**S. Joshi**. *Extending the Generic Data-Flow Analyzer (gdfa) in GCC*. Master's Project Report. Indian Institute of Technology Bombay, June 2010.
+
+# Awards and Honors
+
+*Lecturer Teaching Development Grant*, Spring 2017.
+
+- University Center for Advancement in Teaching, The Ohio State University
+
+*Best Student Paper Award*, 2016.
+
+- American Society for Engineering Education, North Central Section
+
+# Invited Talks
+
+*Effectively Teaching a Principles of Programming Languages Course* \hfill Feb--Apr, 2019
+
+- Indo-Universal Collaboration for Engineering Education, a 10-week web course for 50 CS faculty from various engineering colleges in India
+
+*Cooperative and Collaborative Learning in Engineering Classrooms* \hfill Jul. 2018
+
+- Indo-Universal Collaboration for Engineering Education Webinar,
+attended by over 100 engineering faculty across India
+
+# Research Experience
+- *CONSIDER, Ph.D. Dissertation Research, OSU* \hfill 2013--2017
+  - A computer-supported collaborative learning project that leverages socio-cognitive conflict and exploits the affordances of web technologies to provide structured, anonymous, online discussion to enhance learning of concepts in college level engineering courses.
+
+- *GeoGame, Graduate Research Associate, OSU* \hfill 2014--2016
+  - A game-based learning project where college students of world regional geography interact with each other by role-playing as farmers in developing countries.
+
+- *Testing PolyOpt/Fortran Loop Optimization Framework, Graduate Research Associate, OSU* \hfill 2011--2012
+
+- *Extending the Generic Data-Flow Analyzer (gdfa) in GCC, M.Tech. Project, IIT Bombay* \hfill 2009--2011
+
+# Teaching Experience
+## School of Computing, University of Utah
+- Mobile App Development
+- Senior Capstone
+- Data Structures & Algorithms
+
+## Computer Science & Engineering, OSU
+- Principles of Programming Languages
+- Software II: Software Development and Design
+- Software I: Components
+- Introduction to Computer Programming In Java
+- Data Structures Using Java
+- Mobile App Development
+- C++ Programming
+- Introduction to Computer Programming in C++ for Engineers and Scientists
+
+# Service to Profession
+- *Associate Editor*
+  - Journal of Engineering Education Transformations
+- *Secretary-Treasurer*
+  - Computers in Education Division, ASEE
+- *Journal Reviewer*
+  - Journal of Engineering Education Transformations
+- *Conference paper or poster Reviewer*
+  - ACM SIGCSE Technical Symposium on Computer Science Education, 2019, 2018
+  - ASEE Annual Conference & Exposition, 2019, 2018, 2017, 2016
+  - IEEE Frontiers in Education (FIE), 2018, 2017, 2016
+  - IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
+  
+# Teaching Areas
+- Programming Languages
+- Mobile App Development
+- Compiler Construction and Optimization 
+- CS1/CS2
+
+# Professional Memberships
+- IEEE: Education Society, Computer Society
+- ACM: Special Interest Group on Computer Science Education (SIGCSE)
+- American Society for Engineering Education (ASEE): Educational Research and
+  Methods division, Electrical and Computer Engineering division
