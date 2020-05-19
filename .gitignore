@@ -60,3 +60,6 @@ vc.tex
 /*.fdb_latexmk
 /*.fls
 _region_.tex
+.Rproj.user
+.Rhistory
+.RData
