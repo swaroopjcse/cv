@@ -17,7 +17,7 @@ keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
 phone: +1 801 581 4321
-address: 50 S Campus Dr · MEB 3122 · Salt Lake City Utah 84106 USA
+address: 50 S Campus Dr · MEB 3122 · Salt Lake City Utah 84112 USA
 updated: 
 urlcolor: black
 web: swaroop.netlify.app
