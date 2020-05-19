@@ -1,34 +1,37 @@
-# CV
+# CV #
 
-I am using svmiller's [templates](https://github.com/svmiller/svm-r-markdown-templates) to maintain my CV.
-
+I have modified svmiller's [template](https://github.com/svmiller/svm-r-markdown-templates) to build my CV in Rmarkdown.
 
 ## Requirements ##
 
 - pdflatex
+- pandoc
 - R
 - any text editor (I use emacs with markdown mode, RStudio is pretty powerful for any R/Rmd editing, but any plain text editor will work too)
 
-## Quick Start
+## Workflow ##
 
-This is my workflow using emacs. RStudio users should simply `Knitr` it.
+This is my workflow using emacs and command line. RStudio users should simply `Knit` it.
 
-```sh
-> r
-```
-
-This starts and *R* session.
+The [run.R](run.R) script takes care of everything. Simply modify the `sj-cv.Rmd` file and run the script using either 
 
 ```sh
-> library(rmarkdown)
+> ./run.R
 ```
 
-This loads the `rmarkdown` library if it's installed. If it's not, you'll get an error message, and you can install it using the command `install.packages('rmarkdown')` -- internet connection required.
-
-Now, make changes to the `sj-cv.Rmd` file and save it.
+or
 
 ```sh
-> rmarkdown::render('sj-cv.Rmd', 'pdf_document')
+> Rscript run.R
 ```
 
-This command renders a PDF document from the `sj-cv.Rmd` file, given the configurations in that file.
+Default Rmd input file is `sj-cv.Rmd`. To knit any other file, send that as an argument, for example:
+```sh
+> Rscript run.R resume.Rmd
+```
+
+## License ##
+
+The content of this project is licensed under the [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0) license.
+
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
