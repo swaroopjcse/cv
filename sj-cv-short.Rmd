@@ -1,0 +1,110 @@
+---
+title: "CV"
+author: "Swaroop Joshi"
+email: swaroopjoshi@ieee.org
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+geometry: margin=1in
+jobtitle: 
+keywords: R Markdown, academic CV, template
+linkcolor: blue
+fontawesome: yes
+phone: +1 801 581 4321
+address: 50 S Campus Dr · MEB 3122 · Salt Lake City Utah 84112 USA
+updated: 
+urlcolor: black
+web: swaroop.netlify.app
+---
+
+# Employment #
+
+## University of Utah, School of Computing ##
+
+- Assistant Professor, Lecturer \hfill 2019--present
+
+## The Ohio State Univesity, Computer Science and Engineering ##
+
+- Senior Lecturer \hfill 2017--2019
+
+## Indian Institute of Technology Bombay, GCC Resource Center ##
+
+- Senior Project Engineer \hfill 2010--2011
+
+## SoftJin Technologies Pvt Ltd (Bengaluru India) ##
+
+- Software Engineer \hfill 2005--2006
+
+
+# Education
+
+*The Ohio State University*, Ph.D. Computer Science & Engineering \hfill 2017
+
+*The Ohio State University*, M.S. Computer Science & Engineering \hfill 2016
+
+*Indian Institute of Technology Bombay*, M.Tech. Computer Science & Engineering \hfill 2010
+
+*National Institute of Technology Karnataka, Surathkal*, B.E. Computer Engineering \hfill 2005
+
+# Editorial and Reviewer Experience
+
+## Associate Editor ##
+  - Journal of Engineering Education Transformations, 2018--present
+
+
+## Journal Reviewer ##
+  - Journal of Engineering Education Transformations
+
+## Conference paper or poster Reviewer ##
+  - ACM SIGCSE Technical Symposium on Computer Science Education, 2019, 2018
+  - ASEE Annual Conference & Exposition, 2019, 2018, 2017, 2016
+  - IEEE Frontiers in Education (FIE), 2018, 2017, 2016
+  - IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
+
+## Ph.D. Thesis Examiner ##
+- Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019
+
+
+# Select Publications
+
+N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation and Models for Structuring the Arguments*. In: 2018 IEEE Frontiers in Education Conference (FIE) (FIE 2018). San Jose, USA, Oct. 2018.
+
+**S. Joshi**, N. Soundarajan, and J. Morris. *Innovative Approach to Online Argumentation in Computing and Engineering Courses*. In: 125th ASEE Annual Conference and Exposition. American Society for Engineering Education, 2018.
+
+O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. Soundarajan. *Defining a Geogame Genre Using Core Concepts of Games, Play, and Geographic Information and Thinking*. In: Geogames and Geoplay: Game-based Approaches to the Analysis of Geo-Information. Ed. by O. Ahlqvist and C. Schlieder. Springer International Publishing, 2018, pp. 19–35.
+
+
+**S. Joshi** and N. Soundarajan. *Using Anonymity and Rounds-Based Structure for Effective Online Discussions in STEM Courses*. In: 124th ASEE Annual Conference & Exposition Proceedings. American Society for Engineering Education, 2017.
+
+
+**S. Joshi** and N. Soundarajan. *Enabling Deep Conceptual Learning in Computing Courses through Conflict-based Collaborative Learning*. In: 2016 IEEE Frontiers in Education Conference (FIE) (FIE 2016). Erie, USA, Oct. 2016.
+
+
+
+# Teaching Experience
+## School of Computing, University of Utah
+- Mobile App Development
+- Senior Capstone
+- Data Structures & Algorithms
+
+## Computer Science & Engineering, OSU
+- Principles of Programming Languages
+- Software II: Software Development and Design
+- Software I: Components
+- Introduction to Computer Programming In Java
+- Data Structures Using Java
+- Mobile App Development
+- C++ Programming
+- Introduction to Computer Programming in C++ for Engineers and Scientists
+
+
+# Professional Memberships
+- IEEE: Education Society, Computer Society
+- ACM: Special Interest Group on Computer Science Education (SIGCSE)
+- American Society for Engineering Education (ASEE)
