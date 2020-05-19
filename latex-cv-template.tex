@@ -202,6 +202,12 @@ $if(fontawesome)$\usepackage{fontawesome}$endif$
 \lfoot{
 \cfoot{\scriptsize  $author-meta$ - $title$ }}
 \rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+\fancypagestyle{firstpage}
+{
+  \fancyhf{} % clear any existing styles
+  \fancyfoot[L]{\scriptsize \emph{Updated: }\apstylekinda\today}%
+  \fancyfoot[R]{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+}
 
 % Always load hyperref last.
 \usepackage{hyperref}
@@ -230,11 +236,12 @@ $endif$
 
 \usepackage{datetime}
 \newdateformat{apstylekinda}{%
-  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+  \shortmonthname[\THEMONTH] \THEDAY, \THEYEAR}
 
 \begin{document}
 
-
+% --- SJ: force firstpage style ---
+\thispagestyle{firstpage}
 \centerline{\huge \bf $author$}
 
 \vspace{2 mm}
@@ -276,4 +283,3 @@ $include-after$
 
 $endfor$
 \end{document}
-
