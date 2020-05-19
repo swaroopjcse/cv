@@ -5,7 +5,7 @@ email: swaroopjoshi@ieee.org
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: svm-latex-cv.tex
+    template: latex-cv-template.tex
   html_document:
     df_print: paged
 fontfamily: mathpazo
