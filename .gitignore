@@ -61,3 +61,5 @@ vc.tex
 /*.fls
 _region_.tex
 .Rproj.user
+.Rhistory
+.RData
