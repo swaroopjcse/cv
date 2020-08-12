@@ -139,13 +139,15 @@ attended by over 100 engineering faculty across India
 # Service to Profession
 
 ## Associate Editor ##
-  - Journal of Engineering Education Transformations, 2018--present
+  - [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--present
 
 ## Secretary-Treasurer ##
 - ASEE Computers in Education Division, 2018--2020
 
 ## Journal Reviewer ##
-  - Journal of Engineering Education Transformations
+  - [Journal of Engineering Education Transformations](http://www.journaleet.org)
+  - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
+
 
 ## Conference paper or poster Reviewer ##
   - ACM SIGCSE Technical Symposium on Computer Science Education, 2019, 2018
@@ -156,6 +158,11 @@ attended by over 100 engineering faculty across India
 ## Ph.D. Thesis Examiner ##
 - Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019
 
+# Service to University #
+
+## University of Utah ##
+- Lecturing faculty search committee, School of Computing, 2019--2020
+
 # Teaching Areas
 - Programming Languages
 - Mobile App Development
@@ -165,5 +172,4 @@ attended by over 100 engineering faculty across India
 # Professional Memberships
 - IEEE: Education Society, Computer Society
 - ACM: Special Interest Group on Computer Science Education (SIGCSE)
-- American Society for Engineering Education (ASEE): Educational Research and
-  Methods division, Electrical and Computer Engineering division
+
