@@ -98,6 +98,10 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approac
 
 # Invited Talks
 
+*CPS in Computing Education: Current Trends* \hfill Oct. 2020
+
+- Current Trends in Cyber-Physical Systems (CTiCPS) 2020
+
 *Effectively Teaching a Principles of Programming Languages Course* \hfill Feb--Apr, 2019
 
 - Indo-Universal Collaboration for Engineering Education, a 10-week web course for 50 CS faculty from various engineering colleges in India
