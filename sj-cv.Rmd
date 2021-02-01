@@ -16,8 +16,8 @@ jobtitle:
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
-phone: +1 801 581 4321
-address: 50 S Campus Dr · MEB 3122 · Salt Lake City Utah 84112 USA
+phone: 
+# address: BITS Pilani · KK Birla Goa Campus · Zuarinagar Goa 403726 · India
 updated: 
 urlcolor: black
 web: swaroop.netlify.app
@@ -25,9 +25,14 @@ web: swaroop.netlify.app
 
 # Employment #
 
+## Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus ##
+## Department of Computer Science and Information Systems ##
+
+- Assistant Professor \hfill 2021--present
+
 ## University of Utah, School of Computing ##
 
-- Assistant Professor, Lecturer \hfill 2019--present
+- Assistant Professor, Lecturer \hfill 2019--2020
 
 ## The Ohio State Univesity, Computer Science and Engineering ##
 
