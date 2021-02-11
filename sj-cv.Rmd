@@ -1,7 +1,7 @@
 ---
 title: "CV"
 author: "Swaroop Joshi"
-email: swaroopjoshi@ieee.org
+email: swaroopj@goa.bits-pilani.ac.in
 output:
   pdf_document:
     latex_engine: pdflatex
@@ -16,8 +16,8 @@ jobtitle:
 keywords: R Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
-phone: 
-# address: BITS Pilani · KK Birla Goa Campus · Zuarinagar Goa 403726 · India
+phone: +91 832 2580-864
+address: Office D-161 · BITS Pilani KK Birla Goa Campus · Zuarinagar Goa 403726 · India
 updated: 
 urlcolor: black
 web: swaroop.netlify.app
@@ -117,11 +117,11 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approac
 attended by over 100 engineering faculty across India
 
 # Research Experience
-*CONSIDER, Ph.D. Dissertation Research, OSU* \hfill 2013--2017
+*CONSIDER, Ph.D. Dissertation Research, The Ohio State University* \hfill 2013--2017
 
   - A computer-supported collaborative learning project that leverages socio-cognitive conflict and exploits the affordances of web technologies to provide structured, anonymous, online discussion to enhance learning of concepts in college level engineering courses.
 
-*GeoGame, Graduate Research Associate, OSU* \hfill 2014--2016
+*GeoGame, Graduate Research Associate, The Ohio State University* \hfill 2014--2016
 
   - A game-based learning project where college students of world regional geography interact with each other by role-playing as farmers in developing countries.
 
@@ -135,7 +135,7 @@ attended by over 100 engineering faculty across India
 - Senior Capstone
 - Data Structures & Algorithms
 
-## Computer Science & Engineering, OSU
+## Computer Science & Engineering, The Ohio State University
 - Principles of Programming Languages
 - Software II: Software Development and Design
 - Software I: Components
@@ -180,6 +180,10 @@ attended by over 100 engineering faculty across India
 - CS1/CS2
 
 # Professional Memberships
-- IEEE: Education Society, Computer Society
-- ACM: Special Interest Group on Computer Science Education (SIGCSE)
+- Institute of Electrical and Electronics Engineers (IEEE)
+  - Education Society
+  - Computer Society
+- Association for Computing Machinery (ACM)
+  - Special Interest Group on Computer Science Education (SIGCSE)
+  - Special Interest Group on Accessible Computing (SIGACCESS)
 
