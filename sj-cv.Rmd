@@ -25,24 +25,27 @@ web: swaroop.netlify.app
 
 # Employment #
 
-## Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus ##
+## Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus · Goa India ##
 ## Department of Computer Science and Information Systems ##
 
 - Assistant Professor \hfill 2021--present
 
-## University of Utah, School of Computing ##
+## University of Utah · Salt Lake City UT USA ##
+## School of Computing ##
 
 - Assistant Professor, Lecturer \hfill 2019--2020
 
-## The Ohio State Univesity, Computer Science and Engineering ##
+## The Ohio State University · Columbus OH USA ##
+## Department of Computer Science and Engineering ##
 
 - Senior Lecturer \hfill 2017--2019
 
-## Indian Institute of Technology Bombay, GCC Resource Center ##
+## Indian Institute of Technology Bombay · Mumbai India ##
+## GCC Resource Center ##
 
 - Senior Project Engineer \hfill 2010--2011
 
-## SoftJin Technologies Pvt Ltd (Bengaluru India) ##
+## SoftJin Technologies Pvt Ltd · Bengaluru India ##
 
 - Software Engineer \hfill 2005--2006
 
@@ -150,13 +153,9 @@ attended by over 100 engineering faculty across India
 ## Associate Editor ##
   - [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--present
 
-## Secretary-Treasurer ##
-- ASEE Computers in Education Division, 2018--2020
-
 ## Journal Reviewer ##
   - [Journal of Engineering Education Transformations](http://www.journaleet.org)
   - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
-
 
 ## Conference paper or poster Reviewer ##
   - ACM SIGCSE Technical Symposium on Computer Science Education, 2021, 2019, 2018
@@ -164,11 +163,20 @@ attended by over 100 engineering faculty across India
   - IEEE Frontiers in Education (FIE), 2018, 2017, 2016
   - IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
   - [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS), 2020.
+  
+## Conference or workshop organizer ##
+  - *Co-organizer*, Software Engineering for Artificial Intelligence (workshop), ACM 14th Innovations in Software Engineering Conference, online, Feb. 2021
+
+## Leadership ##
+- *Secretary-Treasurer*, ASEE Computers in Education Division, 2018--2020
 
 ## Ph.D. Thesis Examiner ##
 - Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019
 
 # Service to University #
+
+## BITS Pilani ##
+- PhD admissions interview panel, Feb. 2021
 
 ## University of Utah ##
 - Lecturing faculty search committee, School of Computing, 2019--2020
