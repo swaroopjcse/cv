@@ -21,27 +21,19 @@ web: swaroopjoshi.in
 
 ### Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus · Goa India
 
-### Department of Computer Science and Information Systems
-
-- Assistant Professor \hfill 2021--present
+- Assistant Professor, Computer Science and Information Systems \hfill 2021--present
 
 ### University of Utah · Salt Lake City UT USA
 
-### School of Computing
-
-- Assistant Professor, Lecturer \hfill 2019--2020
+- Assistant Professor -- Lecturer, School of Computing \hfill 2019--2020
 
 ### The Ohio State University · Columbus OH USA
 
-### Department of Computer Science and Engineering
-
-- Senior Lecturer \hfill 2017--2019
+- Senior Lecturer, Computer Science and Engineering \hfill 2017--2019
 
 ### Indian Institute of Technology Bombay · Mumbai India
 
-### GCC Resource Center
-
-- Senior Project Engineer \hfill 2010--2011
+- Senior Project Engineer, GCC Resource Center \hfill 2010--2011
 
 ### SoftJin Technologies Pvt Ltd · Bengaluru India
 
@@ -100,32 +92,33 @@ Computing Machinery (ACM), 2021.
 
 ## Awards and Honors
 
-*Sugamyata: Accessibility in Computing Education*, INR 200,000, Apr. 2021
+### Sugamyata: Accessibility in Computing Education, INR 200,000, 2021--23
 
 - Research Initiation Grant (RIG), BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
 
-*Lecturer Teaching Development Grant*, Spring 2017.
+### Lecturer Teaching Development Grant, Spring 2017
 
 - University Center for Advancement in Teaching, The Ohio State University
 
-*Best Student Paper Award*, 2016.
+### Best Student Paper Award, 2016
 
 - American Society for Engineering Education, North Central Section
 
 ## Invited Talks
 
-*CPS in Computing Education: Current Trends* \hfill Oct. 2020
+### CPS in Computing Education: Current Trends, Oct. 2020
 
 - Current Trends in Cyber-Physical Systems (CTiCPS) 2020
 
-*Effectively Teaching a Principles of Programming Languages Course* \hfill Feb--Apr, 2019
+### Effectively Teaching a Principles of Programming Languages Course, Feb--Apr, 2019
 
-- Indo-Universal Collaboration for Engineering Education, a 10-week web course for 50 CS faculty from various engineering colleges in India
+- Indo-Universal Collaboration for Engineering Education, a 10-week web course
+  for 50 CS faculty from various engineering colleges in India
 
-*Cooperative and Collaborative Learning in Engineering Classrooms* \hfill Jul. 2018
+### Cooperative and Collaborative Learning in Engineering Classrooms, Jul. 2018
 
-- Indo-Universal Collaboration for Engineering Education Webinar,
-attended by over 100 engineering faculty across India
+- Indo-Universal Collaboration for Engineering Education Webinar, attended by
+  over 100 engineering faculty across India
 
 ## Teaching Experience
 
