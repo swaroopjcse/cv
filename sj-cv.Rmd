@@ -20,7 +20,7 @@ phone: +91 832 2580-864
 address: Office D-161 · BITS Pilani KK Birla Goa Campus · Zuarinagar Goa 403726 · India
 updated: 
 urlcolor: black
-web: swaroop.netlify.app
+web: swaroopjoshi.in
 ---
 
 # Employment #
