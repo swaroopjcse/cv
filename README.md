@@ -26,9 +26,27 @@ or
 ```
 
 Default Rmd input file is `sj-cv.Rmd`. To knit any other file, send that as an argument, for example:
+
 ```sh
 > Rscript run.R resume.Rmd
 ```
+
+## Troubleshooting ##
+
+### Setting LC_COLLATE failed, using “C” ###
+
+```sh
+export LANG=en_US.UTF-8
+export LC_ALL=en_US.UTF-8
+```
+
+Then check `$ locale`.
+
+From [stackoverflow](https://stackoverflow.com/questions/32034334/during-startup-r-setting-lc-collate-failed-using-c).
+
+### rmarkdown not found ###
+
+Run `$ R` and then `install.packages("rmarkdown")`.
 
 ## License ##
 
