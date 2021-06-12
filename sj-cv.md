@@ -2,12 +2,6 @@
 title: "CV"
 author: "Swaroop Joshi"
 email: swaroopj@goa.bits-pilani.ac.in
-output:
-  pdf_document:
-    latex_engine: pdflatex
-    template: latex-cv-template.tex
-  html_document:
-    df_print: paged
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 11pt
@@ -23,34 +17,29 @@ urlcolor: black
 web: swaroopjoshi.in
 ---
 
-# Employment #
+## Employment
 
-## Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus · Goa India ##
-## Department of Computer Science and Information Systems ##
+### Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus · Goa India
 
-- Assistant Professor \hfill 2021--present
+- Assistant Professor, Computer Science and Information Systems \hfill 2021--present
 
-## University of Utah · Salt Lake City UT USA ##
-## School of Computing ##
+### University of Utah · Salt Lake City UT USA
 
-- Assistant Professor, Lecturer \hfill 2019--2020
+- Assistant Professor -- Lecturer, School of Computing \hfill 2019--2020
 
-## The Ohio State University · Columbus OH USA ##
-## Department of Computer Science and Engineering ##
+### The Ohio State University · Columbus OH USA
 
-- Senior Lecturer \hfill 2017--2019
+- Senior Lecturer, Computer Science and Engineering \hfill 2017--2019
 
-## Indian Institute of Technology Bombay · Mumbai India ##
-## GCC Resource Center ##
+### Indian Institute of Technology Bombay · Mumbai India
 
-- Senior Project Engineer \hfill 2010--2011
+- Senior Project Engineer, GCC Resource Center \hfill 2010--2011
 
-## SoftJin Technologies Pvt Ltd · Bengaluru India ##
+### SoftJin Technologies Pvt Ltd · Bengaluru India
 
 - Software Engineer \hfill 2005--2006
 
-
-# Education
+## Education
 
 *The Ohio State University*, Ph.D. Computer Science & Engineering \hfill 2017
 
@@ -60,13 +49,13 @@ web: swaroopjoshi.in
 
 *National Institute of Technology Karnataka, Surathkal*, B.E. Computer Engineering \hfill 2005
 
-# Publications
+## Publications
 
-## Chapters in Edited Volumes ##
+### Chapters in Edited Volumes
 
 O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. Soundarajan. *Defining a Geogame Genre Using Core Concepts of Games, Play, and Geographic Information and Thinking*. In: Geogames and Geoplay: Game-based Approaches to the Analysis of Geo-Information. Ed. by O. Ahlqvist and C. Schlieder. Springer International Publishing, 2018, pp. 19–35.
 
-## Peer Reviewed Conferences ##
+### Peer Reviewed Conferences
 
 **S. Joshi**, N. Soundarajan, and J. Morris. *Innovative Approach to Online Argumentation in Computing and Engineering Courses*. In: 125th ASEE Annual Conference and Exposition. American Society for Engineering Education, 2018.
 
@@ -88,70 +77,63 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-Progress: Conflict-Driven
 
 N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approach to collaborative learning in the flipped classroom*. In: 121st ASEE Annual Conference and Exposition. American Society for Engineering Education, June 2014.
 
-## Dissertations ##
+### Dissertations
 
 **S. R. Joshi**. *CONSIDER: A Novel, Online Approach to Conflict-Driven Collaborative-Learning*. PhD thesis. The Ohio State University, Aug. 2017.
 
 **S. Joshi**. *Extending the Generic Data-Flow Analyzer (gdfa) in GCC*. Master's Project Report. Indian Institute of Technology Bombay, June 2010.
 
-
-## Other ##
+### Other
 
 S. Bandyopadhyay and **S. Joshi**. *A Report on the Second International
 Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
 14th Innovations in Software Engineering Conference (ISEC 2021). Association for
 Computing Machinery (ACM), 2021.
 
+## Awards and Honors
 
-# Awards and Honors
-
-*Sugamyata: Accessibility in Computing Education*, INR 200,000, Apr. 2021
+### Sugamyata: Accessibility in Computing Education, INR 200,000, 2021--23
 
 - Research Initiation Grant (RIG), BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
 
-*Lecturer Teaching Development Grant*, Spring 2017.
+### Lecturer Teaching Development Grant, Spring 2017
 
 - University Center for Advancement in Teaching, The Ohio State University
 
-*Best Student Paper Award*, 2016.
+### Best Student Paper Award, 2016
 
 - American Society for Engineering Education, North Central Section
 
-# Invited Talks
+## Invited Talks
 
-*CPS in Computing Education: Current Trends* \hfill Oct. 2020
+### CPS in Computing Education: Current Trends, Oct. 2020
 
 - Current Trends in Cyber-Physical Systems (CTiCPS) 2020
 
-*Effectively Teaching a Principles of Programming Languages Course* \hfill Feb--Apr, 2019
+### Effectively Teaching a Principles of Programming Languages Course, Feb--Apr, 2019
 
-- Indo-Universal Collaboration for Engineering Education, a 10-week web course for 50 CS faculty from various engineering colleges in India
+- Indo-Universal Collaboration for Engineering Education, a 10-week web course
+  for 50 CS faculty from various engineering colleges in India
 
-*Cooperative and Collaborative Learning in Engineering Classrooms* \hfill Jul. 2018
+### Cooperative and Collaborative Learning in Engineering Classrooms, Jul. 2018
 
-- Indo-Universal Collaboration for Engineering Education Webinar,
-attended by over 100 engineering faculty across India
+- Indo-Universal Collaboration for Engineering Education Webinar, attended by
+  over 100 engineering faculty across India
 
-# Research Experience
-*CONSIDER, Ph.D. Dissertation Research, The Ohio State University* \hfill 2013--2017
+## Teaching Experience
 
-  - A computer-supported collaborative learning project that leverages socio-cognitive conflict and exploits the affordances of web technologies to provide structured, anonymous, online discussion to enhance learning of concepts in college level engineering courses.
+### Computer Science & Information Systems, BITS Pilani, Goa
 
-*GeoGame, Graduate Research Associate, The Ohio State University* \hfill 2014--2016
+- Practice School I
 
-  - A game-based learning project where college students of world regional geography interact with each other by role-playing as farmers in developing countries.
+### School of Computing, University of Utah
 
-*Testing PolyOpt/Fortran Loop Optimization Framework, Graduate Research Associate, OSU* \hfill 2011--2012
-
-*Extending the Generic Data-Flow Analyzer (gdfa) in GCC, M.Tech. Project, IIT Bombay* \hfill 2009--2011
-
-# Teaching Experience
-## School of Computing, University of Utah
 - Mobile App Development
 - Senior Capstone
 - Data Structures & Algorithms
 
-## Computer Science & Engineering, The Ohio State University
+### Computer Science & Engineering, The Ohio State University
+
 - Principles of Programming Languages
 - Software II: Software Development and Design
 - Software I: Components
@@ -161,50 +143,59 @@ attended by over 100 engineering faculty across India
 - C++ Programming
 - Introduction to Computer Programming in C++ for Engineers and Scientists
 
-# Service to Profession
+## Service to Profession
 
-## Associate Editor ##
-  - [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--present
+### Associate Editor
 
-## Journal Reviewer ##
-  - [Journal of Engineering Education Transformations](http://www.journaleet.org)
-  - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
+- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--present
 
-## Conference paper or poster Reviewer ##
-  - ACM SIGCSE Technical Symposium on Computer Science Education, 2021, 2019, 2018
-  - ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
-  - IEEE Frontiers in Education (FIE), 2018, 2017, 2016
-  - IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
-  - [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS), 2020.
+### Journal Reviewer
+
+- [Journal of Engineering Education Transformations](http://www.journaleet.org)
+- [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
+
+### Conference paper or poster Reviewer
+
+- ACM SIGCSE Technical Symposium on Computer Science Education, 2021, 2019, 2018
+- ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
+- IEEE Frontiers in Education (FIE), 2018, 2017, 2016
+- IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
+- [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS), 2020.
   
-## Conference or workshop organizer ##
-  - *Co-organizer*, Software Engineering for Artificial Intelligence (workshop), ACM 14th Innovations in Software Engineering Conference, online, Feb. 2021
+### Conference or workshop organizer
 
-## Leadership ##
+- *Co-organizer*, Software Engineering for Artificial Intelligence (workshop), ACM 14th Innovations in Software Engineering Conference, online, Feb. 2021
+
+### Leadership
+
 - *Secretary-Treasurer*, ASEE Computers in Education Division, 2018--2020
 
-## Ph.D. Thesis Examiner ##
+### Ph.D. Thesis Examiner
+
 - Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019
 
-# Service to University #
+## Service to University
 
-## BITS Pilani ##
+### BITS Pilani
+
 - PhD admissions interview panel, Feb. 2021
 
-## University of Utah ##
+### University of Utah
+
 - Lecturing faculty search committee, School of Computing, 2019--2020
 
-# Teaching Areas
+## Teaching Areas
+
 - Programming Languages
 - Mobile App Development
-- Compiler Construction and Optimization 
+- Compiler Construction and Optimization
 - CS1/CS2
 
-# Professional Memberships
+## Professional Memberships
+
 - Institute of Electrical and Electronics Engineers (IEEE)
   - Education Society
   - Computer Society
 - Association for Computing Machinery (ACM)
   - Special Interest Group on Computer Science Education (SIGCSE)
   - Special Interest Group on Accessible Computing (SIGACCESS)
-
