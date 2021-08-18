@@ -57,6 +57,10 @@ O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. S
 
 ### Peer Reviewed Conferences
 
+**S. Joshi**. *Teaching Accessibility in India: A Work in Progress*. In:
+Proceedings of the 17th ACM Conference on International Computing Education
+Research (ICER 2021), Aug. 2021, Virtual Event, USA.
+
 **S. Joshi**, N. Soundarajan, and J. Morris. *Innovative Approach to Online Argumentation in Computing and Engineering Courses*. In: 125th ASEE Annual Conference and Exposition. American Society for Engineering Education, 2018.
 
 N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation and Models for Structuring the Arguments*. In: 2018 IEEE Frontiers in Education Conference (FIE) (FIE 2018). San Jose, USA, Oct. 2018.
