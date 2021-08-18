@@ -41,13 +41,13 @@ web: swaroopjoshi.in
 
 ## Education
 
-*The Ohio State University*, Ph.D. Computer Science & Engineering \hfill 2017
+*The Ohio State University*, Ph.D. in Computer Science & Engineering \hfill 2017
 
-*The Ohio State University*, M.S. Computer Science & Engineering \hfill 2016
+*The Ohio State University*, M.S. in Computer Science & Engineering \hfill 2016
 
-*Indian Institute of Technology Bombay*, M.Tech. Computer Science & Engineering \hfill 2010
+*Indian Institute of Technology Bombay*, M.Tech. in Computer Science & Engineering \hfill 2010
 
-*National Institute of Technology Karnataka, Surathkal*, B.E. Computer Engineering \hfill 2005
+*National Institute of Technology Karnataka, Surathkal*, B.E. in Computer Engineering \hfill 2005
 
 ## Publications
 
