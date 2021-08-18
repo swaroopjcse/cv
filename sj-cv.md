@@ -182,7 +182,7 @@ Computing Machinery (ACM), 2021.
 
 ### BITS Pilani
 
-- PhD admissions interview panel, Feb. 2021
+- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021
 
 ### University of Utah
 
