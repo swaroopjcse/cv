@@ -133,6 +133,9 @@ Computing Machinery (ACM), 2021.
 
 ### Computer Science & Information Systems, BITS Pilani, Goa
 
+- Software Development for Portable Devices
+- Object Oriented Programming
+- Compiler Construction
 - Practice School I
 
 ### School of Computing, University of Utah
