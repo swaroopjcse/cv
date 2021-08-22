@@ -61,6 +61,11 @@ O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. S
 Proceedings of the 17th ACM Conference on International Computing Education
 Research (ICER 2021), Aug. 2021, Virtual Event, USA.
 
+P. Bhattacharya, **S. Joshi**, S. Bandyopadhyay and R. Mittal. *Virtual CS
+Education in India: Challenges and Opportunities*. In: International Conference
+on Best Innovative Teaching Strategies (ICON-BITS'21), Jul. 2021, BITS Pilani,
+India.
+
 **S. Joshi**, N. Soundarajan, and J. Morris. *Innovative Approach to Online Argumentation in Computing and Engineering Courses*. In: 125th ASEE Annual Conference and Exposition. American Society for Engineering Education, 2018.
 
 N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation and Models for Structuring the Arguments*. In: 2018 IEEE Frontiers in Education Conference (FIE) (FIE 2018). San Jose, USA, Oct. 2018.
