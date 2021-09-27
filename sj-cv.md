@@ -169,6 +169,7 @@ Computing Machinery (ACM), 2021.
 ### Conference paper or poster Reviewer
 
 - ACM SIGCSE Technical Symposium on Computer Science Education, 2021, 2019, 2018
+- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
 - ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
 - IEEE Frontiers in Education (FIE), 2018, 2017, 2016
 - IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
