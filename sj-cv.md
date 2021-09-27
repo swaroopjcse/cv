@@ -165,6 +165,7 @@ Computing Machinery (ACM), 2021.
 
 - [Journal of Engineering Education Transformations](http://www.journaleet.org)
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
+- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
 ### Conference paper or poster Reviewer
 
