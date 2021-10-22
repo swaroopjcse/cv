@@ -99,7 +99,14 @@ Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
 14th Innovations in Software Engineering Conference (ISEC 2021). Association for
 Computing Machinery (ACM), 2021.
 
+\newpage
+
 ## Awards and Honors
+
+### A git and docker based toolchain for introductory programming courses, INR 145,000, 2021--22
+
+- Co-PI: Pritam Bhattacharya
+- BITS Pilani, KK Birla Goa Campus, Teaching Learning Center
 
 ### Sugamyata: Accessibility in Computing Education, INR 200,000, 2021--23
 
