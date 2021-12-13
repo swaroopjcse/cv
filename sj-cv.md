@@ -57,6 +57,9 @@ O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. S
 
 ### Peer Reviewed Conferences
 
+
+T. Hattingh, S. Sohoni, A. Agrawal, S. Desai, **S. Joshi**. *An exploration of capacity development of journal reviewers through a mentored reviewer program*. In: Research in Engineering Education Symposium (REES), Dec. 2021, Perth WA, Australia. Australasian Association for Engineering Education.
+
 **S. Joshi**. *Teaching Accessibility in India: A Work in Progress*. In:
 Proceedings of the 17th ACM Conference on International Computing Education
 Research (ICER 2021), Aug. 2021, Virtual Event, USA.
