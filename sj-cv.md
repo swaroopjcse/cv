@@ -213,7 +213,8 @@ Computing Machinery (ACM), 2021.
 
 ### BITS Pilani
 
-- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021
+- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022
+- Goa Campus Coordinator, Postman Classroom Program, Oct. 2021--present
 
 ### University of Utah
 
