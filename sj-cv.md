@@ -132,6 +132,10 @@ Computing Machinery (ACM), 2021.
 
 ## Invited Talks
 
+### Postman API Classroom Program: API 103, Feb. 2022
+
+- Last of the three modules of Postman's API-based programming course focusing on building a full-stack web application using Glitch, Node.js, Express, axios, handlebar, and Spotify API
+
 ### CPS in Computing Education: Current Trends, Oct. 2020
 
 - Current Trends in Cyber-Physical Systems (CTiCPS) 2020
