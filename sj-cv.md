@@ -105,14 +105,22 @@ Computing Machinery (ACM), 2021.
 
 ## Awards and Honors
 
-### A git and docker based toolchain for introductory programming courses, INR 145,000, 2021--22
+### Human-Centered Future Computing, INR 29,75,000, 2021--23
 
-- Co-PI: Pritam Bhattacharya
-- BITS Pilani, KK Birla Goa Campus, Teaching Learning Center
+- Role: PI (Other PIs: Sougata Sen and Sravan Danda)
+- Program: Additional Competitive Research Grant
+- Agency: Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`)
 
-### Sugamyata: Accessibility in Computing Education, INR 200,000, 2021--23
+### A git and docker based toolchain for introductory programming courses, INR 1,45,000, 2021--22
 
-- Research Initiation Grant (RIG), BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
+- Role: PI (Co-PI: Pritam Bhattacharya)
+- Agency: Teaching Learning Center, BITS Pilani, KK Birla Goa Campus
+
+### Sugamyata: Accessibility in Computing Education, INR 2,00,000, 2021--23
+
+- Role: PI
+- Program: Research Initiation Grant (RIG)
+- Agency: BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
 
 ### Lecturer Teaching Development Grant, Spring 2017
 
