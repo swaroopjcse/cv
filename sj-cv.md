@@ -207,7 +207,8 @@ Computing Machinery (ACM), 2021.
 
 ### Ph.D. Thesis Examiner
 
-- Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019
+- Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019.
+- Sahana B., *Analytical Framework for Fault Management in Communication Networks*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2022.
 
 ## Service to University
 
