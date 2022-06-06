@@ -154,10 +154,10 @@ Computing Machinery (ACM), 2021.
 
 ### Computer Science & Information Systems, BITS Pilani, Goa
 
-- Software Development for Portable Devices
-- Object Oriented Programming
-- Compiler Construction
-- Practice School I
+- CSF111 Computer Programming (IC Sp'22)
+- CSF314 Software Development for Portable Devices (IC Fa'21, Fa'22)
+- Object Oriented Programming (I Fa'21)
+- Compiler Construction (I Sp'21)
 
 ### School of Computing, University of Utah
 
