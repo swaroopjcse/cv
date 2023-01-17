@@ -215,10 +215,11 @@ Computing Machinery (ACM), 2021.
 
 ### BITS Pilani
 
-- Faculty candidates interview panel: May 2022
-- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022
+- Department Level Selection Committee (CSIS Faculty hiring): 2022
+- Faculty Advisor, DevSoc: Jun. 2022--present
+- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
+- Practice School I: 2021, 2022
 - Goa Campus Coordinator, Postman Classroom Program: Oct. 2021--present
-- Practice School I: Su'21, Su'22
 
 ### University of Utah
 
