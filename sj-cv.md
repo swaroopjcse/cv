@@ -57,7 +57,9 @@ O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. S
 
 ### Peer Reviewed Conferences
 
-D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA. *(accepted)*
+J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages. (*Accepted*; preprint: <https://arxiv.org/abs/2210.06132>.)
+
+D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA.
 
 T. Hattingh, S. Sohoni, A. Agrawal, S. Desai, **S. Joshi**. *An exploration of capacity development of journal reviewers through a mentored reviewer program*. In: Research in Engineering Education Symposium (REES), Dec. 2021, Perth WA, Australia. Australasian Association for Engineering Education.
 
