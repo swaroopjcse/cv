@@ -240,3 +240,4 @@ Computing Machinery (ACM), 2021.
 - Association for Computing Machinery (ACM)
   - Special Interest Group on Computer Science Education (SIGCSE)
   - Special Interest Group on Accessible Computing (SIGACCESS)
+  - Special Interest Group on Software Engineering (SIGSOFT)
