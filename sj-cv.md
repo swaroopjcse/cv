@@ -180,7 +180,7 @@ Computing Machinery (ACM), 2021.
 
 ### Associate Editor
 
-- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--present
+- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--2022
 
 ### Journal Reviewer
 
