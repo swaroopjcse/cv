@@ -43,11 +43,13 @@ web: swaroopjoshi.in
 
 ## Select Publications
 
+J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages. (*Accepted*; preprint: <https://arxiv.org/abs/2210.06132>.)
+
+D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA.
+
 **S. Joshi**. *Teaching Accessibility in India: A Work in Progress*. In:
 Proceedings of the 17th ACM Conference on International Computing Education
 Research (ICER'21), Virtual Event, USA, 2021.
-
-O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. Soundarajan. *Defining a Geogame Genre Using Core Concepts of Games, Play, and Geographic Information and Thinking*. In: Geogames and Geoplay: Game-based Approaches to the Analysis of Geo-Information. Ed. by O. Ahlqvist and C. Schlieder. Springer International Publishing, 2018, pp. 19–35.
 
 N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation and Models for Structuring the Arguments*. In: 2018 IEEE Frontiers in Education Conference (FIE'18). San Jose, USA, 2018.
 
@@ -61,9 +63,17 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 ## Awards and Honors
 
+### Human-Centered Future Computing, INR 2,975,000, 2021--23
+
+- Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`)
+
+### A git and docker based toolchain for introductory programming courses, INR 145,000, 2021--22
+
+- Teaching Learning Center, BITS Pilani
+
 ### Sugamyata: Accessibility in Computing Education, INR 200,000, 2021--23
 
-- Research Initiation Grant (RIG), BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
+- Research Initiation Grant, BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
 
 ### Lecturer Teaching Development Grant, Spring 2017
 
@@ -75,26 +85,27 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 - Current Trends in Cyber-Physical Systems (CTiCPS) Woskshop, Online, Oct. 2020
 
-### Effectively Teaching a Principles of Programming Languages Course, 2019
+<!-- ### Effectively Teaching a Principles of Programming Languages Course, 2019
 
 - Indo-Universal Collaboration for Engineering Education, a 10-week web course
-  for 50 CS faculty from various engineering colleges in India
+  for 50 CS faculty from various engineering colleges in India -->
 
 ## Service to Profession
 
 ### Associate Editor
 
-- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--present
+- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--2022
 
 ### Journal Reviewer
 
+- [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
 - [Journal of Engineering Education Transformations](http://www.journaleet.org)
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
 - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
 ### Conference paper or poster Reviewer
 
-- ACM SIGCSE Technical Symposium on Computer Science Education, 2021, 2019, 2018
+- ACM SIGCSE Technical Symposium, 2023, 2022, 2021, 2019, 2018
 - [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
 - ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
 - IEEE Frontiers in Education (FIE), 2018, 2017, 2016
@@ -109,9 +120,5 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 ## Professional Memberships
 
-- Institute of Electrical and Electronics Engineers (IEEE)
-  - Education Society
-  - Computer Society
-- Association for Computing Machinery (ACM)
-  - Special Interest Group on Computer Science Education (SIGCSE)
-  - Special Interest Group on Accessible Computing (SIGACCESS)
+- Institute of Electrical and Electronics Engineers (IEEE): Education Society and Computer Society
+- Association for Computing Machinery (ACM): SIGCSE, SIGACCESS, SIGSOFT
