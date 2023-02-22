@@ -6,15 +6,35 @@ some ideas from tomasulo's
 [markdown-latex-template](https://github.com/tomasulo/markdown-latex-template)
 to build my CV in markdown.
 
-## Requirements
+## Prerequisites
 
-- pdflatex
-- pandoc
-- any text editor (I use VSCode with markdown mode, but any plain text editor will work too)
+### Essential
 
-## Workflow
+- Makrdown editor
+- Pandoc
 
-You can generate the `pdf` with just one command
+### Desired
+
+- Make
+- VSCode
+
+## Editing
+
+The folder contains a letterhead and a latex template file. Create a `.md` file with the appropriate frontmatter (see one of the existing files) and write the body in markdown.
+
+## Compiling to a PDF
+
+### Using VSCode Tasks
+
+Make sure the `tasks.json` is configured properly. Then simply use `Cmd-Shift-B` to run the task that invokes `make` internally.
+
+### Using command line (with Make)
+
+```sh
+MAIN={fileBasename} make
+```
+
+### Using command line (without Make)
 
 ```sh
 pandoc --template=latex-cv-template.tex sj-cv.md -o sj-cv.pdf
