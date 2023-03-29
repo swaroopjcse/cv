@@ -134,6 +134,14 @@ Computing Machinery (ACM), 2021.
 
 ## Invited Talks
 
+### Android App Development Workshop @ YEB 2023: Mar. 29, 2023
+
+- Mobile app development for the participants of the [Young Enterpreneurs’ Bootcamp](https://www.bits-yeb.com/) at BITS Pilani Goa. The highschool students developed a simple dice game Cho Han.
+
+### Integrating Accessibility Topics in Computing Education @ IIT Bombay: Mar. 24, 2023
+
+- Presentation as part of the weekly seminar at the Education Technology interdisciplinary program at IIT Bombay.
+
 ### Postman API Classroom Program: API 103, Feb. 2022
 
 - Last of the three modules of Postman's API-based programming course focusing on building a full-stack web application using Glitch, Node.js, Express, axios, handlebar, and Spotify API
