@@ -107,6 +107,11 @@ Computing Machinery (ACM), 2021.
 
 ## Awards and Honors
 
+### Accessible Science Labs for visually impaired school children, INR 2,00,000, Apr-Nov 2023
+
+- Role: PI
+- Agency: Vision Empower Trust
+
 ### Human-Centered Future Computing, INR 29,75,000, 2021--23
 
 - Role: PI (Other PIs: Sougata Sen and Sravan Danda)
