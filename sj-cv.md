@@ -107,27 +107,31 @@ Computing Machinery (ACM), 2021.
 
 ## Awards and Honors
 
-### Accessible Science Labs for visually impaired school children, INR 2,00,000, Apr-Nov 2023
+### Accessible Science Labs for visually impaired school children
 
 - Role: PI
 - Agency: Vision Empower Trust
+- Budget: INR 2 L | Duration: Apr-Nov, 2023
 
-### Human-Centered Future Computing, INR 29,75,000, 2021--23
+### Human-Centered Future Computing (`GOA/ACG/2021-2022/Nov/05`)
 
 - Role: PI (Other PIs: Sougata Sen and Sravan Danda)
 - Program: Additional Competitive Research Grant
-- Agency: Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`)
+- Agency: Sponsored Research and Consultancy Division, BITS Pilani
+- Budget: INR 29.75 L | Duration: Dec. 10, 2021--Dec. 9, 2023
 
-### A git and docker based toolchain for introductory programming courses, INR 1,45,000, 2021--22
+### A git and docker based toolchain for introductory programming courses
 
 - Role: PI (Co-PI: Pritam Bhattacharya)
 - Agency: Teaching Learning Center, BITS Pilani, KK Birla Goa Campus
+- Budget: INR 1.45 L | Duration: Oct. 2021--Mar. 2022
 
-### Sugamyata: Accessibility in Computing Education, INR 2,00,000, 2021--23
+### Sugamyata: Accessibility in Computing Education (`BPGC/RIG/2020-21/04-2021/02`)
 
 - Role: PI
 - Program: Research Initiation Grant (RIG)
-- Agency: BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
+- Agency: BITS Pilani
+- Budget: INR 2 L | Duration: Apr. 2021--Apr. 2023
 
 ### Lecturer Teaching Development Grant, Spring 2017
 
