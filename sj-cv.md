@@ -84,7 +84,7 @@ N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation an
 
 **S. Joshi** and N. Soundarajan. *Exploring conflict-based collaborative learning in engineering courses*. In: ASEE North Central Sectional Conference Proceedings. American Society for Engineering Education, Mar. 2016.
 
-**S. Joshi**, N. Soundarajan, and R. Ramnath. *Conflict-Driven Cooperative-Learning in Computing Courses (Abstract Only)*. In: Proceedings of the 46th ACM Technical Symposium on Computer Science Education - SIGCSE ’15. Association for Computing Machinery (ACM), Mar. 2015.
+**S. Joshi**, N. Soundarajan, and R. Ramnath. *Conflict-Driven Cooperative-Learning in Computing Courses (Abstract Only)*. In: Proceedings of the 46th ACM Technical Symposium on Computer Science Education - SIGCSE '15. Association for Computing Machinery (ACM), Mar. 2015.
 
 N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Learning in Software Engineering Courses*. In: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering. Institute of Electrical & Electronics Engineers (IEEE), May 2015.
 
@@ -145,7 +145,7 @@ Computing Machinery (ACM), 2021.
 
 ### Android App Development Workshop @ YEB 2023: Mar. 29, 2023
 
-- Mobile app development for the participants of the [Young Enterpreneurs’ Bootcamp](https://www.bits-yeb.com/) at BITS Pilani Goa. The highschool students developed a simple dice game Cho Han.
+- Mobile app development for the participants of the [Young Enterpreneurs' Bootcamp](https://www.bits-yeb.com/) at BITS Pilani Goa. The highschool students developed a simple dice game Cho Han.
 
 ### Integrating Accessibility Topics in Computing Education @ IIT Bombay: Mar. 24, 2023
 
