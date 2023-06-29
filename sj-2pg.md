@@ -43,7 +43,7 @@ web: swaroopjoshi.in
 
 ## Select Publications
 
-J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages. (*Accepted*; preprint: <https://arxiv.org/abs/2210.06132>.)
+J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages.
 
 D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA.
 
@@ -63,6 +63,10 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 ## Awards and Honors
 
+### Accessible Science Labs for visually impaired school children, INR 2,00,000, Apr-Nov 2023
+
+- Vision Empower Trust
+
 ### Human-Centered Future Computing, INR 2,975,000, 2021--23
 
 - Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`)
@@ -81,9 +85,9 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 ## Select Invited Talks
 
-### CPS in Computing Education: Current Trends, 2020
-
-- Current Trends in Cyber-Physical Systems (CTiCPS) Woskshop, Online, Oct. 2020
+- "Android App Development Workshop" at Young Entrepreneurs' Bootcamp at BITS Pilani, Mar. 2023
+- "Integrating Accessibility Topics in Computing Education" at IDP Education Technology @ IIT Bombay, Mar. 2023
+- "CPS in Computing Education: Current Trends" at Current Trends in Cyber-Physical Systems (CTiCPS) Woskshop, Online, Oct. 2020
 
 <!-- ### Effectively Teaching a Principles of Programming Languages Course, 2019
 
@@ -105,6 +109,8 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 ### Conference paper or poster Reviewer
 
+- ACM CompEd 2023
+- ACM India Compute 2023
 - ACM SIGCSE Technical Symposium, 2023, 2022, 2021, 2019, 2018
 - [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
 - ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
@@ -118,7 +124,7 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 - Programming Languages
 - CS1/CS2
 
-## Professional Memberships
+<!-- ## Professional Memberships
 
 - Institute of Electrical and Electronics Engineers (IEEE): Education Society and Computer Society
-- Association for Computing Machinery (ACM): SIGCSE, SIGACCESS, SIGSOFT
+- Association for Computing Machinery (ACM): SIGCSE, SIGACCESS, SIGSOFT -->
