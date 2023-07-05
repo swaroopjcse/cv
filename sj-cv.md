@@ -208,8 +208,10 @@ Computing Machinery (ACM), 2021.
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
 - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
-### Conference paper or poster Reviewer
+### Conference Program Committee
 
+- ACM [CompEd 2023](https://comped.acm.org)
+- ACM India [Compute 2023](https://event.india.acm.org/compute/home/)
 - ACM SIGCSE Technical Symposium on Computer Science Education, 2023, 2022, 2021, 2019, 2018
 - [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
 - ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
