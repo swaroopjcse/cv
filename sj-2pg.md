@@ -85,7 +85,7 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 ## Select Invited Talks
 
-- "Android App Development Workshop" at Young Entrepreneurs' Bootcamp at BITS Pilani, Mar. 2023
+<!-- - "Android App Development Workshop" at Young Entrepreneurs' Bootcamp at BITS Pilani, Mar. 2023 -->
 - "Integrating Accessibility Topics in Computing Education" at IDP Education Technology @ IIT Bombay, Mar. 2023
 - "CPS in Computing Education: Current Trends" at Current Trends in Cyber-Physical Systems (CTiCPS) Woskshop, Online, Oct. 2020
 
@@ -107,10 +107,10 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
 - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
-### Conference paper or poster Reviewer
+### Conference Program Committee
 
-- ACM CompEd 2023
-- ACM India Compute 2023
+- ACM [CompEd 2023](https://comped.acm.org)
+- ACM India [Compute 2023](https://event.india.acm.org/compute/home/)
 - ACM SIGCSE Technical Symposium, 2023, 2022, 2021, 2019, 2018
 - [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
 - ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
