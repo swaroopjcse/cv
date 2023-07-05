@@ -227,7 +227,7 @@ Computing Machinery (ACM), 2021.
 
 - *Secretary-Treasurer*, ASEE Computers in Education Division, 2018--2020
 
-### Ph.D. Thesis Examiner
+### Ph.D. Thesis External Examiner
 
 - Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019.
 - Sahana B., *Analytical Framework for Fault Management in Communication Networks*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2022.
@@ -236,6 +236,7 @@ Computing Machinery (ACM), 2021.
 
 ### BITS Pilani
 
+- Department Academic Committee: PhD Research Proposal by Nitish Yadav (supervisor: Dr. Rajesh Kumar), Oct. 2022
 - Department Level Selection Committee (CSIS Faculty hiring): 2022
 - Faculty Advisor, DevSoc: Jun. 2022--present
 - Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
