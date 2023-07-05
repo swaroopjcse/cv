@@ -246,6 +246,10 @@ Computing Machinery (ACM), 2021.
 
 - Lecturing faculty search committee, School of Computing, 2019--2020
 
+## Service to the people
+
+- *Member*, *Governing Council*, Goa State Research Foundation, June 2023--present
+
 ## Teaching Areas
 
 - Programming Languages
