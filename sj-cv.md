@@ -98,7 +98,7 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approac
 
 **S. Joshi**. *Extending the Generic Data-Flow Analyzer (gdfa) in GCC*. Master's Project Report. Indian Institute of Technology Bombay, June 2010.
 
-### Other
+### Reports
 
 S. Bandyopadhyay and **S. Joshi**. *A Report on the Second International
 Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
