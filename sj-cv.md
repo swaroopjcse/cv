@@ -145,7 +145,7 @@ Computing Machinery (ACM), 2021.
 
 ### Android App Development Workshop @ YEB 2023: Mar. 29, 2023
 
-- Mobile app development for the participants of the [Young Enterpreneurs' Bootcamp](https://www.bits-yeb.com/) at BITS Pilani Goa. The highschool students developed a simple dice game Cho Han.
+- Mobile app development workshop for the participants of the [Young Enterpreneurs' Bootcamp](https://www.bits-yeb.com/) at BITS Pilani Goa. The highschool students developed a simple dice game Cho Han.
 
 ### Integrating Accessibility Topics in Computing Education @ IIT Bombay: Mar. 24, 2023
 
@@ -173,10 +173,10 @@ Computing Machinery (ACM), 2021.
 
 ### Computer Science & Information Systems, BITS Pilani, Goa
 
-- CSF111 Computer Programming (Instructor in-charge Sp'22, Sp'23)
-- CSF314 Software Development for Portable Devices (Instructor in-charge Fa'21, Fa'22)
-- CSF213 Object Oriented Programming (Instructor Fa'21, Fa'22)
-- CSF363 Compiler Construction (Instructor Sp'21)
+- CSF111 Computer Programming (Instructor in-charge: Sp'22, Sp'23)
+- CSF314 Software Development for Portable Devices (Instructor in-charge: Fa'21, Fa'22)
+- CSF213 Object Oriented Programming (Instructor: Fa'21, Fa'22)
+- CSF363 Compiler Construction (Instructor: Sp'21)
 
 ### School of Computing, University of Utah
 
