@@ -210,14 +210,14 @@ Computing Machinery (ACM), 2021.
 
 ### Conference Program Committee
 
-- ACM [CompEd 2023](https://comped.acm.org)
-- ACM India [Compute 2023](https://event.india.acm.org/compute/home/)
-- ACM SIGCSE Technical Symposium on Computer Science Education, 2023, 2022, 2021, 2019, 2018
-- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
-- ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
-- IEEE Frontiers in Education (FIE), 2018, 2017, 2016
-- IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
-- [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS), 2020.
+- (Senior PC Member) ACM [CompEd](https://comped.acm.org): 2023
+- (Senior PC Member) ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
+- ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
+- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
+- ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
+- IEEE Frontiers in Education (FIE): 2018, 2017, 2016
+- IEEE Teaching, Assessment and Learning for Engineering (TALE): 2018
+- [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS): 2020.
   
 ### Conference or workshop organizer
 
