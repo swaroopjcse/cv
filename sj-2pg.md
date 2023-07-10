@@ -94,28 +94,27 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 - Indo-Universal Collaboration for Engineering Education, a 10-week web course
   for 50 CS faculty from various engineering colleges in India -->
 
-## Service to Profession
+## Service
 
 ### Associate Editor
 
-- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--2022
+- [Journal of Engineering Education Transformations](http://www.journaleet.in): 2018--2022
 
 ### Journal Reviewer
 
 - [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
-- [Journal of Engineering Education Transformations](http://www.journaleet.org)
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
 - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
 ### Conference Program Committee
 
-- ACM [CompEd 2023](https://comped.acm.org)
-- ACM India [Compute 2023](https://event.india.acm.org/compute/home/)
-- ACM SIGCSE Technical Symposium, 2023, 2022, 2021, 2019, 2018
-- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org), 2021
-- ASEE Annual Conference & Exposition, 2021, 2019, 2018, 2017, 2016
-- IEEE Frontiers in Education (FIE), 2018, 2017, 2016
-- IEEE Teaching, Assessment and Learning for Engineering (TALE), 2018
+- (Senior PC Member) ACM [CompEd](https://comped.acm.org): 2023
+- (Senior PC Member) ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
+- ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
+- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
+- ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
+- IEEE Frontiers in Education (FIE): 2018, 2017, 2016
+- IEEE Teaching, Assessment and Learning for Engineering (TALE): 2018
 
 ## Teaching Areas
 
