@@ -237,7 +237,7 @@ Computing Machinery (ACM), 2021.
 ### BITS Pilani
 
 - Doctoral Advisory Committee
-  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar): May 2023--present
+  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--present
 - Guest speakers hosted
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
