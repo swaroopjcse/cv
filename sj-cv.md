@@ -236,7 +236,12 @@ Computing Machinery (ACM), 2021.
 
 ### BITS Pilani
 
-- Department Academic Committee: PhD Research Proposal by Nitish Yadav (supervisor: Dr. Rajesh Kumar), Oct. 2022
+- Doctoral Advisory Committee
+  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar): May 2023--present
+- Guest speakers hosted
+  - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
+  - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
+  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
 - Department Level Selection Committee (CSIS Faculty hiring): 2022
 - Faculty Advisor, DevSoc: Jun. 2022--present
 - Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
@@ -247,7 +252,7 @@ Computing Machinery (ACM), 2021.
 
 - Lecturing faculty search committee, School of Computing, 2019--2020
 
-## Service to the people
+## Other Service
 
 - *Member*, *Governing Council*, Goa State Research Foundation, June 2023--present
 
