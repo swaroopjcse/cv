@@ -177,6 +177,7 @@ Computing Machinery (ACM), 2021.
 
 ### Journal Reviewer
 
+- [IEEE Transactions on Education](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13)
 - [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
 - [Journal of Engineering Education Transformations](http://www.journaleet.in)
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
