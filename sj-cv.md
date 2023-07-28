@@ -169,6 +169,69 @@ Computing Machinery (ACM), 2021.
 - Indo-Universal Collaboration for Engineering Education Webinar, attended by
   over 100 engineering faculty across India
 
+## Service
+
+### Journal Editorial Board
+
+- Associate Editor, [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--2022
+
+### Journal Reviewer
+
+- [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
+- [Journal of Engineering Education Transformations](http://www.journaleet.in)
+- [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
+- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
+
+### Senior Program Committee Member
+
+- ACM SIGCSE Technical Symposium: [2024](https://www.sigcse2024.org)
+- ACM [CompEd](https://comped.acm.org): 2023
+- ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
+
+### Conference Program Committee Member
+
+- ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
+- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
+- ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
+- IEEE Frontiers in Education (FIE): 2018, 2017, 2016
+- IEEE Teaching, Assessment and Learning for Engineering (TALE): 2018
+- [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS): 2020.
+  
+### Conference or workshop organizer
+
+- *Co-organizer*, Software Engineering for Artificial Intelligence (workshop), ACM 14th Innovations in Software Engineering Conference, online, Feb. 2021
+
+### Leadership
+
+- *Secretary-Treasurer*, ASEE Computers in Education Division, 2018--2020
+
+### BITS Pilani
+
+- Doctoral Advisory Committee
+  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--present
+- Guest speakers hosted
+  - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
+  - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
+  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
+- Department Level Selection Committee (CSIS Faculty hiring): 2022
+- Faculty Advisor, DevSoc: Jun. 2022--present
+- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
+- Practice School I: 2021, 2022
+- Goa Campus Coordinator, Postman Classroom Program: Oct. 2021--present
+
+### University of Utah
+
+- Lecturing faculty search committee, School of Computing, 2019--2020
+
+### Government bodies
+
+- *Member*, *Governing Council*, Goa State Research Foundation, June 2023--present
+
+### Ph.D. Thesis External Examiner
+
+- Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019.
+- Sahana B., *Analytical Framework for Fault Management in Communication Networks*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2022.
+
 ## Teaching Experience
 
 ### Computer Science & Information Systems, BITS Pilani, Goa
@@ -194,67 +257,6 @@ Computing Machinery (ACM), 2021.
 - Mobile App Development
 - C++ Programming
 - Introduction to Computer Programming in C++ for Engineers and Scientists
-
-## Service to Profession
-
-### Associate Editor
-
-- [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--2022
-
-### Journal Reviewer
-
-- [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
-- [Journal of Engineering Education Transformations](http://www.journaleet.in)
-- [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
-- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
-
-### Conference Program Committee
-
-- (Senior PC Member) ACM [CompEd](https://comped.acm.org): 2023
-- (Senior PC Member) ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
-- ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
-- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
-- ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
-- IEEE Frontiers in Education (FIE): 2018, 2017, 2016
-- IEEE Teaching, Assessment and Learning for Engineering (TALE): 2018
-- [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS): 2020.
-  
-### Conference or workshop organizer
-
-- *Co-organizer*, Software Engineering for Artificial Intelligence (workshop), ACM 14th Innovations in Software Engineering Conference, online, Feb. 2021
-
-### Leadership
-
-- *Secretary-Treasurer*, ASEE Computers in Education Division, 2018--2020
-
-### Ph.D. Thesis External Examiner
-
-- Karunakara Rai B., *Reasoning Methodology for Estimating the Degradation in the Performance of a Real-Time Fault Tolerant System*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2019.
-- Sahana B., *Analytical Framework for Fault Management in Communication Networks*. PhD thesis. Visvesvaraya Technological University (VTU), Karnataka India, 2022.
-
-## Service to University
-
-### BITS Pilani
-
-- Doctoral Advisory Committee
-  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--present
-- Guest speakers hosted
-  - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
-  - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
-  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
-- Department Level Selection Committee (CSIS Faculty hiring): 2022
-- Faculty Advisor, DevSoc: Jun. 2022--present
-- Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
-- Practice School I: 2021, 2022
-- Goa Campus Coordinator, Postman Classroom Program: Oct. 2021--present
-
-### University of Utah
-
-- Lecturing faculty search committee, School of Computing, 2019--2020
-
-## Other Service
-
-- *Member*, *Governing Council*, Goa State Research Foundation, June 2023--present
 
 ## Teaching Areas
 
