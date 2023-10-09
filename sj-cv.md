@@ -208,6 +208,8 @@ Computing Machinery (ACM), 2021.
 
 ### BITS Pilani
 
+- Member, Departmental Committee on Academics (DCA): Oct. 2023--Jun. 2024
+
 - Doctoral Advisory Committee
   - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--present
   - Saumya Mathkar, CSIS (Supervisor: Dr. Vinayak Naik), Title: *A Scalable Cloud and Edge-based Framework to Ease The Deployment of IoT-based Applications*: Aug 2023--present
