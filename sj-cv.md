@@ -218,11 +218,17 @@ Computing Machinery (ACM), 2021.
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
   - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
-- Department Level Selection Committee (CSIS Faculty hiring): 2022
-- Faculty Advisor, DevSoc: Jun. 2022--present
+- Department Level Selection Committee
+  - CSIS Faculty hiring: 2022
+
+- Non-Teaching staff hiring committees (Campus/Institute)
+  - Graphics & UX/UI Designer (Marketing), Nov.--Dec. 2023
+  - Technician (CS & IS), Mar. 2023
+
 - Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
 - Practice School I: 2021, 2022
 - Goa Campus Coordinator, Postman Classroom Program: Oct. 2021--present
+- Faculty Advisor, DevSoc: Jun. 2022--present
 
 ### University of Utah
 
