@@ -215,6 +215,7 @@ Computing Machinery (ACM), 2021.
   - Saumya Mathkar, CSIS (Supervisor: Dr. Vinayak Naik), Title: *A Scalable Cloud and Edge-based Framework to Ease The Deployment of IoT-based Applications*: Aug 2023--present
 
 - Guest speakers hosted
+  - Dr. Dominique Blouin, Telecom Paris, France, *An Introduction to Model-Based Systems Engineering and Multi-Paradigm Modeling for the Development of Complex Cyber-Physical Systems*: November 2023
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
   - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
