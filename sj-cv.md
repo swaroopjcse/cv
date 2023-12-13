@@ -57,6 +57,8 @@ O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. S
 
 ### Peer Reviewed Conferences
 
+P. D. Parthasarathy and **S. Joshi**. 2023. *Serious Games for Enhancing Accessibility Awareness and Skills*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 199.
+
 J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages. (Preprint: <https://arxiv.org/abs/2210.06132>)
 
 D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA.
@@ -100,10 +102,11 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approac
 
 ### Reports
 
+D. J Bouvier, E. Lovellette, E. A. Santos, B. A. Becker, T. Crick, V. G. Dasigi, J. Forden, O. Glebova, **S. Joshi**, S. Kurkovsky, and S. Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 207–208.
+
 S. Bandyopadhyay and **S. Joshi**. *A Report on the Second International
 Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
-14th Innovations in Software Engineering Conference (ISEC 2021). Association for
-Computing Machinery (ACM), 2021.
+14th Innovations in Software Engineering Conference (ISEC 2021). Association for Computing Machinery (ACM), 2021.
 
 ## Awards and Honors
 
