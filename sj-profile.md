@@ -17,6 +17,16 @@ urlcolor: black
 web: swaroopjoshi.in
 ---
 
+## Profile
+
+I am a Researcher and Educator interested in a range of topics in Computing Education, Software Engineering, and Accessibility.
+My current research projects focus on (a) teaching how to build accessible software to computing students and professionals and (b) teaching computing to students with disabilities.
+I work first-hand with disabled students, their parents, and teachers through these projects.
+
+I am also involved in organising EMPOWER, India's leading conference on Assistive Technology, and Entrepreneurship and Incubation workshops focussing on Assistive Technology.
+
+Students with disabilities form less than 1% of university students in India, which does not reflect their population. We must develop awareness, attitudes, and procedures to enable disabled students to have a college education in various fields and researchers to work on problems relevant to people with disabilities.
+
 ## Employment
 
 ### Birla Institute of Technology and Science (BITS) Pilani, KK Birla Goa Campus · Goa India
@@ -43,6 +53,12 @@ web: swaroopjoshi.in
 
 ## Select Publications
 
+P. D. Parthasarathy and **S. Joshi**, 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In: ACM/IEEE 46th International Conference on Software Engineering (ICSE 2024)--Software Engineering Education and Training (SEET) Track, Apr 2024, Lisbon Portugal. *(Accepted)*
+
+P. D. Parthasarathy and **S. Joshi**, 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In: ACM/IEEE 46th International Conference on Software Engineering (ICSE 2024)--Software Engineering Education and Training (SEET) Track, Apr 2024, Lisbon Portugal. *(Accepted)*
+
+P. D. Parthasarathy and **S. Joshi**, 2023. *Serious Games for Enhancing Accessibility Awareness and Skills*. In: Proceedings of the ACM Conference on Global Computing Education Vol 2, Hyderabad, India.
+
 J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages.
 
 D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA.
@@ -59,29 +75,29 @@ N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation an
 
 N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Learning in Software Engineering Courses*. In: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering (ICSE'15). Institute of Electrical & Electronics Engineers, Italy, 2015.
 
-\newpage
+<!-- \newpage -->
 
-## Awards and Honors
+## Sponsored Research Projects
 
-### Accessible Science Labs for visually impaired school children, INR 2,00,000, Apr-Nov 2023
+### Accessible Science Labs for visually impaired school children
 
-- Vision Empower Trust
+- Vision Empower Trust, Apr--Nov 2023
 
-### Human-Centered Future Computing, INR 2,975,000, 2021--23
+### Human-Centered Future Computing
 
-- Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`)
+- Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`), Dec 2021--Dec 2023
 
-### A git and docker based toolchain for introductory programming courses, INR 145,000, 2021--22
+### A git and docker based toolchain for introductory programming courses
 
-- Teaching Learning Center, BITS Pilani
+- Teaching Learning Center, BITS Pilani, Oct 2021--Mar 2022
 
-### Sugamyata: Accessibility in Computing Education, INR 200,000, 2021--23
+### Sugamyata: Accessibility in Computing Education
 
-- Research Initiation Grant, BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`)
+- Research Initiation Grant, BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`), Apr 2021--Apr 2023
 
-### Lecturer Teaching Development Grant, Spring 2017
+<!-- ### Lecturer Teaching Development Grant, Spring 2017
 
-- University Center for Advancement in Teaching, The Ohio State University
+- University Center for Advancement in Teaching, The Ohio State University -->
 
 ## Select Invited Talks
 
@@ -94,7 +110,7 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 - Indo-Universal Collaboration for Engineering Education, a 10-week web course
   for 50 CS faculty from various engineering colleges in India -->
 
-## Service
+<!-- ## Service
 
 ### Associate Editor
 
@@ -104,9 +120,9 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 
 - [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
-- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
+- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index) -->
 
-### Conference Program Committee
+<!-- ### Conference Program Committee
 
 - (Senior PC Member) ACM [CompEd](https://comped.acm.org): 2023
 - (Senior PC Member) ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
@@ -121,7 +137,7 @@ N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Lea
 - Mobile App Development
 - Compiler Construction and Optimization
 - Programming Languages
-- CS1/CS2
+- CS1/CS2 -->
 
 <!-- ## Professional Memberships
 
