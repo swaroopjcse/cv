@@ -255,7 +255,7 @@ Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
 
 ### Computer Science & Information Systems, BITS Pilani, Goa
 
-- CSF111 Computer Programming (Instructor in-charge: Sp'22, Sp'23)
+- CSF111 Computer Programming (Instructor in-charge: Sp'22, Sp'23; Instructor: Sp'24)
 - CSF314 Software Development for Portable Devices (Instructor in-charge: Fa'21, Fa'22, Fa'23)
 - ISF341: Software Design (Instructor in-charge; coordinated with PJAIT: Fa'23)
 - CSF213 Object Oriented Programming (Instructor: Fa'21, Fa'22, Fa'23)
