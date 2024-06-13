@@ -120,6 +120,12 @@ Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
 
 ## Awards and Honors
 
+### Using AI in ASUS Education
+
+- Role: PI
+- Agency: National Commission for Indian System of Medicine (NCISM)
+- Budget: INR 6,21,500 | Duration: Mar--Jul, 2024
+
 ### Accessible Science Labs for visually impaired school children
 
 - Role: PI
