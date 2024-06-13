@@ -7,7 +7,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 jobtitle: 
-keywords: R Markdown, academic CV, template
+keywords: Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
 phone: +91 832 2580-864
@@ -130,7 +130,7 @@ Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
 
 - Role: PI
 - Agency: Vision Empower Trust
-- Budget: INR 2 L | Duration: Apr-Nov, 2023
+- Budget: INR 2 L | Duration: Apr--Nov, 2023
 
 ### Human-Centered Future Computing (`GOA/ACG/2021-2022/Nov/05`)
 
