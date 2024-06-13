@@ -57,9 +57,15 @@ O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. S
 
 ### Peer Reviewed Conferences
 
-P. D. Parthasarathy and **S. Joshi**. 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In: the International Conference on Software Engineering (ICSE'24)--Software Engineering Education and Training Track, April 2024 (*Accepted*; **Core A***; Preprint: <http://arxiv.org/abs/2401.00451>).
+P D Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA.
 
-P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice Framework: An Experience Report*. In: the International Conference on Software Engineering (ICSE'24)--Software Engineering Education and Training Track, April 2024 (*Accepted*; **Core A***; Preprint: <https://arxiv.org/abs/2401.00449>).
+P. D. Parthasarathy, I. Kapoor, **S. Joshi**, S. Thomas. 2024. *Influence of Personality Traits on Plagiarism Through Collusion in Programming Assignments*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA.
+
+P. D. Parthasarathy, L. Ganesh, Indra R, S. Spruha, **S. Joshi**. 2024. *Digital Conscience: Investigating the State of Ethics in CS Curricula in India*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA.
+
+P. D. Parthasarathy and **S. Joshi**. 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). Association for Computing Machinery, New York, NY, USA, 212–220.
+
+P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). Association for Computing Machinery, New York, NY, USA, 191–200.
 
 P. D. Parthasarathy and **S. Joshi**. 2023. *Serious Games for Enhancing Accessibility Awareness and Skills*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 199.
 
