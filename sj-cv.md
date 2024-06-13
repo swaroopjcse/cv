@@ -230,8 +230,9 @@ Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In:
 - Member, Departmental Committee on Academics (DCA): Oct. 2023--Jun. 2024
 
 - Doctoral Advisory Committee
-  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--present
+  - Aishwarya Parab, CSIS (Supervisor: Dr. Arnab Paul, Co-supervisor: Dr. Kunal Korgaonkar), Title: *A Scalable and Upgradable Framework for Decentralized Applications Leveraging Smart Contracts in Blockchain*: Apr 2024--present
   - Saumya Mathkar, CSIS (Supervisor: Dr. Vinayak Naik), Title: *A Scalable Cloud and Edge-based Framework to Ease The Deployment of IoT-based Applications*: Aug 2023--present
+  - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--(Discontinued)
 
 - Guest speakers hosted
   - Dr. Dominique Blouin, Telecom Paris, France, *An Introduction to Model-Based Systems Engineering and Multi-Paradigm Modeling for the Development of Complex Cyber-Physical Systems*: November 2023
