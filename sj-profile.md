@@ -7,7 +7,7 @@ fontfamilyoptions: sc, osf
 fontsize: 11pt
 geometry: margin=1in
 jobtitle: 
-keywords: R Markdown, academic CV, template
+keywords: Markdown, academic CV, template
 linkcolor: blue
 fontawesome: yes
 phone: +91 832 2580-864
@@ -16,16 +16,6 @@ updated:
 urlcolor: black
 web: swaroopjoshi.in
 ---
-
-## Profile
-
-I am a Researcher and Educator interested in a range of topics in Computing Education, Software Engineering, and Accessibility.
-My current research projects focus on (a) teaching how to build accessible software to computing students and professionals and (b) teaching computing to students with disabilities.
-I work first-hand with disabled students, their parents, and teachers through these projects.
-
-I am also involved in organising EMPOWER, India's leading conference on Assistive Technology, and Entrepreneurship and Incubation workshops focussing on Assistive Technology.
-
-Students with disabilities form less than 1% of university students in India, which does not reflect their population. We must develop awareness, attitudes, and procedures to enable disabled students to have a college education in various fields and researchers to work on problems relevant to people with disabilities.
 
 ## Employment
 
@@ -43,103 +33,57 @@ Students with disabilities form less than 1% of university students in India, wh
 
 ## Education
 
-*The Ohio State University*, Ph.D. in Computer Science & Engineering \hfill 2017
-
-*The Ohio State University*, M.S. in Computer Science & Engineering \hfill 2016
-
-*Indian Institute of Technology Bombay*, M.Tech. in Computer Science & Engineering \hfill 2010
-
-*National Institute of Technology Karnataka, Surathkal*, B.E. in Computer Engineering \hfill 2005
+- *The Ohio State University*, Ph.D. in Computer Science & Engineering \hfill 2017
+- *The Ohio State University*, M.S. in Computer Science & Engineering \hfill 2016
+- *Indian Institute of Technology Bombay*, M.Tech. in Computer Science & Engineering \hfill 2010
+- *National Institute of Technology Karnataka, Surathkal*, B.E. in Computer Engineering \hfill 2005
 
 ## Select Publications
 
-P. D. Parthasarathy and **S. Joshi**, 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In: ACM/IEEE 46th International Conference on Software Engineering (ICSE 2024)--Software Engineering Education and Training (SEET) Track, Apr 2024, Lisbon Portugal. *(Accepted)*
+1. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER'24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. (**Core A**; Accepted.)
+2. P. D. Parthasarathy and **S. Joshi**. 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET'24). April 14--20, 2024. Lisbon, Portugal. (**Core A\*** parallel track)
+3. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). April 17--20, 2024. Lisbon, Portugal. (**Core A\*** parallel track)
+4. D. J Bouvier, E. Lovellette, E. A. Santos, B. A. Becker, T. Crick, V. G. Dasigi, J. Forden, O. Glebova, **S. Joshi**, S. Kurkovsky, and S. Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Dec. 7--9, 2023. Hyderabad, India.
+5. J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. (**Core A**)
 
-P. D. Parthasarathy and **S. Joshi**, 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In: ACM/IEEE 46th International Conference on Software Engineering (ICSE 2024)--Software Engineering Education and Training (SEET) Track, Apr 2024, Lisbon Portugal. *(Accepted)*
+\newpage
 
-P. D. Parthasarathy and **S. Joshi**, 2023. *Serious Games for Enhancing Accessibility Awareness and Skills*. In: Proceedings of the ACM Conference on Global Computing Education Vol 2, Hyderabad, India.
+## Select Sponsored Projects
 
-J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages.
+### Using AI in ASUS Education
 
-D. Nagpal, J. S. Bhatia, D. Goel, Parthasarathy P D, S. Tiwari, and **S. Joshi**. *Inclusive Thinking Questionnaire: Preliminary Results*. In: Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2 (SIGCSE 2022), Mar. 2022, Providence, RI, USA.
-
-**S. Joshi**. *Teaching Accessibility in India: A Work in Progress*. In:
-Proceedings of the 17th ACM Conference on International Computing Education
-Research (ICER'21), Virtual Event, USA, 2021.
-
-N. Soundarajan and **S. Joshi**. *Innovative Approach to Online Argumentation and Models for Structuring the Arguments*. In: 2018 IEEE Frontiers in Education Conference (FIE'18). San Jose, USA, 2018.
-
-**S. Joshi** and N. Soundarajan. *Using Anonymity and Rounds-Based Structure for Effective Online Discussions in STEM Courses*. In: 124th ASEE Annual Conference & Exposition Proceedings. American Society for Engineering Education (ASEE'17), 2017.
-
-**S. Joshi** and N. Soundarajan. *Enabling Deep Conceptual Learning in Computing Courses through Conflict-based Collaborative Learning*. In: 2016 IEEE Frontiers in Education Conference (FIE'16). Erie, USA, 2016.
-
-N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Learning in Software Engineering Courses*. In: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering (ICSE'15). Institute of Electrical & Electronics Engineers, Italy, 2015.
-
-<!-- \newpage -->
-
-## Sponsored Research Projects
+- Role: PI
+- Agency: National Commission for Indian System of Medicine (NCISM) | Budget: INR 6,21,500
 
 ### Accessible Science Labs for visually impaired school children
 
-- Vision Empower Trust, Apr--Nov 2023
+- Role: PI
+- Agency: Vision Empower Trust | Budget: INR 2 L
 
-### Human-Centered Future Computing
+## Service
 
-- Sponsored Research and Consultancy Division, BITS Pilani (No. `GOA/ACG/2021-2022/Nov/05`), Dec 2021--Dec 2023
+### Senior Program Committee Member
 
-### A git and docker based toolchain for introductory programming courses
+- ACM SIGCSE Technical Symposium: [2024](https://www.sigcse2024.org)
+- ACM [CompEd](https://comped.acm.org): 2023
+- ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
 
-- Teaching Learning Center, BITS Pilani, Oct 2021--Mar 2022
+### Government bodies
 
-### Sugamyata: Accessibility in Computing Education
-
-- Research Initiation Grant, BITS Pilani (No. `BPGC/RIG/2020-21/04-2021/02`), Apr 2021--Apr 2023
-
-<!-- ### Lecturer Teaching Development Grant, Spring 2017
-
-- University Center for Advancement in Teaching, The Ohio State University -->
-
-## Select Invited Talks
-
-<!-- - "Android App Development Workshop" at Young Entrepreneurs' Bootcamp at BITS Pilani, Mar. 2023 -->
-- "Integrating Accessibility Topics in Computing Education" at IDP Education Technology @ IIT Bombay, Mar. 2023
-- "CPS in Computing Education: Current Trends" at Current Trends in Cyber-Physical Systems (CTiCPS) Woskshop, Online, Oct. 2020
-
-<!-- ### Effectively Teaching a Principles of Programming Languages Course, 2019
-
-- Indo-Universal Collaboration for Engineering Education, a 10-week web course
-  for 50 CS faculty from various engineering colleges in India -->
-
-<!-- ## Service
-
-### Associate Editor
-
-- [Journal of Engineering Education Transformations](http://www.journaleet.in): 2018--2022
-
-### Journal Reviewer
-
-- [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
-- [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
-- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index) -->
-
-<!-- ### Conference Program Committee
-
-- (Senior PC Member) ACM [CompEd](https://comped.acm.org): 2023
-- (Senior PC Member) ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
-- ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
-- [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
-- ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
-- IEEE Frontiers in Education (FIE): 2018, 2017, 2016
-- IEEE Teaching, Assessment and Learning for Engineering (TALE): 2018
+- *Member*, *Governing Council*, Goa State Research Foundation, June 2023--present
 
 ## Teaching Areas
 
 - Mobile App Development
 - Compiler Construction and Optimization
-- Programming Languages
-- CS1/CS2 -->
+- CS1/CS2
 
-<!-- ## Professional Memberships
+## Professional Memberships
 
-- Institute of Electrical and Electronics Engineers (IEEE): Education Society and Computer Society
-- Association for Computing Machinery (ACM): SIGCSE, SIGACCESS, SIGSOFT -->
+- Institute of Electrical and Electronics Engineers (IEEE)
+  - Education Society
+  - Computer Society
+- Association for Computing Machinery (ACM)
+  - Special Interest Group on Computer Science Education (SIGCSE)
+  - Special Interest Group on Accessible Computing (SIGACCESS)
+  - Special Interest Group on Software Engineering (SIGSOFT)
