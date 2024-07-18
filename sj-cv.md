@@ -88,6 +88,13 @@ web: swaroopjoshi.in
 
 ## Awards and Honors
 
+### Tangible Blocks for Teaching Computational Thinking to Children with Disabilities
+
+- Role: PI (Other PI: Prof. Basavadatta Mitra, Humanities and Social Sci., BITS Goa)
+- Agency: GCIR BITS Pilani (Cross Disciplinary Research Funding)
+- Budget: INR 20,00,000
+- Duration: Jul 2024--Jul 2026
+
 ### Using AI in ASUS Education
 
 - Role: PI
@@ -242,7 +249,7 @@ web: swaroopjoshi.in
 ### Computer Science & Information Systems, BITS Pilani, Goa
 
 - CSF111 Computer Programming (Instructor in-charge: Sp'22, Sp'23; Instructor: Sp'24)
-- CSF314 Software Development for Portable Devices (Instructor in-charge: Fa'21, Fa'22, Fa'23)
+- CSF314 Software Development for Portable Devices (Instructor in-charge: Fa'21, Fa'22, Fa'23, Fa'24)
 - ISF341: Software Design (Instructor in-charge; coordinated with PJAIT: Fa'23)
 - CSF213 Object Oriented Programming (Instructor: Fa'21, Fa'22, Fa'23)
 - CSF363 Compiler Construction (Instructor: Sp'21)
