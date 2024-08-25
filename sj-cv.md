@@ -207,7 +207,7 @@ web: swaroopjoshi.in
 
 ### BITS Pilani
 
-- Member, Departmental Committee on Academics (DCA): Oct. 2023--Jun. 2024
+- Member, Departmental Committee on Academics (DCA): Oct. 2023--present
 
 - Doctoral Advisory Committee
   - Aishwarya Parab, CSIS (Supervisor: Dr. Arnab Paul, Co-supervisor: Dr. Kunal Korgaonkar), Title: *A Scalable and Upgradable Framework for Decentralized Applications Leveraging Smart Contracts in Blockchain*: Apr 2024--present
