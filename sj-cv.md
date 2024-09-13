@@ -219,6 +219,7 @@ web: swaroopjoshi.in
   - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--(Discontinued)
 
 - Guest speakers hosted
+  - Dr. M. Balakrishnan, IIT Delhi, *Assistive Technology: Mobility and Education of Visually Impaired*: January 2024
   - Dr. Dominique Blouin, Telecom Paris, France, *An Introduction to Model-Based Systems Engineering and Multi-Paradigm Modeling for the Development of Complex Cyber-Physical Systems*: November 2023
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
