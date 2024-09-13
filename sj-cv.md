@@ -188,12 +188,13 @@ web: swaroopjoshi.in
 
 ### Senior Program Committee Member
 
-- ACM SIGCSE Technical Symposium: [2024](https://www.sigcse2024.org)
+- ACM SIGCSE Technical Symposium: [2024](https://www.sigcse2024.org), [2025](https://sigcse2025.sigcse.org)
 - ACM [CompEd](https://comped.acm.org): 2023
 - ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
 
 ### Conference Program Committee Member
 
+- ACM India Compute: [2024](https://compute2024.netlify.app)
 - ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
 - [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
 - ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
