@@ -54,9 +54,9 @@ web: swaroopjoshi.in
 
 ### Peer Reviewed Conferences
 
-1. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA. (**Core A**; Accepted.)
-2. P. D. Parthasarathy, I. Kapoor, **S. Joshi**, S. Thomas. 2024. *Influence of Personality Traits on Plagiarism Through Collusion in Programming Assignments*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA. (**Core A**; Accepted.)
-3. P. D. Parthasarathy, L. Ganesh, Indra R, S. Spruha, **S. Joshi**. 2024. *Digital Conscience: Investigating the State of Ethics in CS Curricula in India*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA. (**Core A**; Accepted.)
+1. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA.
+2. P. D. Parthasarathy, I. Kapoor, **S. Joshi**, S. Thomas. 2024. *Influence of Personality Traits on Plagiarism Through Collusion in Programming Assignments*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA.
+3. P. D. Parthasarathy, L. Ganesh, Indra R, S. Spruha, **S. Joshi**. 2024. *Digital Conscience: Investigating the State of Ethics in CS Curricula in India*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA.
 4. P. D. Parthasarathy and **S. Joshi**. 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). Association for Computing Machinery, New York, NY, USA, 212–220.
 5. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). Association for Computing Machinery, New York, NY, USA, 191–200.
 6. P. D. Parthasarathy and **S. Joshi**. 2023. *Serious Games for Enhancing Accessibility Awareness and Skills*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 199.
@@ -87,6 +87,10 @@ web: swaroopjoshi.in
 2. S. Bandyopadhyay and **S. Joshi**. *A Report on the Second International Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In: 14th Innovations in Software Engineering Conference (ISEC 2021). Association for Computing Machinery (ACM), 2021.
 
 ## Awards and Honors
+
+### Teaching Excellence Award, BITS Pilani, KK Birla Goa Campus
+
+- Sep. 2024
 
 ### Tangible Blocks for Teaching Computational Thinking to Children with Disabilities
 
@@ -184,12 +188,13 @@ web: swaroopjoshi.in
 
 ### Senior Program Committee Member
 
-- ACM SIGCSE Technical Symposium: [2024](https://www.sigcse2024.org)
+- ACM SIGCSE Technical Symposium: [2024](https://www.sigcse2024.org), [2025](https://sigcse2025.sigcse.org)
 - ACM [CompEd](https://comped.acm.org): 2023
 - ACM India [Compute](https://event.india.acm.org/compute/home/): 2023
 
 ### Conference Program Committee Member
 
+- ACM India Compute: [2024](https://compute2024.netlify.app)
 - ACM SIGCSE Technical Symposium: 2023, 2022, 2021, 2019, 2018
 - [Research in Engineering Education Symposium (REES)](https://rees-aaee21.org): 2021
 - ASEE Annual Conference & Exposition: 2021, 2019, 2018, 2017, 2016
@@ -207,7 +212,7 @@ web: swaroopjoshi.in
 
 ### BITS Pilani
 
-- Member, Departmental Committee on Academics (DCA): Oct. 2023--Jun. 2024
+- Member, Departmental Committee on Academics (DCA): Oct. 2023--present
 
 - Doctoral Advisory Committee
   - Aishwarya Parab, CSIS (Supervisor: Dr. Arnab Paul, Co-supervisor: Dr. Kunal Korgaonkar), Title: *A Scalable and Upgradable Framework for Decentralized Applications Leveraging Smart Contracts in Blockchain*: Apr 2024--present
@@ -215,16 +220,17 @@ web: swaroopjoshi.in
   - Nitish Yadav, CSIS (Supervisor: Dr. Rajesh Kumar), Title: *Periculo-Procuratio: Analytical tools and techniques for integrated safety-security risk analysis*: May 2023--(Discontinued)
 
 - Guest speakers hosted
+  - Dr. M. Balakrishnan, IIT Delhi, *Assistive Technology: Mobility and Education of Visually Impaired*: January 2024
   - Dr. Dominique Blouin, Telecom Paris, France, *An Introduction to Model-Based Systems Engineering and Multi-Paradigm Modeling for the Development of Complex Cyber-Physical Systems*: November 2023
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
-  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
-- Department Level Selection Committee
-  - CSIS Faculty hiring: 2022
+  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: October 2022
+<!-- - Department Level Selection Committee
+  - CSIS Faculty hiring: 2022 -->
 
 - Non-Teaching staff hiring committees (Campus/Institute)
-  - Graphics & UX/UI Designer (Marketing), Nov.--Dec. 2023
-  - Technician (CS & IS), Mar. 2023
+  - Graphics & UX/UI Designer (Marketing), December 2023
+  - Technician (CS & IS), March 2023
 
 - Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
 - Practice School I: 2021, 2022
