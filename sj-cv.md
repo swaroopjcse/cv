@@ -223,8 +223,8 @@ web: swaroopjoshi.in
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
   - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
-- Department Level Selection Committee
-  - CSIS Faculty hiring: 2022
+<!-- - Department Level Selection Committee
+  - CSIS Faculty hiring: 2022 -->
 
 - Non-Teaching staff hiring committees (Campus/Institute)
   - Graphics & UX/UI Designer (Marketing), Nov.--Dec. 2023
