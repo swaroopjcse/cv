@@ -224,13 +224,13 @@ web: swaroopjoshi.in
   - Dr. Dominique Blouin, Telecom Paris, France, *An Introduction to Model-Based Systems Engineering and Multi-Paradigm Modeling for the Development of Complex Cyber-Physical Systems*: November 2023
   - Dr. Viraj Kumar, IISc, *Should Programming Pedagogy and Assessment Change in Response to Advances in Generative AI?*: April 2023
   - Dr. Santosh Nagarakatte, Rutgers University, *A Case for Correctly Rounded Math Libraries*: March 2023
-  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: Oct. 2022
+  - Mr. Prasad Ranganekar, Former Advisor, Tata Aerospace Systems Ltd., *India @ 75: Dr. Kalam’s vision*: October 2022
 <!-- - Department Level Selection Committee
   - CSIS Faculty hiring: 2022 -->
 
 - Non-Teaching staff hiring committees (Campus/Institute)
-  - Graphics & UX/UI Designer (Marketing), Nov.--Dec. 2023
-  - Technician (CS & IS), Mar. 2023
+  - Graphics & UX/UI Designer (Marketing), December 2023
+  - Technician (CS & IS), March 2023
 
 - Ph.D. admissions interview panel: Feb. 2021, Aug. 2021, Jan. 2022, Dec. 2022
 - Practice School I: 2021, 2022
