@@ -88,6 +88,10 @@ web: swaroopjoshi.in
 
 ## Awards and Honors
 
+### Teaching Excellence Award, BITS Pilani, KK Birla Goa Campus
+
+- Sep. 2024
+
 ### Tangible Blocks for Teaching Computational Thinking to Children with Disabilities
 
 - Role: PI (Other PI: Prof. Basavadatta Mitra, Humanities and Social Sci., BITS Goa)
