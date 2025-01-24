@@ -88,11 +88,13 @@ web: swaroopjoshi.in
 1. D. J Bouvier, E. Lovellette, E. A. Santos, B. A. Becker, T. Crick, V. G. Dasigi, J. Forden, O. Glebova, **S. Joshi**, S. Kurkovsky, and S. Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 207--208.
 2. S. Bandyopadhyay and **S. Joshi**. *A Report on the Second International Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In: 14th Innovations in Software Engineering Conference (ISEC 2021). Association for Computing Machinery (ACM), 2021.
 
-## Awards and Honors
+## Funded Projects
 
-### Teaching Excellence Award, BITS Pilani, KK Birla Goa Campus
+### Indian Sign Language Collection
 
-- Sep. 2024
+- Role: Co-PI (PI: Prof. Sougata Sen, Other Co-PIs: Prof. Surjya Ghosh, and Prof. Sravan Danda, all from CSIS Dept., BITS Goa; External PI: Prof. Thad Stanner, Georgia Tech University, USA)
+- Agency: Google Inc.
+- Budget: USD 30,000 (approx. INR 24,00,000)
 
 ### Tangible Blocks for Teaching Computational Thinking to Children with Disabilities
 
@@ -138,13 +140,13 @@ web: swaroopjoshi.in
 - Budget: INR 2 L
 - Duration: Apr. 2021--Apr. 2023
 
-### Lecturer Teaching Development Grant, Spring 2017
+## Awards and Honors
 
-- University Center for Advancement in Teaching, The Ohio State University
+- Teaching Excellence Award, BITS Pilani, KK Birla Goa Campus, Sep. 2024
 
-### Best Student Paper Award, 2016
+- Lecturer Teaching Development Grant, University Center for Advancement in Teaching, The Ohio State University, Spring 2017
 
-- American Society for Engineering Education, North Central Section
+- Best Student Paper Award, American Society for Engineering Education, North Central Section, Spring 2016
 
 ## Invited Talks
 
