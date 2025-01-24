@@ -88,8 +88,8 @@ web: swaroopjoshi.in
 - [IEEE Transactions on Education](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13)
 - [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
 - [Journal of Engineering Education Transformations](http://www.journaleet.in)
-<!-- - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed) -->
-<!-- - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index) -->
+- [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
+- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
 ### Conference Leadership
 
@@ -105,6 +105,10 @@ web: swaroopjoshi.in
 
 - *Member*, *Governing Council*, Goa State Research Foundation, June 2023--present
 
+### BITS Pilani
+
+- Faculty In-Charge, Computer Center Unit (FIC-CCU): Jan. 2025--Dec. 2026
+
 <!-- ## Teaching Areas
 
 - Mobile App Development
@@ -113,10 +117,5 @@ web: swaroopjoshi.in
 
 ## Professional Memberships
 
-- Institute of Electrical and Electronics Engineers (IEEE)
-  - Education Society
-  - Computer Society
-- Association for Computing Machinery (ACM)
-  - Special Interest Group on Computer Science Education (SIGCSE)
-  - Special Interest Group on Accessible Computing (SIGACCESS)
-  - Special Interest Group on Software Engineering (SIGSOFT)
+- Institute of Electrical and Electronics Engineers (IEEE): Education Society, Computer Society
+- Association for Computing Machinery (ACM): SIGCSE, SIGACCESS, SIGSOFT
