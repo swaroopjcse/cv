@@ -197,7 +197,7 @@ web: swaroopjoshi.in
 
 ### Conference Leadership
 
-- ACM India Compute 2025: Co-Program Chair
+- *Co-Program Chair*: ACM India Compute 2025
 
 ### Senior Program Committee Member
 
@@ -214,16 +214,14 @@ web: swaroopjoshi.in
 - IEEE Frontiers in Education (FIE): 2018, 2017, 2016
 - IEEE Teaching, Assessment and Learning for Engineering (TALE): 2018
 - [Midwest Instruction and Computing Symposium](http://www.micsymposium.org/mics2020/) (MICS): 2020.
-  
-### Conference or workshop organizer
-
-- *Co-organizer*, Software Engineering for Artificial Intelligence (workshop), ACM 14th Innovations in Software Engineering Conference, online, Feb. 2021
 
 ### Leadership
 
 - *Secretary-Treasurer*, ASEE Computers in Education Division, 2018--2020
 
 ### BITS Pilani
+
+- Faculty In-Charge, Computer Center Unit (FIC-CCU): Jan. 2025--Dec. 2026
 
 - Member, Departmental Committee on Academics (DCA): Oct. 2023--present
 
