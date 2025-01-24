@@ -38,14 +38,14 @@ web: swaroopjoshi.in
 - *Indian Institute of Technology Bombay*, M.Tech. in Computer Science & Engineering \hfill 2010
 - *National Institute of Technology Karnataka, Surathkal*, B.E. in Computer Engineering \hfill 2005
 
-## Recent Publications
+## Select Publications
 
-1. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER'24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. (**Core A**; Accepted.)
-2. P. D. Parthasarathy, I. Kapoor, **S. Joshi**, S. Thomas. 2024. *Influence of Personality Traits on Plagiarism Through Collusion in Programming Assignments*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13–15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA. (**Core A**; Accepted.)
+1. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER'24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. (**Core A**)
+2. P. D. Parthasarathy, I. Kapoor, **S. Joshi**, S. Thomas. 2024. *Influence of Personality Traits on Plagiarism Through Collusion in Programming Assignments*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA. (**Core A**)
 3. P. D. Parthasarathy and **S. Joshi**. 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET'24). April 14--20, 2024. Lisbon, Portugal. (**Core A\*** parallel track)
 4. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). April 17--20, 2024. Lisbon, Portugal. (**Core A\*** parallel track)
 5. D. J Bouvier, E. Lovellette, E. A. Santos, B. A. Becker, T. Crick, V. G. Dasigi, J. Forden, O. Glebova, **S. Joshi**, S. Kurkovsky, and S. Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Dec. 7--9, 2023. Hyderabad, India.
-6. J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15–18, 2023, Toronto, ON, Canada. (**Core A**)
+6. J. S. Bhatia, Parthasarathy P D, S. Tiwari, D. Nagpal, and **S. Joshi**. 2023. *Integrating Accessibility in a Mobile App Development Course*. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023), March 15--18, 2023, Toronto, ON, Canada. (**Core A**)
 
 \newpage
 
