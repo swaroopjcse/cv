@@ -82,13 +82,18 @@ web: swaroopjoshi.in
 
 - Associate Editor, [Journal of Engineering Education Transformations](http://www.journaleet.org), 2018--2022
 
-### Journal Reviewer
+### Journal Reviewer (Select List)
 
+- [IEEE Transactions on Learning Technologies](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4620076)
 - [IEEE Transactions on Education](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=13)
 - [Frontiers in Computer Science](https://www.frontiersin.org/journals/computer-science)
 - [Journal of Engineering Education Transformations](http://www.journaleet.in)
-- [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
-- [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
+<!-- - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed) -->
+<!-- - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index) -->
+
+### Conference Leadership
+
+- ACM India Compute 2025: Co-Program Chair
 
 ### Senior Program Committee Member
 
