@@ -150,6 +150,10 @@ web: swaroopjoshi.in
 
 ## Invited Talks
 
+### Life Abroad @ Goa College of Engineering: Jan. 10, 2025
+
+- Sharing my experiences of the educational and professional life abroad with first-year engineering students as part of their orientation program
+
 ### Android App Development Workshop @ YEB 2023: Mar. 29, 2023
 
 - Mobile app development workshop for the participants of the [Young Enterpreneurs' Bootcamp](https://www.bits-yeb.com/) at BITS Pilani Goa. The highschool students developed a simple dice game Cho Han.
