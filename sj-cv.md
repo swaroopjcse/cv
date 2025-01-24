@@ -88,7 +88,7 @@ web: swaroopjoshi.in
 1. D. J Bouvier, E. Lovellette, E. A. Santos, B. A. Becker, T. Crick, V. G. Dasigi, J. Forden, O. Glebova, **S. Joshi**, S. Kurkovsky, and S. Russell. 2023. *Teaching Students To Use Programming Error Messages*. In Proceedings of the ACM Conference on Global Computing Education Vol 2 (CompEd 2023). Association for Computing Machinery, New York, NY, USA, 207--208.
 2. S. Bandyopadhyay and **S. Joshi**. *A Report on the Second International Workshop on Software Engineering for Artificial Intelligence (SE4AI 2021)*. In: 14th Innovations in Software Engineering Conference (ISEC 2021). Association for Computing Machinery (ACM), 2021.
 
-## Funded Projects
+## Sponsored Projects
 
 ### Indian Sign Language Collection
 
