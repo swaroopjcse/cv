@@ -51,26 +51,30 @@ web: swaroopjoshi.in
 
 ## Select Sponsored Projects
 
+### Indian Sign Language Collection
+
+- Role: Co-PI (PI: Prof. Sougata Sen, Co-PIs: Profs. Surjya Ghosh and Sravan Danda, all CSIS, BITS Goa; External PI: Prof. Thad Stanner, Georgia Tech University, USA)
+- Agency: Google Inc. | Budget: USD 30,000 (approx. INR 24,00,000)
+
 ### Tangible Blocks for Teaching Computational Thinking to Children with Disabilities
 
 - Role: PI (Other PI: Prof. Basavadatta Mitra, Humanities and Social Sci., BITS Goa)
-- Agency: GCIR BITS Pilani (Cross Disciplinary Research Funding) | Budget: INR 2,000,000
+- Agency: GCIR BITS Pilani (Cross Disciplinary Research Funding) | Budget: INR 20,00,000
 
 ### Using AI in ASUS Education
 
 - Role: PI
-- Agency: National Commission for Indian System of Medicine | Budget: INR 621,500
-
+- Agency: National Commission for Indian System of Medicine | Budget: INR 6,21,500
+<!-- 
 ### Accessible Science Labs For Visually Impaired School Children
 
 - Role: PI
-- Agency: Vision Empower Trust, Bengalore | Budget: INR 200,000
+- Agency: Vision Empower Trust, Bengalore | Budget: INR 200,000 -->
 
 ### Human-Centered Future Computing (`GOA/ACG/2021-2022/Nov/05`)
 
 - Role: PI (Other PIs: Sougata Sen and Sravan Danda, CSIS, BITS Goa)
-- Program: Additional Competitive Research Grant
-- Agency: Sponsored Research and Consultancy Division, BITS Pilani | Budget: INR 2,975,000
+- Agency: SRCD BITS Pilani (Additional Competitive Research Grant) | Budget: INR 29,75,000
 
 ## Service
 
