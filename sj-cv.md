@@ -150,6 +150,10 @@ web: swaroopjoshi.in
 
 ## Invited Talks
 
+### Panel Discussion at Southampton International Symposium on Teaching Accessibility 2025: Jan. 30, 2025
+
+- I presented our work titled 'Using Game-based Learning for Teaching Accessibility' in the context of accessibility in computing education in India.
+
 ### Life Abroad @ Goa College of Engineering: Jan. 10, 2025
 
 - Sharing my experiences of the educational and professional life abroad with first-year engineering students as part of their orientation program
