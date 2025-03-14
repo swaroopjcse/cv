@@ -51,6 +51,11 @@ web: swaroopjoshi.in
 
 ## Select Sponsored Projects
 
+### Serious Games for Teaching Accessibility
+
+- Role: PI
+- Agency: ACM SIGCSE Special Projects Grant | Budget: USD 4,960 (approx. INR 4,31,284)
+
 ### Indian Sign Language Collection
 
 - Role: Co-PI (PI: Prof. Sougata Sen, Co-PIs: Profs. Surjya Ghosh and Sravan Danda, all CSIS, BITS Goa; External PI: Prof. Thad Stanner, Georgia Tech University, USA)
@@ -61,10 +66,10 @@ web: swaroopjoshi.in
 - Role: PI (Other PI: Prof. Basavadatta Mitra, Humanities and Social Sci., BITS Goa)
 - Agency: GCIR BITS Pilani (Cross Disciplinary Research Funding) | Budget: INR 20,00,000
 
-### Using AI in ASUS Education
+<!-- ### Using AI in ASUS Education
 
 - Role: PI
-- Agency: National Commission for Indian System of Medicine | Budget: INR 6,21,500
+- Agency: National Commission for Indian System of Medicine | Budget: INR 6,21,500 -->
 <!-- 
 ### Accessible Science Labs For Visually Impaired School Children
 
