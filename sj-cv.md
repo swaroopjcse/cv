@@ -92,6 +92,13 @@ web: swaroopjoshi.in
 
 ## Sponsored Projects
 
+### Serious Games for Teaching Accessibility
+
+- Role: PI
+- Agency: ACM SIGCSE Special Projects Grant
+- Budget: USD 4,960 (approx. INR 4,31,284)
+- Duration: Apr 2025--Mar 2026
+
 ### Indian Sign Language Collection
 
 - Role: Co-PI (PI: Prof. Sougata Sen, Other Co-PIs: Prof. Surjya Ghosh, and Prof. Sravan Danda, all from CSIS Dept., BITS Goa; External PI: Prof. Thad Stanner, Georgia Tech University, USA)
