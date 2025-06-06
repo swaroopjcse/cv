@@ -93,6 +93,13 @@ web: swaroopjoshi.in
 
 ## Sponsored Projects
 
+### GameSignAI: Using AI to Help Deaf Children Acquire Language Skills
+
+- Role: Co-PI (PI: Prof. Sougata Sen, Other Co-PIs: Prof. Surjya Ghosh, and Prof. Sravan Danda, all from CSIS Dept., BITS Goa; External PI: Prof. Thad Stanner, Georgia Tech University, USA)
+- Agency: Department of Science and Technology (DST), GoI (DST-NSF Joint Call)
+- Budget: INR 88,25,811
+- Duration: June 2025--May 2027
+
 ### Serious Games for Teaching Accessibility
 
 - Role: PI
