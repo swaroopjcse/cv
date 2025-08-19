@@ -111,7 +111,7 @@ web: swaroopjoshi.in
 
 - Role: Co-PI (PI: Prof. Sougata Sen, Other Co-PIs: Prof. Surjya Ghosh, and Prof. Sravan Danda, all from CSIS Dept., BITS Goa; External PI: Prof. Thad Stanner, Georgia Tech University, USA)
 - Agency: Google Inc.
-- Budget: USD 30,000 (approx. INR 24,00,000)
+- Budget: USD 60,000 (Approx. INR 50 L, received as two unrestricted gifts of USD 30K each)
 
 ### Tangible Blocks for Teaching Computational Thinking to Children with Disabilities
 
