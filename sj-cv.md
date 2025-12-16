@@ -222,9 +222,9 @@ web: swaroopjoshi.in
 - [The ASEE Computers in Education (CoED) Journal](http://asee-coed.org/index.php/coed)
 - [SAIEE Africa Research Journal](https://journals.uj.ac.za/index.php/SAIEE/index)
 
-### Conference Leadership
+<!-- ### Conference Leadership
 
-- *Co-Program Chair*: ACM India Compute 2025
+- *Co-Program Chair*: ACM India Compute 2025 -->
 
 ### Senior Program Committee Member
 
