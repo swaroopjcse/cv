@@ -38,7 +38,7 @@ web: swaroopjoshi.in
 - *Indian Institute of Technology Bombay*, M.Tech. in Computer Science & Engineering \hfill 2010
 - *National Institute of Technology Karnataka, Surathkal*, B.E. in Computer Engineering \hfill 2005
 
-## Select Publications
+## Select Publications \hfill (*h-index: 6* | *i10-index: 4*)
 
 1. P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER'24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. (**Core A**)
 2. P. D. Parthasarathy, I. Kapoor, **S. Joshi**, S. Thomas. 2024. *Influence of Personality Traits on Plagiarism Through Collusion in Programming Assignments*. In ACM Conference on International Computing Education Research V.1 (ICER ’24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. ACM, New York, NY, USA. (**Core A**)
