@@ -252,6 +252,8 @@ web: swaroopjoshi.in
 
 - Faculty In-Charge, Computer Center Unit (FIC-CCU): Jan. 2025--Dec. 2026
 
+- Member, Curriculum Revision Committee: Oct. 2025--present
+
 - Member, Departmental Committee on Academics (DCA): Oct. 2023--present
 
 - Doctoral Advisory Committee
