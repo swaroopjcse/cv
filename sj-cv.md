@@ -48,18 +48,18 @@ web: swaroopjoshi.in
 
 ## Publications
 
-### Chapters in Edited Volumes
+### Journals
 
-1. O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. Soundarajan. *Defining a Geogame Genre Using Core Concepts of Games, Play, and Geographic Information and Thinking*. In: Geogames and Geoplay: Game-based Approaches to the Analysis of Geo-Information. Ed. by O. Ahlqvist and C. Schlieder. Springer International Publishing, 2018, pp. 19--35.
+1. P D Parthasarathy and **Swaroop Joshi**. 2025. *Accessibility Education for Software Engineers: Evaluating the Impact of Game-Based Learning*. ACM Trans. Comput. Educ. Just Accepted (December 2025). <https://doi.org/10.1145/3785367>
 
 ### Peer Reviewed Conferences
 
 1. Parthasarathy, P.D., Mittal, A.M., Joshi, S. (2026). *Scaling Accessibility Education: Reflections from a Workshop Targeting CS Educators and Software Professionals*. In: Prasad, P., Raman, A., Shah, B. (eds) Computing Education Research. COMPUTE 2025. Communications in Computer and Information Science, vol 2739. Springer, Cham.
-   <!-- https://doi.org/10.1007/978-3-032-14583-3_12 -->
+   <https://doi.org/10.1007/978-3-032-14583-3_12>
 2. Mittal, A.M., Parthasarathy, P.D., Joshi, S. (2026). *AI Ethics Education in India: A Syllabus-Level Review of Computing Courses*. In: Prasad, P., Raman, A., Shah, B. (eds) Computing Education Research. COMPUTE 2025. Communications in Computer and Information Science, vol 2739. Springer, Cham.
-    <!-- https://doi.org/10.1007/978-3-032-14583-3_6 -->
+    <https://doi.org/10.1007/978-3-032-14583-3_6>
 3. Dennis J. Bouvier, Ellie Lovellette, Eddie Antonio Santos, Brett A. Becker, Venu G. Dasigi, Jack Forden, Olga Glebova, Swaroop Joshi, Stan Kurkovsky, and Seán Russell. 2025. *Error Messages are Here to Help!* In Proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 2 (ITiCSE 2025). Association for Computing Machinery, New York, NY, USA, 721–722.
-   <!-- https://doi.org/10.1145/3724389.3731267 -->
+   <https://doi.org/10.1145/3724389.3731267>
 4. PD Parthasarathy, Rachel F. Adler, Devorah Kletenik, **S. Joshi**, and Anshu M Mittal. 2025. *Skill, Will, or Both? Understanding Digital Inaccessibility from Accessibility Professionals' Viewpoint*. In Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems (CHI EA '25). Association for Computing Machinery, New York, NY, USA, Article 484, 1–9.
 5. W. Aljedaani, P D Parthasarathy, M. M. Eler, and **S. Joshi**. 2025. *Sprint to Inclusion: Embedding Accessibility Sprint in a Software Engineering Course*. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSETS 2025). Association for Computing Machinery, New York, NY, USA, 32--38.
 6. W. Aljedaani, P D Parthasarathy, **S. Joshi**, and M. M. Eler. 2025. *Accessibility Insights from Student's Software Engineering Projects*. In Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSETS 2025). Association for Computing Machinery, New York, NY, USA, 39--45.
@@ -86,6 +86,10 @@ web: swaroopjoshi.in
 27. N. Soundarajan, **S. Joshi**, and R. Ramnath. *Collaborative and Cooperative-Learning in Software Engineering Courses*. In: 2015 IEEE/ACM 37th IEEE International Conference on Software Engineering. Institute of Electrical & Electronics Engineers (IEEE), May 2015.
 28. N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-Progress: Conflict-Driven Cooperative Learning in Engineering Courses*. In: 2015 ASEE Annual Conference and Exposition Proceedings. American Society for Engineering Education, June 2015.
 29. N. Soundarajan, **S. Joshi**, and R. Ramnath. *Work-in-progress: A novel approach to collaborative learning in the flipped classroom*. In: 121st ASEE Annual Conference and Exposition. American Society for Engineering Education, June 2014.
+
+### Chapters in Edited Volumes
+
+1. O. Ahlqvist, **S. Joshi**, R. Benkar, K. Vatev, R. Ramnath, A. Heckler, and N. Soundarajan. *Defining a Geogame Genre Using Core Concepts of Games, Play, and Geographic Information and Thinking*. In: Geogames and Geoplay: Game-based Approaches to the Analysis of Geo-Information. Ed. by O. Ahlqvist and C. Schlieder. Springer International Publishing, 2018, pp. 19--35.
 
 ### Dissertations
 
