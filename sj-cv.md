@@ -50,7 +50,8 @@ web: swaroopjoshi.in
 
 ### Journals
 
-1. P D Parthasarathy and **Swaroop Joshi**. 2025. *Accessibility Education for Software Engineers: Evaluating the Impact of Game-Based Learning*. ACM Trans. Comput. Educ. Just Accepted (December 2025). <https://doi.org/10.1145/3785367>
+1. P. D. Parthasarathy and **Swaroop Joshi**. 2026. *Accessquest: A Game-Based Approach to Digital Accessibility Education*. ACM Trans. Comput. Educ. 26, 4, Article 59 (December 2025), 39 pages. <https://doi.org/10.1145/3802826>
+2. P D Parthasarathy and **Swaroop Joshi**. 2026. *Accessibility Education for Software Engineers: Evaluating the Impact of Game-Based Learning*. ACM Trans. Comput. Educ. 26, 2, Article 25 (June 2026), 47 pages. <https://doi.org/10.1145/3785367>
 
 ### Peer Reviewed Conferences
 

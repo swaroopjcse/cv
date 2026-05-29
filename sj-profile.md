@@ -38,9 +38,10 @@ web: swaroopjoshi.in
 - *Indian Institute of Technology Bombay*, M.Tech. in Computer Science & Engineering \hfill 2010
 - *National Institute of Technology Karnataka, Surathkal*, B.E. in Computer Engineering \hfill 2005
 
-## Select Publications \hfill (*h-index: 6* | *i10-index: 4*)
+## Select Publications \hfill (*h-index: 8* | *i10-index: 7*)
 
-- P D Parthasarathy and **Swaroop Joshi**. 2025. *Accessibility Education for Software Engineers: Evaluating the Impact of Game-Based Learning*. ACM Trans. Comput. Educ. Just Accepted (December 2025). (**SJR: 0.784, IF: 4.787, Quartile: Q1**)
+- P. D. Parthasarathy and **S. Joshi**. 2026. *[Accessquest: A Game-Based Approach to Digital Accessibility Education](https://doi.org/10.1145/3802826)*. ACM Trans. Comput. Educ. 26, 4, Article 59 (December 2025), 39 pages. | **SJR: 0.784, IF: 4.787, Quartile: Q1**
+- P D Parthasarathy and **S. Joshi**. 2026. *[Accessibility Education for Software Engineers: Evaluating the Impact of Game-Based Learning](https://doi.org/10.1145/3785367)*. ACM Trans. Comput. Educ. 26, 2, Article 25 (June 2026), 47 pages. | **SJR: 0.784, IF: 4.787, Quartile: Q1**
 - P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility in Computing Education: Views of Educators in India*. In ACM Conference on International Computing Education Research V.1 (ICER'24 Vol. 1), August 13--15, 2024, Melbourne, VIC, Australia. (**Core A**)
 - P. D. Parthasarathy and **S. Joshi**. 2024. *Exploring the Need of Accessibility Education in the Software Industry: Insights from a Survey of Software Professionals in India*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET'24). April 14--20, 2024. Lisbon, Portugal. (**Core A\*** parallel track)
 - P. D. Parthasarathy and **S. Joshi**. 2024. *Teaching Digital Accessibility to Industry Professionals using the Community of Practice framework: An Experience Report*. In Proceedings of the 46th International Conference on Software Engineering: Software Engineering Education and Training (ICSE-SEET '24). April 17--20, 2024. Lisbon, Portugal. (**Core A\*** parallel track)
